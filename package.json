@@ -25,6 +25,14 @@
     "format": "prettier --write ."
   },
   "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prathinsajith/country-atlas.git"
+  },
+  "bugs": {
+    "url": "https://github.com/prathinsajith/country-atlas/issues"
+  },
+  "homepage": "https://github.com/prathinsajith/country-atlas#readme",
   "author": "Prathin Sajith",
   "license": "ISC",
   "type": "commonjs",
