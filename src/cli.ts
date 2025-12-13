@@ -8,18 +8,18 @@ const param = args.slice(1).join(' ');
 
 function help() {
     console.log(`
-World Country Data CLI v${version}
+Country Atlas CLI v${version}
 
 Usage:
-  wcd lookup <iso-code>    Get full country details (ISO2/3)
-  wcd search <query>       Search countries by name
-  wcd region <continent>   List countries in a specific continent
-  wcd help                 Show this help message
+  atlas lookup <iso-code>    Get full country details (ISO2/3)
+  atlas search <query>       Search countries by name
+  atlas region <continent>   List countries in a specific continent
+  atlas help                 Show this help message
 
 Examples:
-  wcd lookup in
-  wcd search united
-  wcd region asia
+  atlas lookup in
+  atlas search united
+  atlas region asia
 `);
 }
 

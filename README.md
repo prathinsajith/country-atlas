@@ -85,13 +85,13 @@ The package comes with a built-in zero-dependency CLI.
 
 ```bash
 # Lookup country by ISO code
-npx wcd lookup IN
+npx atlas lookup IN
 
 # Search countries by name
-npx wcd search "United States"
+npx atlas search "United States"
 
 # List countries in a region
-npx wcd region Asia
+npx atlas region Asia
 ```
 
 ## 🧩 Data Schema

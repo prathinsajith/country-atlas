@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "bin": {
-    "wcd": "./dist/cli.js"
+    "atlas": "./dist/cli.js"
   },
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",

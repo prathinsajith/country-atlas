@@ -110,25 +110,25 @@ console.log(asianCountries.map(c => c.iso.alpha2));
 Run these directly in your terminal.
 
 ### `lookup`
-**Method:** `npx wcd lookup <code_iso>`
+**Method:** `npx atlas lookup <code_iso>`
 **How to use:**
 ```bash
-npx wcd lookup JP
+npx atlas lookup JP
 ```
 *Displays full JSON data for Japan.*
 
 ### `search`
-**Method:** `npx wcd search <name>`
+**Method:** `npx atlas search <name>`
 **How to use:**
 ```bash
-npx wcd search "United Kingdom"
+npx atlas search "United Kingdom"
 ```
 *Lists all countries matching "United Kingdom".*
 
 ### `region`
-**Method:** `npx wcd region <continent>`
+**Method:** `npx atlas region <continent>`
 **How to use:**
 ```bash
-npx wcd region Europe
+npx atlas region Europe
 ```
 *Lists all countries in Europe.*
