@@ -75,7 +75,6 @@ export function getCountry(
         if (field in country) {
             // eslint-disable-next-line @typescript-eslint/no-explicit-any
             result[field] = country[field] as any;
-
         }
     });
 

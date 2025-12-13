@@ -22,7 +22,6 @@ const NORMALIZED_DIR = path.join(__dirname, '../data/normalized');
 
 // Interfaces for the raw data from mledoze/countries (partial)
 
-
 // ... Additional helper mappings ...
 
 async function normalize() {

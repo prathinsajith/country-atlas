@@ -7,8 +7,6 @@ export { default as oceania } from '../../data/normalized/oceania.json';
 export { default as antarctic } from '../../data/normalized/antarctic.json';
 export { default as countries } from '../../data/normalized/countries.json';
 
-
-
 // Legacy object export (optional, but named is better)
 import asia from '../../data/normalized/asia.json';
 import europe from '../../data/normalized/europe.json';

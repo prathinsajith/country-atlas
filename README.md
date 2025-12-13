@@ -3,7 +3,7 @@
 > **Production-ready, type-safe, and tree-shakable country metadata for modern applications.**
 
 [![NPM Version](https://img.shields.io/npm/v/country-atlas)](https://www.npmjs.com/package/country-atlas)
-[![License](https://img.shields.io/npm/l/country-atlas)](https://github.com/yourusername/country-atlas)
+[![License](https://img.shields.io/npm/l/country-atlas)](https://github.com/prathinsajith/country-atlas)
 [![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue)](https://www.typescriptlang.org/)
 
 A lightweight, zero-dependency Node.js library that provides authoritative data for all countries. Optimized for both backend (validation, enrichment) and frontend (UI components, maps) use.
@@ -150,4 +150,4 @@ npm test
 
 ## 📄 License
 
-MIT © [Your Name]
+MIT © [Prathin Sajith](https://github.com/prathinsajith)
