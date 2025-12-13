@@ -6,6 +6,9 @@ import {
     getCountriesByContinent,
     getAllCountries,
     getCountry,
+    getCountryByCallingCode,
+    getCountriesByCurrency,
+    getCountriesByLanguage,
 } from '../src/api';
 
 describe('API Functions', () => {
@@ -82,6 +85,83 @@ describe('API Functions', () => {
             expect(country?.currency).toBeDefined();
             // eslint-disable-next-line @typescript-eslint/no-explicit-any
             expect((country as any).geo).toBeUndefined();
+        });
+    });
+
+    describe('getCountryByCallingCode', () => {
+        it('should find country by calling code with +', () => {
+            const country = getCountryByCallingCode('+91');
+            expect(country).toBeDefined();
+            expect(country?.iso.alpha2).toBe('IN');
+        });
+
+        it('should find country by calling code without +', () => {
+            const country = getCountryByCallingCode('91');
+            expect(country).toBeDefined();
+            expect(country?.iso.alpha2).toBe('IN');
+        });
+
+        it('should return undefined for invalid calling code', () => {
+            const country = getCountryByCallingCode('+9999');
+            expect(country).toBeUndefined();
+        });
+
+        it('should handle calling codes with mixed formats', () => {
+            const countryWithPlus = getCountryByCallingCode('+44');
+            const countryWithoutPlus = getCountryByCallingCode('44');
+            expect(countryWithPlus?.iso.alpha2).toBe('GB');
+            expect(countryWithoutPlus?.iso.alpha2).toBe('GB');
+        });
+    });
+
+    describe('getCountriesByCurrency', () => {
+        it('should return all countries using EUR', () => {
+            const countries = getCountriesByCurrency('EUR');
+            expect(countries.length).toBeGreaterThan(0);
+            expect(countries.every((c) => c.currency?.code === 'EUR')).toBe(true);
+        });
+
+        it('should return all countries using USD', () => {
+            const countries = getCountriesByCurrency('USD');
+            expect(countries.length).toBeGreaterThan(0);
+            expect(countries.every((c) => c.currency?.code === 'USD')).toBe(true);
+        });
+
+        it('should be case insensitive', () => {
+            const countries = getCountriesByCurrency('usd');
+            expect(countries.length).toBeGreaterThan(0);
+        });
+
+        it('should return empty array for non-existent currency', () => {
+            const countries = getCountriesByCurrency('XXX');
+            expect(countries).toEqual([]);
+        });
+    });
+
+    describe('getCountriesByLanguage', () => {
+        it('should find countries by language (English)', () => {
+            const countries = getCountriesByLanguage('English');
+            expect(countries.length).toBeGreaterThan(0);
+            const us = countries.find((c) => c.iso.alpha2 === 'US');
+            const gb = countries.find((c) => c.iso.alpha2 === 'GB');
+            expect(us || gb).toBeDefined();
+        });
+
+        it('should be case insensitive', () => {
+            const countries = getCountriesByLanguage('english');
+            expect(countries.length).toBeGreaterThan(0);
+        });
+
+        it('should return empty array for non-existent language', () => {
+            const countries = getCountriesByLanguage('FakeLanguage');
+            expect(countries).toEqual([]);
+        });
+
+        it('should find countries by less common languages', () => {
+            const countries = getCountriesByLanguage('Hindi');
+            expect(countries.length).toBeGreaterThan(0);
+            const india = countries.find((c) => c.iso.alpha2 === 'IN');
+            expect(india).toBeDefined();
         });
     });
 });

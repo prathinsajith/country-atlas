@@ -1,0 +1,55 @@
+# Development files
+src/
+tests/
+scripts/
+examples/
+
+# Config files
+tsconfig.json
+tsup.config.ts
+eslint.config.mjs
+.prettierrc
+vitest.config.ts
+
+# Documentation (keep only README)
+DEVELOPER.md
+PUBLISHING.md
+SECURITY_AUDIT.md
+API_REFERENCE.md
+
+# Data source files (not needed in published package)
+data/raw/
+data/flags/raw/
+
+# Git
+.git/
+.gitignore
+.gitattributes
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npm/
+.yarn/
+
+# Test coverage
+coverage/
+.nyc_output/
+
+# Temp files
+*.log
+.env
+.env.local

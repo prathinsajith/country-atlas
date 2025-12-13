@@ -1,6 +1,7 @@
 {
   "name": "country-atlas",
-  "version": "1.0.0",
+  "version": "1.0.2",
+  "runkitExampleFilename": "runkit-example.js",
   "description": "",
   "bin": {
     "atlas": "dist/cli.js"
@@ -22,7 +23,9 @@
     "build": "tsup",
     "test": "vitest run",
     "lint": "eslint .",
-    "format": "prettier --write ."
+    "format": "prettier --write .",
+    "size": "npm pack --dry-run 2>&1 | grep 'package size'",
+    "prepublishOnly": "npm run build && npm run test && npm run size"
   },
   "keywords": [],
   "repository": {

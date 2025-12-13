@@ -3,7 +3,8 @@
 > **Production-ready, type-safe, and tree-shakable country metadata for modern applications.**
 
 [![NPM Version](https://img.shields.io/npm/v/country-atlas)](https://www.npmjs.com/package/country-atlas)
-[![License](https://img.shields.io/npm/l/country-atlas)](https://github.com/prathinsajith/country-atlas)
+[![Try on RunKit](https://badge.runkitcdn.com/country-atlas.svg)](https://npm.runkit.com/country-atlas)
+[![License: MIT](https://img.shields.io/github/license/prathinsajith/country-atlas)](https://github.com/prathinsajith/country-atlas/blob/main/LICENSE)
 [![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue)](https://www.typescriptlang.org/)
 
 A lightweight, zero-dependency Node.js library that provides authoritative data for all countries. Optimized for both backend (validation, enrichment) and frontend (UI components, maps) use.
@@ -56,6 +57,12 @@ const results = searchCountry('uni');
 
 // Filter by Continent
 const asianCountries = getCountriesByContinent('Asia');
+
+// Find by Calling Code
+const usa = getCountryByCallingCode('+1');
+
+// Filter by Currency
+const euroZone = getCountriesByCurrency('EUR');
 ```
 
 ### Field Selection (Performance)
@@ -67,6 +74,22 @@ import { getCountry } from 'country-atlas';
 const partialData = getCountry('FR', {
     fields: ['name', 'capital', 'currency'],
 });
+```
+
+### 📱 Phone Number Validation (Example)
+
+```typescript
+import { getCountryByISO2 } from 'country-atlas';
+
+function validatePhonePrefix(phoneNumber: string, isoCode: string) {
+    const country = getCountryByISO2(isoCode);
+    if (!country?.callingCode) return false;
+
+    // Simple check: does the number start with the country's calling code?
+    return phoneNumber.startsWith(country.callingCode);
+}
+
+console.log(validatePhonePrefix('+919876543210', 'IN')); // true
 ```
 
 ### Region-Specific Imports (Tree-Shaking)

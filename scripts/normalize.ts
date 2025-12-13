@@ -89,7 +89,7 @@ async function normalize() {
                     );
                     svgContent = await fs.readFile(svgPath, 'utf-8').catch(() => '');
                 }
-            } catch (_e) {
+            } catch {
                 console.warn(`Could not read SVG for ${iso.alpha2}`);
             }
 

@@ -45,6 +45,34 @@ export function getCountriesByContinent(continent: string): Country[] {
 }
 
 /**
+ * Returns a country by its calling code (e.g. "+1", "91").
+ * Handles codes with or without '+' prefix.
+ */
+export function getCountryByCallingCode(callingCode: string): Country | undefined {
+    const code = callingCode.replace('+', '');
+    return countries.find((c) => {
+        const root = c.callingCode?.replace('+', '') || '';
+        return root === code;
+    });
+}
+
+/**
+ * Returns all countries that use a specific currency code (e.g. "USD", "EUR").
+ */
+export function getCountriesByCurrency(currencyCode: string): Country[] {
+    const code = currencyCode.toUpperCase();
+    return countries.filter((c) => c.currency?.code === code);
+}
+
+/**
+ * Returns all countries where a specific language is spoken.
+ */
+export function getCountriesByLanguage(language: string): Country[] {
+    const query = language.toLowerCase();
+    return countries.filter((c) => c.languages?.some((l) => l.toLowerCase() === query));
+}
+
+/**
  * Searches for countries by name, capital, or other fields.
  */
 export function searchCountry(query: string): Country[] {

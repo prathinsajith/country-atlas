@@ -10,7 +10,7 @@ export default [
     ...tseslint.configs.recommended,
     eslintConfigPrettier,
     {
-        ignores: ['dist/', 'node_modules/', 'coverage/'],
+        ignores: ['dist/', 'node_modules/', 'coverage/', 'runkit-example.js'],
     },
     {
         rules: {
