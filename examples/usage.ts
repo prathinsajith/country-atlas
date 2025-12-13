@@ -6,16 +6,15 @@ import { getAllCountries, searchCountry, getCountryByISO2 } from '../src';
  */
 function getCountryOptions() {
     const countries = getAllCountries();
-    return countries.map(c => ({
+    return countries.map((c) => ({
         value: c.iso.alpha2,
         label: `${c.flag.emoji} ${c.name}`,
-        searchTerms: [c.name, c.officialName, c.iso.alpha3].join(' ') // Helper for filtering
+        searchTerms: [c.name, c.officialName, c.iso.alpha3].join(' '), // Helper for filtering
     }));
 }
 
 console.log('--- Dropdown Options Sample ---');
 console.log(getCountryOptions().slice(0, 3));
-
 
 /**
  * SCENARIO 2: Phonebook Validation
@@ -47,8 +46,7 @@ function validatePhoneNumber(phoneNumber: string, isoCode: string): boolean {
 
 console.log('\n--- Phone Validation ---');
 validatePhoneNumber('+919876543210', 'IN'); // Valid India
-validatePhoneNumber('+15551234567', 'IN');  // Invalid India
-
+validatePhoneNumber('+15551234567', 'IN'); // Invalid India
 
 /**
  * SCENARIO 3: Search / Typeahead
@@ -60,10 +58,10 @@ function onSearchInput(query: string) {
     // searchCountry performs fuzzy/partial matching on common and official names
     const results = searchCountry(query);
 
-    return results.map(c => ({
+    return results.map((c) => ({
         id: c.iso.alpha2,
         displayName: c.name,
-        subtitle: c.officialName
+        subtitle: c.officialName,
     }));
 }
 

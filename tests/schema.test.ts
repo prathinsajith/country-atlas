@@ -3,7 +3,7 @@ import { countries } from '../src/data';
 
 describe('Schema Validation', () => {
     it('should validate all country objects against the schema', () => {
-        countries.forEach(country => {
+        countries.forEach((country) => {
             expect(country.name).toBeTruthy();
             expect(country.officialName).toBeTruthy();
             if (country.capital) {
@@ -22,13 +22,13 @@ describe('Schema Validation', () => {
     });
 
     it('should have unique ISO2 codes', () => {
-        const iso2s = countries.map(c => c.iso.alpha2);
+        const iso2s = countries.map((c) => c.iso.alpha2);
         const uniqueIso2s = new Set(iso2s);
         expect(uniqueIso2s.size).toBe(iso2s.length);
     });
 
     it('should have unique ISO3 codes', () => {
-        const iso3s = countries.map(c => c.iso.alpha3);
+        const iso3s = countries.map((c) => c.iso.alpha3);
         const uniqueIso3s = new Set(iso3s);
         expect(uniqueIso3s.size).toBe(iso3s.length);
     });

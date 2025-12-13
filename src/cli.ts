@@ -50,7 +50,7 @@ switch (command) {
         }
         const results = searchCountry(param);
         if (results.length > 0) {
-            results.forEach(c => {
+            results.forEach((c) => {
                 console.log(`${c.flag.emoji}  ${c.name} (${c.iso.alpha2})`);
             });
         } else {
@@ -66,7 +66,7 @@ switch (command) {
         const results = getCountriesByContinent(param);
         if (results.length > 0) {
             console.log(`Countries in ${param}:`);
-            results.forEach(c => {
+            results.forEach((c) => {
                 console.log(`${c.flag.emoji}  ${c.name} (${c.iso.alpha2})`);
             });
         } else {

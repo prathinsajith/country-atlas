@@ -22,10 +22,12 @@ graph TD
 The core logic resides in the `scripts/` directory. These scripts are strictly typed with TypeScript.
 
 ### 1. Extraction (`fetch.ts`, `fetch-flags.ts`)
+
 - Downloads authoritative data from `mledoze/countries` (ISO standards, currencies, languages).
 - Downloads vector flags from `lipis/flag-icons`.
 
 ### 2. Optimization (`optimize-flags.ts`)
+
 - Uses `svgo` to aggressively compress SVG flags.
 - **Techniques:**
     - Strips metadata and comments.
@@ -34,6 +36,7 @@ The core logic resides in the `scripts/` directory. These scripts are strictly t
 - **Result:** ~50% reduction in flag size compared to raw.
 
 ### 3. Transformation (`normalize.ts`)
+
 - Maps raw data to the strict `Country` interface defined in `src/types/`.
 - **Data Cleaning:**
     - Rounds geo-coordinates to 4 decimal places (~11m precision).

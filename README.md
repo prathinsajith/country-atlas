@@ -51,7 +51,7 @@ console.log(usa?.iso.alpha3); // "USA"
 import { searchCountry, getCountriesByContinent } from 'country-atlas';
 
 // Search by partial name
-const results = searchCountry('uni'); 
+const results = searchCountry('uni');
 // Returns [United Arab Emirates, United Kingdom, United States, ...]
 
 // Filter by Continent
@@ -64,8 +64,8 @@ const asianCountries = getCountriesByContinent('Asia');
 import { getCountry } from 'country-atlas';
 
 // Get only specific fields to reduce memory usage in critical paths
-const partialData = getCountry('FR', { 
-  fields: ['name', 'capital', 'currency'] 
+const partialData = getCountry('FR', {
+    fields: ['name', 'capital', 'currency'],
 });
 ```
 
@@ -100,29 +100,29 @@ Each country object strictly follows the `Country` interface:
 
 ```typescript
 interface Country {
-  name: string;           // Common name
-  officialName: string;   // Official full name
-  iso: {
-    alpha2: string;       // "US"
-    alpha3: string;       // "USA"
-    numeric: string;      // "840"
-  };
-  geo: {
-    region: string;       // "Americas"
-    continent: string;    // "North America"
-    latlng: [number, number];
-    // ...
-  };
-  currency: {
-    code: string;         // "USD"
-    name: string;
-    symbol: string;       // "$"
-  };
-  flag: {
-    emoji: string;        // "🇺🇸"
-    svg: string;          // Inline optimized SVG string
-  };
-  // ... languages, timezones, calling codes, TLDs
+    name: string; // Common name
+    officialName: string; // Official full name
+    iso: {
+        alpha2: string; // "US"
+        alpha3: string; // "USA"
+        numeric: string; // "840"
+    };
+    geo: {
+        region: string; // "Americas"
+        continent: string; // "North America"
+        latlng: [number, number];
+        // ...
+    };
+    currency: {
+        code: string; // "USD"
+        name: string;
+        symbol: string; // "$"
+    };
+    flag: {
+        emoji: string; // "🇺🇸"
+        svg: string; // Inline optimized SVG string
+    };
+    // ... languages, timezones, calling codes, TLDs
 }
 ```
 
@@ -138,6 +138,7 @@ This package normalizes data from the following authoritative projects:
 ## 🧪 Testing
 
 This library is rigorously tested with `Vitest` to ensure:
+
 - No missing required fields.
 - Unique ISO codes.
 - Valid SVG flag content.

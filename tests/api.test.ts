@@ -5,7 +5,7 @@ import {
     getCountryByName,
     getCountriesByContinent,
     getAllCountries,
-    getCountry
+    getCountry,
 } from '../src/api';
 
 describe('API Functions', () => {
@@ -67,19 +67,20 @@ describe('API Functions', () => {
         it('should return only Asian countries', () => {
             const countries = getCountriesByContinent('Asia');
             expect(countries.length).toBeGreaterThan(0);
-            expect(countries.every(c => c.geo.continent === 'Asia')).toBe(true);
+            expect(countries.every((c) => c.geo.continent === 'Asia')).toBe(true);
         });
     });
 
     describe('getCountry (selector)', () => {
         it('should return only selected fields', () => {
             const country = getCountry('IN', {
-                fields: ['name', 'currency']
+                fields: ['name', 'currency'],
             });
 
             expect(country).toBeDefined();
             expect(country?.name).toBe('India');
             expect(country?.currency).toBeDefined();
+            // eslint-disable-next-line @typescript-eslint/no-explicit-any
             expect((country as any).geo).toBeUndefined();
         });
     });

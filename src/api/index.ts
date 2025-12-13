@@ -32,7 +32,7 @@ export function getCountryByName(name: string): Country | undefined {
             c.name.toLowerCase() === query ||
             c.officialName.toLowerCase() === query ||
             c.iso.alpha2.toLowerCase() === query ||
-            c.iso.alpha3.toLowerCase() === query
+            c.iso.alpha3.toLowerCase() === query,
     );
 }
 
@@ -49,9 +49,8 @@ export function getCountriesByContinent(continent: string): Country[] {
  */
 export function searchCountry(query: string): Country[] {
     const q = query.toLowerCase();
-    return countries.filter((c) =>
-        c.name.toLowerCase().includes(q) ||
-        c.officialName.toLowerCase().includes(q)
+    return countries.filter(
+        (c) => c.name.toLowerCase().includes(q) || c.officialName.toLowerCase().includes(q),
         // Add more fields if needed
     );
 }
@@ -60,7 +59,10 @@ export function searchCountry(query: string): Country[] {
  * Advanced selector: Get country by ISO code and return specific fields.
  * Uses Partial<Country> because some fields might be excluded.
  */
-export function getCountry(code: string, options?: { fields: (keyof Country)[] }): Partial<Country> | undefined {
+export function getCountry(
+    code: string,
+    options?: { fields: (keyof Country)[] },
+): Partial<Country> | undefined {
     const country = getCountryByISO2(code);
     if (!country) return undefined;
 
@@ -71,7 +73,9 @@ export function getCountry(code: string, options?: { fields: (keyof Country)[] }
     const result: Partial<Country> = {};
     options.fields.forEach((field) => {
         if (field in country) {
+            // eslint-disable-next-line @typescript-eslint/no-explicit-any
             result[field] = country[field] as any;
+
         }
     });
 

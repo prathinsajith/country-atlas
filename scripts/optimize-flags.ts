@@ -39,12 +39,12 @@ async function optimizeFlags() {
                     name: 'convertPathData',
                     params: {
                         floatPrecision: 2, // Aggressive rounding for SVG paths
-                    }
-                }
+                    },
+                },
             ],
         });
 
-        // The prompt says "Enforce consistent viewBox". 
+        // The prompt says "Enforce consistent viewBox".
         // lipis/flag-icons are 4x3 usually "0 0 640 480".
         // SVGO might strip it if we are not careful.
         // Let's ensure we keep viewBox.

@@ -5,8 +5,8 @@ describe('Search Functionality', () => {
     it('should match partial names in search', () => {
         const results = searchCountry('uni');
         expect(results.length).toBeGreaterThan(0);
-        const usa = results.find(c => c.iso.alpha2 === 'US');
-        const uk = results.find(c => c.iso.alpha2 === 'GB');
+        const usa = results.find((c) => c.iso.alpha2 === 'US');
+        const uk = results.find((c) => c.iso.alpha2 === 'GB');
         expect(usa).toBeDefined();
         expect(uk).toBeDefined();
     });

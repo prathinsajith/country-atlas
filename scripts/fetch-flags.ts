@@ -24,7 +24,9 @@ async function fetchFlags() {
         try {
             const res = await fetch(url);
             if (!res.ok) {
-                console.warn(`Warning: Could not fetch flag for ${code} (${country.name}): ${res.status}`);
+                console.warn(
+                    `Warning: Could not fetch flag for ${code} (${country.name}): ${res.status}`,
+                );
                 continue;
             }
             const svg = await res.text();

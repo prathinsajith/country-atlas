@@ -9,7 +9,9 @@ const NORMALIZED_DIR = path.join(__dirname, '../data/normalized');
 
 async function validate() {
     console.log('Validating data...');
-    const data: Country[] = JSON.parse(await fs.readFile(path.join(NORMALIZED_DIR, 'countries.json'), 'utf-8'));
+    const data: Country[] = JSON.parse(
+        await fs.readFile(path.join(NORMALIZED_DIR, 'countries.json'), 'utf-8'),
+    );
 
     const errors: string[] = [];
 
@@ -22,7 +24,7 @@ async function validate() {
 
     if (errors.length > 0) {
         console.error(`Validation failed with ${errors.length} errors:`);
-        errors.slice(0, 10).forEach(e => console.error(e));
+        errors.slice(0, 10).forEach((e) => console.error(e));
         if (errors.length > 10) console.error('...');
         process.exit(1);
     }
