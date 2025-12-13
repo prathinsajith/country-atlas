@@ -1,6 +1,6 @@
 # Developer Guide
 
-This document explains the internal architecture of the `world_country_data` package. It serves as "proof" of the engineering rigor and automated pipelines used to build this dataset.
+This document explains the internal architecture of the `country-atlas` package. It serves as "proof" of the engineering rigor and automated pipelines used to build this dataset.
 
 ## 🏗️ Architecture Overview
 

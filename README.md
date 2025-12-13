@@ -2,8 +2,8 @@
 
 > **Production-ready, type-safe, and tree-shakable country metadata for modern applications.**
 
-[![NPM Version](https://img.shields.io/npm/v/world_country_data)](https://www.npmjs.com/package/world_country_data)
-[![License](https://img.shields.io/npm/l/world_country_data)](https://github.com/yourusername/world_country_data)
+[![NPM Version](https://img.shields.io/npm/v/country-atlas)](https://www.npmjs.com/package/country-atlas)
+[![License](https://img.shields.io/npm/l/country-atlas)](https://github.com/yourusername/country-atlas)
 [![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue)](https://www.typescriptlang.org/)
 
 A lightweight, zero-dependency Node.js library that provides authoritative data for all countries. Optimized for both backend (validation, enrichment) and frontend (UI components, maps) use.
@@ -20,11 +20,11 @@ A lightweight, zero-dependency Node.js library that provides authoritative data 
 ## 📦 Installation
 
 ```bash
-npm install world_country_data
+npm install country-atlas
 # or
-yarn add world_country_data
+yarn add country-atlas
 # or
-pnpm add world_country_data
+pnpm add country-atlas
 ```
 
 ## 📖 Usage
@@ -32,7 +32,7 @@ pnpm add world_country_data
 ### Basic Lookup
 
 ```typescript
-import { getCountryByISO2, getCountryByName } from 'world_country_data';
+import { getCountryByISO2, getCountryByName } from 'country-atlas';
 
 // Lookup by ISO 3166-1 alpha-2 code
 const india = getCountryByISO2('IN');
@@ -48,7 +48,7 @@ console.log(usa?.iso.alpha3); // "USA"
 ### Advanced Search & Filtering
 
 ```typescript
-import { searchCountry, getCountriesByContinent } from 'world_country_data';
+import { searchCountry, getCountriesByContinent } from 'country-atlas';
 
 // Search by partial name
 const results = searchCountry('uni'); 
@@ -61,7 +61,7 @@ const asianCountries = getCountriesByContinent('Asia');
 ### Field Selection (Performance)
 
 ```typescript
-import { getCountry } from 'world_country_data';
+import { getCountry } from 'country-atlas';
 
 // Get only specific fields to reduce memory usage in critical paths
 const partialData = getCountry('FR', { 
@@ -74,7 +74,7 @@ const partialData = getCountry('FR', {
 If you only need data for a specific region, import specifically to reduce bundle size:
 
 ```typescript
-import { asia } from 'world_country_data';
+import { asia } from 'country-atlas';
 
 console.log(asia.length); // 50+ countries
 ```

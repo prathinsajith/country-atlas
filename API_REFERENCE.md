@@ -1,6 +1,6 @@
 # 📚 API & CLI Reference
 
-> **💡 How to use:** This document details every function and command available in the `world_country_data` package, with copy-paste examples.
+> **💡 How to use:** This document details every function and command available in the `country-atlas` package, with copy-paste examples.
 
 ---
 
@@ -12,7 +12,7 @@ import {
   getCountryByISO2, 
   getAllCountries, 
   searchCountry 
-} from 'world_country_data';
+} from 'country-atlas';
 ```
 
 ---
