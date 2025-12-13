@@ -1,0 +1,3344 @@
+[
+  {
+    "name": "Angola",
+    "officialName": "Republic of Angola",
+    "capital": [
+      "Luanda"
+    ],
+    "iso": {
+      "alpha2": "AO",
+      "alpha3": "AGO",
+      "numeric": "024"
+    },
+    "geo": {
+      "latitude": -12.5,
+      "longitude": 18.5,
+      "pointer": {
+        "latitude": -12.5,
+        "longitude": 18.5
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "region": "Middle Africa",
+      "continent": "Africa",
+      "landlocked": false,
+      "areaKm2": 1246700,
+      "borders": [
+        "COG",
+        "COD",
+        "ZMB",
+        "NAM"
+      ]
+    },
+    "languages": [
+      "Portuguese"
+    ],
+    "currency": {
+      "code": "AOA",
+      "name": "Angolan kwanza",
+      "symbol": "Kz"
+    },
+    "callingCode": "+244",
+    "flag": {
+      "emoji": "🇦🇴",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 480\"><g fill-rule=\"evenodd\" stroke-width=\"1pt\"><path fill=\"red\" d=\"M0 0h640v243.6H0z\"/><path fill=\"#000001\" d=\"M0 236.4h640V480H0z\"/></g><path fill=\"#ffec00\" fill-rule=\"evenodd\" d=\"M228.7 148.2c165.2 43.3 59 255.6-71.3 167.2l-8.8 13.6c76.7 54.6 152.6 10.6 174-46.4 22.2-58.8-7.6-141.5-92.6-150z\"/><path fill=\"#ffec00\" fill-rule=\"evenodd\" d=\"m170 330.8 21.7 10.1-10.2 21.8-21.7-10.2zm149-99.5h24v24h-24zm-11.7-38.9 22.3-8.6 8.7 22.3-22.3 8.7zm-26-29.1 17.1-16.9 16.9 17-17 16.9zm-26.2-39.8 22.4 8.4-8.5 22.4-22.4-8.4zM316 270l22.3 8.9-9 22.2-22.2-8.9zm-69.9 70 22-9.3 9.5 22-22 9.4zm-39.5 2.8h24v24h-24zm41.3-116-20.3-15-20.3 14.6 8-23-20.3-15h24.5l8.5-22.6 7.8 22.7 24.7-.3-19.6 15.3z\"/><path fill=\"#fe0\" fill-rule=\"evenodd\" d=\"M336 346.4c-1.2.4-6.2 12.4-9.7 18.2l3.7 1c13.6 4.8 20.4 9.2 26.2 17.5a8 8 0 0 0 10.2.7s2.8-1 6.4-5c3-4.5 2.2-8-1.4-11.1-11-8-22.9-14-35.4-21.3\"/><path fill=\"#000001\" fill-rule=\"evenodd\" d=\"M365.3 372.8a4.3 4.3 0 1 1-8.7 0 4.3 4.3 0 0 1 8.6 0zm-21.4-13.6a4.3 4.3 0 1 1-8.7 0 4.3 4.3 0 0 1 8.7 0m10.9 7a4.3 4.3 0 1 1-8.7 0 4.3 4.3 0 0 1 8.7 0\"/><path fill=\"#fe0\" fill-rule=\"evenodd\" d=\"M324.5 363.7c-42.6-24.3-87.3-50.5-130-74.8-18.7-11.7-19.6-33.4-7-49.9 1.2-2.3 2.8-1.8 3.4-.5 1.5 8 6 16.3 11.4 21.5A5288 5288 0 0 1 334 345.6c-3.4 5.8-6 12.3-9.5 18z\"/><path fill=\"#ffec00\" fill-rule=\"evenodd\" d=\"m297.2 305.5 17.8 16-16 17.8-17.8-16z\"/><path fill=\"none\" stroke=\"#000\" stroke-width=\"3\" d=\"m331.5 348.8-125-75.5m109.6 58.1L274 304.1m18.2 42.7L249.3 322\"/></svg>"
+    },
+    "domains": {
+      "topLevelDomain": ".ao",
+      "internetTld": [
+        ".ao"
+      ]
+    },
+    "unMember": true
+  },
+  {
+    "name": "Burundi",
+    "officialName": "Republic of Burundi",
+    "capital": [
+      "Gitega"
+    ],
+    "iso": {
+      "alpha2": "BI",
+      "alpha3": "BDI",
+      "numeric": "108"
+    },
+    "geo": {
+      "latitude": -3.5,
+      "longitude": 30,
+      "pointer": {
+        "latitude": -3.5,
+        "longitude": 30
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "region": "Eastern Africa",
+      "continent": "Africa",
+      "landlocked": true,
+      "areaKm2": 27834,
+      "borders": [
+        "COD",
+        "RWA",
+        "TZA"
+      ]
+    },
+    "languages": [
+      "French",
+      "Kirundi"
+    ],
+    "currency": {
+      "code": "BIF",
+      "name": "Burundian franc",
+      "symbol": "Fr"
+    },
+    "callingCode": "+257",
+    "flag": {
+      "emoji": "🇧🇮",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 480\"><defs><clipPath id=\"a\"><path fill-opacity=\".7\" d=\"M-90.5 0H592v512H-90.5z\"/></clipPath></defs><g fill-rule=\"evenodd\" clip-path=\"url(#a)\" transform=\"translate(84.9)scale(.9375)\"><path fill=\"#18b637\" d=\"m-178 0 428.8 256L-178 512zm857.6 0L250.8 256l428.8 256z\"/><path fill=\"#cf0921\" d=\"m-178 0 428.8 256L679.6 0zm0 512 428.8-256 428.8 256z\"/><path fill=\"#fff\" d=\"M679.6 0h-79.9L-178 464.3V512h79.9L679.6 47.7z\"/><path fill=\"#fff\" d=\"M398.9 256a148 148 0 1 1-296.1 0 148 148 0 0 1 296 0z\"/><path fill=\"#fff\" d=\"M-178 0v47.7L599.7 512h79.9v-47.7L-98.1 0z\"/><path fill=\"#cf0921\" stroke=\"#18b637\" stroke-width=\"3.9\" d=\"m280 200.2-19.3.3-10 16.4-9.9-16.4-19.2-.4 9.3-16.9-9.2-16.8 19.2-.4 10-16.4 9.9 16.5 19.2.4-9.3 16.8zm-64.6 111.6-19.2.3-10 16.4-9.9-16.4-19.2-.4 9.3-16.9-9.2-16.8 19.2-.4 10-16.4 9.9 16.5 19.2.4-9.3 16.8zm130.6 0-19.2.3-10 16.4-10-16.4-19.1-.4 9.3-16.9-9.3-16.8 19.2-.4 10-16.4 10 16.5 19.2.4-9.4 16.8z\"/></g></svg>"
+    },
+    "domains": {
+      "topLevelDomain": ".bi",
+      "internetTld": [
+        ".bi"
+      ]
+    },
+    "unMember": true
+  },
+  {
+    "name": "Benin",
+    "officialName": "Republic of Benin",
+    "capital": [
+      "Porto-Novo"
+    ],
+    "iso": {
+      "alpha2": "BJ",
+      "alpha3": "BEN",
+      "numeric": "204"
+    },
+    "geo": {
+      "latitude": 9.5,
+      "longitude": 2.25,
+      "pointer": {
+        "latitude": 9.5,
+        "longitude": 2.25
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "region": "Western Africa",
+      "continent": "Africa",
+      "landlocked": false,
+      "areaKm2": 112622,
+      "borders": [
+        "BFA",
+        "NER",
+        "NGA",
+        "TGO"
+      ]
+    },
+    "languages": [
+      "French"
+    ],
+    "currency": {
+      "code": "XOF",
+      "name": "West African CFA franc",
+      "symbol": "Fr"
+    },
+    "callingCode": "+229",
+    "flag": {
+      "emoji": "🇧🇯",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 480\"><defs><clipPath id=\"a\"><path fill=\"gray\" d=\"M67.6-154h666v666h-666z\"/></clipPath></defs><g clip-path=\"url(#a)\" transform=\"matrix(.961 0 0 .7207 -65 111)\"><g fill-rule=\"evenodd\" stroke-width=\"1pt\"><path fill=\"#319400\" d=\"M0-154h333v666H0z\"/><path fill=\"#ffd600\" d=\"M333-154h666v333H333z\"/><path fill=\"#de2110\" d=\"M333 179h666v333H333z\"/></g></g></svg>"
+    },
+    "domains": {
+      "topLevelDomain": ".bj",
+      "internetTld": [
+        ".bj"
+      ]
+    },
+    "unMember": true
+  },
+  {
+    "name": "Burkina Faso",
+    "officialName": "Burkina Faso",
+    "capital": [
+      "Ouagadougou"
+    ],
+    "iso": {
+      "alpha2": "BF",
+      "alpha3": "BFA",
+      "numeric": "854"
+    },
+    "geo": {
+      "latitude": 13,
+      "longitude": -2,
+      "pointer": {
+        "latitude": 13,
+        "longitude": -2
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "region": "Western Africa",
+      "continent": "Africa",
+      "landlocked": true,
+      "areaKm2": 272967,
+      "borders": [
+        "BEN",
+        "CIV",
+        "GHA",
+        "MLI",
+        "NER",
+        "TGO"
+      ]
+    },
+    "languages": [
+      "French"
+    ],
+    "currency": {
+      "code": "XOF",
+      "name": "West African CFA franc",
+      "symbol": "Fr"
+    },
+    "callingCode": "+226",
+    "flag": {
+      "emoji": "🇧🇫",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 480\"><g fill-rule=\"evenodd\"><path fill=\"#de0000\" d=\"M640 479.6H.4V0H640z\"/><path fill=\"#35a100\" d=\"M639.6 480H0V240.2h639.6z\"/><path fill=\"#fff300\" d=\"m254.6 276.2-106-72.4h131L320 86.6 360.4 204l131-.1-106 72.4 40.5 117.3-106-72.6L214 393.4\"/></g></svg>"
+    },
+    "domains": {
+      "topLevelDomain": ".bf",
+      "internetTld": [
+        ".bf"
+      ]
+    },
+    "unMember": true
+  },
+  {
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "officialName": "Saint Helena, Ascension and Tristan da Cunha",
+    "capital": [
+      "Jamestown"
+    ],
+    "iso": {
+      "alpha2": "SH",
+      "alpha3": "SHN",
+      "numeric": "654"
+    },
+    "geo": {
+      "latitude": -15.95,
+      "longitude": -5.72,
+      "pointer": {
+        "latitude": -15.95,
+        "longitude": -5.72
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "region": "Western Africa",
+      "continent": "Africa",
+      "landlocked": false,
+      "areaKm2": 394
+    },
+    "languages": [
+      "English"
+    ],
+    "currency": {
+      "code": "GBP",
+      "name": "Pound sterling",
+      "symbol": "£"
+    },
+    "callingCode": "+290",
+    "flag": {
+      "emoji": "🇸🇭",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 480\"><path fill=\"#012169\" d=\"M0 0h640v480H0z\"/><path fill=\"#fff\" d=\"m75 0 244 181L562 0h78v62L400 241l240 178v61h-80L320 301 81 480H0v-60l239-178L0 64V0z\"/><path fill=\"#c8102e\" d=\"m424 281 216 159v40L369 281zm-184 20 6 35L54 480H0zM640 0v3L391 191l2-44L590 0zM0 0l239 176h-60L0 42z\"/><path fill=\"#fff\" d=\"M241 0v480h160V0zM0 160v160h640V160z\"/><path fill=\"#c8102e\" d=\"M0 193v96h640v-96zM273 0v480h96V0z\"/></svg>"
+    },
+    "domains": {
+      "topLevelDomain": ".sh",
+      "internetTld": [
+        ".sh",
+        ".ac"
+      ]
+    },
+    "unMember": false
+  },
+  {
+    "name": "Botswana",
+    "officialName": "Republic of Botswana",
+    "capital": [
+      "Gaborone"
+    ],
+    "iso": {
+      "alpha2": "BW",
+      "alpha3": "BWA",
+      "numeric": "072"
+    },
+    "geo": {
+      "latitude": -22,
+      "longitude": 24,
+      "pointer": {
+        "latitude": -22,
+        "longitude": 24
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "region": "Southern Africa",
+      "continent": "Africa",
+      "landlocked": true,
+      "areaKm2": 582000,
+      "borders": [
+        "NAM",
+        "ZAF",
+        "ZMB",
+        "ZWE"
+      ]
+    },
+    "languages": [
+      "English",
+      "Tswana"
+    ],
+    "currency": {
+      "code": "BWP",
+      "name": "Botswana pula",
+      "symbol": "P"
+    },
+    "callingCode": "+267",
+    "flag": {
+      "emoji": "🇧🇼",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 480\"><g fill-rule=\"evenodd\"><path fill=\"#00cbff\" d=\"M0 0h640v480H0z\"/><path fill=\"#fff\" d=\"M0 160h640v160H0z\"/><path fill=\"#000001\" d=\"M0 186h640v108H0z\"/></g></svg>"
+    },
+    "domains": {
+      "topLevelDomain": ".bw",
+      "internetTld": [
+        ".bw"
+      ]
+    },
+    "unMember": true
+  },
+  {
+    "name": "Central African Republic",
+    "officialName": "Central African Republic",
+    "capital": [
+      "Bangui"
+    ],
+    "iso": {
+      "alpha2": "CF",
+      "alpha3": "CAF",
+      "numeric": "140"
+    },
+    "geo": {
+      "latitude": 7,
+      "longitude": 21,
+      "pointer": {
+        "latitude": 7,
+        "longitude": 21
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "region": "Middle Africa",
+      "continent": "Africa",
+      "landlocked": true,
+      "areaKm2": 622984,
+      "borders": [
+        "CMR",
+        "TCD",
+        "COD",
+        "COG",
+        "SSD",
+        "SDN"
+      ]
+    },
+    "languages": [
+      "French",
+      "Sango"
+    ],
+    "currency": {
+      "code": "XAF",
+      "name": "Central African CFA franc",
+      "symbol": "Fr"
+    },
+    "callingCode": "+236",
+    "flag": {
+      "emoji": "🇨🇫",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 480\"><defs><clipPath id=\"a\"><path fill-opacity=\".7\" d=\"M-12.4 32h640v480h-640z\"/></clipPath></defs><g fill-rule=\"evenodd\" clip-path=\"url(#a)\" transform=\"translate(12.4 -32)\"><path fill=\"#00f\" d=\"M-52 32h719.3v119H-52z\"/><path fill=\"#ff0\" d=\"M-52 391.6h719.3V512H-52z\"/><path fill=\"#009a00\" d=\"M-52 271.3h719.3v120.3H-52z\"/><path fill=\"#fff\" d=\"M-52 151h719.3v120.3H-52z\"/><path fill=\"red\" d=\"M247.7 32.5h119.9V512H247.7z\"/><path fill=\"#ff0\" d=\"m99.3 137.7-31.5-21.8-31.3 22L47.4 101 16.9 78l38.2-1 12.5-36.3L80.3 77l38.1.7L88.2 101\"/></g></svg>"
+    },
+    "domains": {
+      "topLevelDomain": ".cf",
+      "internetTld": [
+        ".cf"
+      ]
+    },
+    "unMember": true
+  },
+  {
+    "name": "Ivory Coast",
+    "officialName": "Republic of Côte d'Ivoire",
+    "capital": [
+      "Yamoussoukro"
+    ],
+    "iso": {
+      "alpha2": "CI",
+      "alpha3": "CIV",
+      "numeric": "384"
+    },
+    "geo": {
+      "latitude": 8,
+      "longitude": -5,
+      "pointer": {
+        "latitude": 8,
+        "longitude": -5
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "region": "Western Africa",
+      "continent": "Africa",
+      "landlocked": false,
+      "areaKm2": 322463,
+      "borders": [
+        "BFA",
+        "GHA",
+        "GIN",
+        "LBR",
+        "MLI"
+      ]
+    },
+    "languages": [
+      "French"
+    ],
+    "currency": {
+      "code": "XOF",
+      "name": "West African CFA franc",
+      "symbol": "Fr"
+    },
+    "callingCode": "+225",
+    "flag": {
+      "emoji": "🇨🇮",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 480\"><g fill-rule=\"evenodd\"><path fill=\"#00cd00\" d=\"M426.8 0H640v480H426.8z\"/><path fill=\"#ff9a00\" d=\"M0 0h212.9v480H0z\"/><path fill=\"#fff\" d=\"M212.9 0h214v480h-214z\"/></g></svg>"
+    },
+    "domains": {
+      "topLevelDomain": ".ci",
+      "internetTld": [
+        ".ci"
+      ]
+    },
+    "unMember": true
+  },
+  {
+    "name": "Cameroon",
+    "officialName": "Republic of Cameroon",
+    "capital": [
+      "Yaoundé"
+    ],
+    "iso": {
+      "alpha2": "CM",
+      "alpha3": "CMR",
+      "numeric": "120"
+    },
+    "geo": {
+      "latitude": 6,
+      "longitude": 12,
+      "pointer": {
+        "latitude": 6,
+        "longitude": 12
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "region": "Middle Africa",
+      "continent": "Africa",
+      "landlocked": false,
+      "areaKm2": 475442,
+      "borders": [
+        "CAF",
+        "TCD",
+        "COG",
+        "GNQ",
+        "GAB",
+        "NGA"
+      ]
+    },
+    "languages": [
+      "English",
+      "French"
+    ],
+    "currency": {
+      "code": "XAF",
+      "name": "Central African CFA franc",
+      "symbol": "Fr"
+    },
+    "callingCode": "+237",
+    "flag": {
+      "emoji": "🇨🇲",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 640 480\"><path fill=\"#007a5e\" d=\"M0 0h213.3v480H0z\"/><path fill=\"#ce1126\" d=\"M213.3 0h213.4v480H213.3z\"/><path fill=\"#fcd116\" d=\"M426.7 0H640v480H426.7z\"/><g fill=\"#fcd116\" transform=\"translate(320 240)scale(7.1111)\"><g id=\"b\"><path id=\"a\" d=\"M0-8-2.5-.4 1.3.9z\"/><use xlink:href=\"#a\" transform=\"scale(-1 1)\"/></g><use xlink:href=\"#b\" transform=\"rotate(72)\"/><use xlink:href=\"#b\" transform=\"rotate(144)\"/><use xlink:href=\"#b\" transform=\"rotate(-144)\"/><use xlink:href=\"#b\" transform=\"rotate(-72)\"/></g></svg>"
+    },
+    "domains": {
+      "topLevelDomain": ".cm",
+      "internetTld": [
+        ".cm"
+      ]
+    },
+    "unMember": true
+  },
+  {
+    "name": "DR Congo",
+    "officialName": "Democratic Republic of the Congo",
+    "capital": [
+      "Kinshasa"
+    ],
+    "iso": {
+      "alpha2": "CD",
+      "alpha3": "COD",
+      "numeric": "180"
+    },
+    "geo": {
+      "latitude": 0,
+      "longitude": 25,
+      "pointer": {
+        "latitude": 0,
+        "longitude": 25
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "region": "Middle Africa",
+      "continent": "Africa",
+      "landlocked": false,
+      "areaKm2": 2344858,
+      "borders": [
+        "AGO",
+        "BDI",
+        "CAF",
+        "COG",
+        "RWA",
+        "SSD",
+        "TZA",
+        "UGA",
+        "ZMB"
+      ]
+    },
+    "languages": [
+      "French",
+      "Kikongo",
+      "Lingala",
+      "Tshiluba",
+      "Swahili"
+    ],
+    "currency": {
+      "code": "CDF",
+      "name": "Congolese franc",
+      "symbol": "FC"
+    },
+    "callingCode": "+243",
+    "flag": {
+      "emoji": "🇨🇩",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 480\"><path fill=\"#007fff\" d=\"M0 0h640v480H0z\"/><path fill=\"#f7d618\" d=\"M28.8 96H96l20.8-67.2L137.6 96h67.2l-54.4 41.6 20.8 67.2-54.4-41.6-54.4 41.6 20.8-67.2zM600 0 0 360v120h40l600-360V0z\"/><path fill=\"#ce1021\" d=\"M640 0 0 384v96L640 96z\"/></svg>"
+    },
+    "domains": {
+      "topLevelDomain": ".cd",
+      "internetTld": [
+        ".cd"
+      ]
+    },
+    "unMember": true
+  },
+  {
+    "name": "Congo",
+    "officialName": "Republic of the Congo",
+    "capital": [
+      "Brazzaville"
+    ],
+    "iso": {
+      "alpha2": "CG",
+      "alpha3": "COG",
+      "numeric": "178"
+    },
+    "geo": {
+      "latitude": -1,
+      "longitude": 15,
+      "pointer": {
+        "latitude": -1,
+        "longitude": 15
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "region": "Middle Africa",
+      "continent": "Africa",
+      "landlocked": false,
+      "areaKm2": 342000,
+      "borders": [
+        "AGO",
+        "CMR",
+        "CAF",
+        "COD",
+        "GAB"
+      ]
+    },
+    "languages": [
+      "French",
+      "Kikongo",
+      "Lingala"
+    ],
+    "currency": {
+      "code": "XAF",
+      "name": "Central African CFA franc",
+      "symbol": "Fr"
+    },
+    "callingCode": "+242",
+    "flag": {
+      "emoji": "🇨🇬",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 480\"><defs><clipPath id=\"a\"><path fill-opacity=\".7\" d=\"M-79.5 32h640v480h-640z\"/></clipPath></defs><g fill-rule=\"evenodd\" stroke-width=\"1pt\" clip-path=\"url(#a)\" transform=\"translate(79.5 -32)\"><path fill=\"#ff0\" d=\"M-119.5 32h720v480h-720z\"/><path fill=\"#00ca00\" d=\"M-119.5 32v480l480-480z\"/><path fill=\"red\" d=\"M120.5 512h480V32z\"/></g></svg>"
+    },
+    "domains": {
+      "topLevelDomain": ".cg",
+      "internetTld": [
+        ".cg"
+      ]
+    },
+    "unMember": true
+  },
+  {
+    "name": "Comoros",
+    "officialName": "Union of the Comoros",
+    "capital": [
+      "Moroni"
+    ],
+    "iso": {
+      "alpha2": "KM",
+      "alpha3": "COM",
+      "numeric": "174"
+    },
+    "geo": {
+      "latitude": -12.1667,
+      "longitude": 44.25,
+      "pointer": {
+        "latitude": -12.1667,
+        "longitude": 44.25
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "region": "Eastern Africa",
+      "continent": "Africa",
+      "landlocked": false,
+      "areaKm2": 1862
+    },
+    "languages": [
+      "Arabic",
+      "French",
+      "Comorian"
+    ],
+    "currency": {
+      "code": "KMF",
+      "name": "Comorian franc",
+      "symbol": "Fr"
+    },
+    "callingCode": "+269",
+    "flag": {
+      "emoji": "🇰🇲",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 480\"><defs><clipPath id=\"a\"><path fill-opacity=\".7\" d=\"M0 0h682.7v512H0z\"/></clipPath></defs><g fill-rule=\"evenodd\" clip-path=\"url(#a)\" transform=\"scale(.9375)\"><path fill=\"#ff0\" d=\"M0 0h768.8v128H0z\"/><path fill=\"#fff\" d=\"M0 128h768.8v128H0z\"/><path fill=\"#be0027\" d=\"M0 256h768.8v128H0z\"/><path fill=\"#3b5aa3\" d=\"M0 384h768.8v128H0z\"/><path fill=\"#239e46\" d=\"M0 0v512l381.9-255.3z\"/><path fill=\"#fff\" d=\"M157.2 141.4c-85-4.3-123.9 63.5-123.8 115.9-.2 62 58.6 113 112.8 110C117 353.5 81.2 314.6 81 257c-.3-52.1 29.5-97.5 76.3-115.6z\"/><path fill=\"#fff\" d=\"m156 197-12-9.3-14.6 4.6 5.2-14.4-8.8-12.4 15.2.6 9-12.3 4.3 14.7 14.4 4.8-12.6 8.5zm-.3 52.1-12-9.4-14.6 4.6 5.3-14.3-8.9-12.4 15.3.5 9-12.2 4.2 14.6 14.5 4.9-12.7 8.5zm.2 52.6-12-9.4-14.5 4.6 5.2-14.3-8.8-12.4 15.2.5 9-12.2 4.3 14.6 14.4 4.8-12.6 8.6zm-.2 53-12-9.3L129 350l5.3-14.4-8.9-12.4 15.3.6 9-12.3 4.2 14.7 14.5 4.8-12.7 8.5z\"/></g></svg>"
+    },
+    "domains": {
+      "topLevelDomain": ".km",
+      "internetTld": [
+        ".km"
+      ]
+    },
+    "unMember": true
+  },
+  {
+    "name": "Cape Verde",
+    "officialName": "Republic of Cabo Verde",
+    "capital": [
+      "Praia"
+    ],
+    "iso": {
+      "alpha2": "CV",
+      "alpha3": "CPV",
+      "numeric": "132"
+    },
+    "geo": {
+      "latitude": 16,
+      "longitude": -24,
+      "pointer": {
+        "latitude": 16,
+        "longitude": -24
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "region": "Western Africa",
+      "continent": "Africa",
+      "landlocked": false,
+      "areaKm2": 4033
+    },
+    "languages": [
+      "Portuguese"
+    ],
+    "currency": {
+      "code": "CVE",
+      "name": "Cape Verdean escudo",
+      "symbol": "Esc"
+    },
+    "callingCode": "+238",
+    "flag": {
+      "emoji": "🇨🇻",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 480\"><defs><clipPath id=\"a\"><path fill-opacity=\".7\" d=\"M-123.4 0h682.6v512h-682.6z\"/></clipPath></defs><g fill-rule=\"evenodd\" clip-path=\"url(#a)\" transform=\"translate(115.7)scale(.94)\"><path fill=\"#fff\" d=\"M-123.4 233H723v206h-846.5z\"/><path fill=\"#081873\" d=\"M-122.8 0h846v256.6h-846zm.3 385.9h852.1V512h-852.1z\"/><path fill=\"#de3929\" d=\"M-122.5 302.6h846v39.6h-846z\"/><path fill=\"#ffce08\" d=\"m131 399.2 6.6 20.4H159l-17.4 12.7 6.6 20.5L131 440l-17.4 12.7 6.7-20.5-17.4-12.7h21.5M317 250.4l6.7 20.5H345l-17.4 12.6 6.6 20.5-17.4-12.7-17.4 12.7 6.6-20.5-17.4-12.6h21.6m-222 64.4 6.6 20.5h21.5L99 368.6l6.7 20.4-17.4-12.6L70.9 389l6.6-20.4-17.4-12.7h21.5M317 329.5l6.7 20.4H345l-17.4 12.7 6.6 20.4-17.4-12.6-17.4 12.7 6.6-20.5-17.4-12.7h21.6m-40.5-161.7 6.7 20.4H298l-17.4 12.7 6.6 20.5-17.4-12.7-17.4 12.7 6.7-20.5-17.5-12.7h21.6m-64.5-45.2 6.7 20.5h21.5l-17.4 12.6 6.6 20.5-17.4-12.6-17.4 12.6 6.7-20.5-17.4-12.6H192m-64.5 2.9 6.7 20.5h21.5l-17.4 12.6 6.7 20.5-17.5-12.7-17.4 12.7 6.7-20.5-17.4-12.6H121m-34.8 43.2 6.6 20.5h21.6l-17.5 12.6 6.7 20.5-17.4-12.7-17.4 12.7 6.6-20.5L58 271h21.5m119.2 149.4 6.7 20.5h21.5l-17.4 12.6 6.7 20.5-17.5-12.7-17.4 12.7 6.7-20.5-17.4-12.6H192m82.2-41.7 6.6 20.4h21.5L285 432.3l6.7 20.5-17.4-12.7-17.5 12.7 6.7-20.5-17.4-12.7h21.5\"/></g></svg>"
+    },
+    "domains": {
+      "topLevelDomain": ".cv",
+      "internetTld": [
+        ".cv"
+      ]
+    },
+    "unMember": true
+  },
+  {
+    "name": "Djibouti",
+    "officialName": "Republic of Djibouti",
+    "capital": [
+      "Djibouti"
+    ],
+    "iso": {
+      "alpha2": "DJ",
+      "alpha3": "DJI",
+      "numeric": "262"
+    },
+    "geo": {
+      "latitude": 11.5,
+      "longitude": 43,
+      "pointer": {
+        "latitude": 11.5,
+        "longitude": 43
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "region": "Eastern Africa",
+      "continent": "Africa",
+      "landlocked": false,
+      "areaKm2": 23200,
+      "borders": [
+        "ERI",
+        "ETH",
+        "SOM"
+      ]
+    },
+    "languages": [
+      "Arabic",
+      "French"
+    ],
+    "currency": {
+      "code": "DJF",
+      "name": "Djiboutian franc",
+      "symbol": "Fr"
+    },
+    "callingCode": "+253",
+    "flag": {
+      "emoji": "🇩🇯",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 480\"><defs><clipPath id=\"a\"><path fill-opacity=\".7\" d=\"M-40 0h682.7v512H-40z\"/></clipPath></defs><g fill-rule=\"evenodd\" clip-path=\"url(#a)\" transform=\"translate(37.5)scale(.94)\"><path fill=\"#0c0\" d=\"M-40 0h768v512H-40z\"/><path fill=\"#69f\" d=\"M-40 0h768v256H-40z\"/><path fill=\"#fffefe\" d=\"m-40 0 382.7 255.7L-40 511z\"/><path fill=\"red\" d=\"M119.8 292 89 270l-30.7 22.4L69.7 256l-30.6-22.5 37.9-.3 11.7-36.3 12 36.2h37.9l-30.5 22.7 11.7 36.4z\"/></g></svg>"
+    },
+    "domains": {
+      "topLevelDomain": ".dj",
+      "internetTld": [
+        ".dj"
+      ]
+    },
+    "unMember": true
+  },
+  {
+    "name": "Algeria",
+    "officialName": "People's Democratic Republic of Algeria",
+    "capital": [
+      "Algiers"
+    ],
+    "iso": {
+      "alpha2": "DZ",
+      "alpha3": "DZA",
+      "numeric": "012"
+    },
+    "geo": {
+      "latitude": 28,
+      "longitude": 3,
+      "pointer": {
+        "latitude": 28,
+        "longitude": 3
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "region": "Northern Africa",
+      "continent": "Africa",
+      "landlocked": false,
+      "areaKm2": 2381741,
+      "borders": [
+        "TUN",
+        "LBY",
+        "NER",
+        "ESH",
+        "MRT",
+        "MLI",
+        "MAR"
+      ]
+    },
+    "languages": [
+      "Arabic"
+    ],
+    "currency": {
+      "code": "DZD",
+      "name": "Algerian dinar",
+      "symbol": "د.ج"
+    },
+    "callingCode": "+213",
+    "flag": {
+      "emoji": "🇩🇿",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 480\"><path fill=\"#fff\" d=\"M320 0h320v480H320z\"/><path fill=\"#006233\" d=\"M0 0h320v480H0z\"/><path fill=\"#d21034\" d=\"M424 180a120 120 0 1 0 0 120 96 96 0 1 1 0-120m4 60-108-35.2 67.2 92V183.2l-67.2 92z\"/></svg>"
+    },
+    "domains": {
+      "topLevelDomain": ".dz",
+      "internetTld": [
+        ".dz",
+        "الجزائر."
+      ]
+    },
+    "unMember": true
+  },
+  {
+    "name": "Egypt",
+    "officialName": "Arab Republic of Egypt",
+    "capital": [
+      "Cairo"
+    ],
+    "iso": {
+      "alpha2": "EG",
+      "alpha3": "EGY",
+      "numeric": "818"
+    },
+    "geo": {
+      "latitude": 27,
+      "longitude": 30,
+      "pointer": {
+        "latitude": 27,
+        "longitude": 30
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "region": "Northern Africa",
+      "continent": "Africa",
+      "landlocked": false,
+      "areaKm2": 1002450,
+      "borders": [
+        "ISR",
+        "LBY",
+        "PSE",
+        "SDN"
+      ]
+    },
+    "languages": [
+      "Arabic"
+    ],
+    "currency": {
+      "code": "EGP",
+      "name": "Egyptian pound",
+      "symbol": "£"
+    },
+    "callingCode": "+20",
+    "flag": {
+      "emoji": "🇪🇬",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 640 480\"><path fill=\"#000001\" d=\"M0 320h640v160H0z\"/><path fill=\"#fff\" d=\"M0 160h640v160H0z\"/><path fill=\"#ce1126\" d=\"M0 0h640v160H0z\"/><g fill=\"#fff\" stroke=\"#c09300\" transform=\"translate(-40)scale(.8)\"><path stroke-linejoin=\"round\" stroke-width=\"1.3\" d=\"m450.8 302.4 68.5 63.6-4.9-115.5c-.7-17.5-15.9-13.5-27-7.2-11.1 7.2-24 7.2-37.4 2.5-13.5 4.7-26.3 4.7-37.4-2.5-11-6.3-26.3-10.3-27 7.2L380.7 366z\"/><path id=\"a\" fill=\"#c09300\" stroke=\"none\" d=\"m393.5 246.5-4.8 112.3-8 7.2 4.9-115.5a24 24 0 0 1 7.9-4m9.6 8-4 94-8 8.2 4.8-108.5c1.6 1.6 6.3 5.5 7.2 6.3m8.7 7.2-3.1 78.4-6.5 6.3 4-89.4c1.6 1.5 4.8 3.8 5.6 4.7m9.5 4-3.1 66.8-6.3 5.1 3.1-74.3c1.6.7 4.7 2.4 6.3 2.4m8.8 0-2.3 55.7-6.5 6.3 2.5-61.3c1.5 0 5.6 0 6.3-.7\"/><use xlink:href=\"#a\" transform=\"matrix(-1 0 0 1 900 0)\"/><path fill=\"#c09300\" stroke-width=\"1.1\" d=\"m453.2 315 9.6 43.8-3.2 3.2-3.3-2.5-5.4-39 2.3 39-3.2 4-3.1-4 2.3-39-5.5 39-3.3 2.5-3.2-3.2 9.6-43.7h6.4z\"/><g id=\"b\" fill=\"none\" stroke-linejoin=\"round\" stroke-width=\"1.3\"><path fill=\"#fff\" stroke-width=\"1.2\" d=\"m428.5 295.8-19.1 67.7 26.3 4 11.1-50.9z\"/><path d=\"m422.2 319 2.3 5.5 12.4-11.8\"/><path d=\"m430.8 305 2.6 24.3 7.9-10.4m-3.2 4 4.3 15m1.7-5.5-8.7 13.2m2.7 13.2-2.8-13.2-2.4-13.4-5.9 7.9-2.5-9.1-8.2 8.4 4.1 15.2 5.8-9.4 3.1 9.6 6-9.2\"/><path d=\"m415 362 5.3-7.5 3.4 11.5 4.8-8 3.1 9.6\"/></g><use xlink:href=\"#b\" transform=\"matrix(-1 0 0 1 900 0)\"/><g stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.3\"><path stroke-width=\"2.4\" d=\"M450 393.8c20 0 39-1.6 50.2-4.7 4.7-.9 4.7-3.3 4.7-6.5 4.8-1.6 2.4-7.2 5.7-7.2-3.4 1-4-5.5-8-4.7 0-5.6-5.7-6.3-10.4-4.7-9.5 3.1-26.3 3.9-42.2 3.9-16-.8-32.6-.8-42.2-4-4.7-1.5-10.3-.8-10.3 4.8-4-.8-4.7 5.6-8 4.7 3.3 0 .8 5.7 5.6 7.2 0 3.2 0 5.6 4.8 6.5 11 3.1 30.2 4.7 50.1 4.7\"/><path d=\"M422.9 363.5c6.4.9 13.6 1.6 19.2.9 3.2 0 5.5 5.5-.9 6.3-5.5.7-14.3 0-19-.8a231 231 0 0 1-18.4-4c-5.6-2.4-1.6-7 1.6-6.4a105 105 0 0 0 17.5 4m54.2 0c-6.4.9-13.6 1.6-19 .9-3.4 0-5.7 5.5.7 6.3 5.6.7 14.3 0 19-.8 4-.8 12.8-2.3 18.4-4 5.6-2.4 1.6-7-1.6-6.4a105 105 0 0 1-17.5 4\"/><path d=\"M403 360.4c-4.8-.9-7 4.7-5.5 7.9.7-1.6 4-1.6 4.7-3.2.9-2.4-.7-2.4.9-4.7zm19.2 14.7c0-3.2 3.1-2.8 3.1-6 0-1.5-.8-4-2.4-4a3.4 3.4 0 0 0-3.2 3.2c-.7 3.1 2.5 3.6 2.5 6.8m22.7-9.1c4.7 0 4.2 6.3 2 9.5 0-2.3-4-3.2-4-4.8 0-2.4 3.6-2.4 2-4.7m52-5.6c4.9-.9 7.2 4.7 5.6 7.9-.7-1.6-4-1.6-4.7-3.2-.9-2.4.7-2.4-.9-4.7M478 375c0-3.2-3.2-2.8-3.2-6 0-1.5.8-4 2.4-4a3.4 3.4 0 0 1 3.2 3.2c.7 3.1-2.5 3.6-2.5 6.8zm-23-9c-4.7 0-4.2 6.3-2 9.5 0-2.3 4-3.2 4-4.8 0-2.4-3.6-2.4-2-4.7\"/><path stroke-width=\".9\" d=\"M404.7 362c1.6 0 4 .7 4.7 1.6zm7.9 2.4c.8 0 4 .7 5.5 1.6zm28.6 3.2c-1.5 0-4.7 0-5.5.7l5.5-.8zm-8.7 0c-.9-.9-4-.9-5.6 0zm62.8-5.6a8 8 0 0 0-4.7 1.6zm-7.8 2.4c-1 0-4 .7-5.6 1.6zm-28.7 3.2c1.5 0 4.7 0 5.6.7l-5.6-.8zm8.7 0c.9-.9 4-.9 5.6 0z\"/><g fill=\"#c09300\" stroke=\"none\"><path d=\"M403.3 374.6q-.8-.3-.6-1 .3-1 1-.8c.4 0 .9.6.9.8l-.4.7-.2.1q-.1.3-.7.2m55 3.9q-.4-.2-.6-.7c0-.4.6-1 1-1l.8.4q.5.6-.1 1.2-.5.3-1.1 0zm.3 2.5q-.5-.2-.6-.8t.5-.9l.4-.2.4.2q.6.2.7.8 0 .5-.7.8-.4.3-.7 0z\"/><path d=\"M407.8 370q-.7.1-1.2.6c-.6.1-1.4.5-2 0-.6-.1-1.4 0-1.5.8.1.7 1 1 1.6.6.4-.5 1.5-.9 1.7 0-.5.8-.4 1.7-.8 2.4q-.1.7-.5 1.3-.8 0-1.4.3a2 2 0 0 0-1.6.8q-.7.9-.9 2c.1.6 1 .8 1.6.9l2 .6 3.2.9 4.8 1.1.5.1c.7.2 1-.5 1-1l1-3.6c.2-.5.5-1.5-.4-1.3q-.7.6-1.6.8c-.9 0-.4 1 0 1.3q0 1-.5 1.8-.9.3-1.8-.2c-.5 0-1.7-.3-1.2-1l.5-1.8.5-2c-.4-.7-1 .3-1.5.4s-1.6.3-1 1c.6.4.2 1.1 0 1.7 0 .7-.8 1-1.4.7-.6 0-1.5-.5-1-1.1l.5-1.8.7-2q0-1 .6-1.8c0-.7.5-1.3.5-2q0-.4-.4-.4zm-3.7 7.3h.3q.3.3 0 .6l-.3.2q-.7 0-.6-.3l.3-.3zm-1 5q-.7-.5.3-1.3.4-.3.9.1.9.6 0 1.3-.2.3-.5.2t-.7-.2zm3 1a1 1 0 0 1-.6-1.1q.1-.6.9-.5.9-.1.9.7 0 .5-.3.7zm89.2 0q-.3-.1-.3-.5 0-.6.8-.9.9-.5 1.2.2.5.8-.1 1.2-.2.4-.8.3-.7 0-.8-.2zm-85 1.2q-.6-.1-.6-.8 0-.4.2-.6l.6-.2.6.1q.8.6.3 1.2t-1.2.3zm21.8 1-.2-.3q0-.9.2-1.7l.2-1.5.4-2.8q0-.8.2-1.4 0-1.2.2-2.2c0-.3.3-1 .6-.6q.6.8 1.4 1.5c.4.3 0 .7-.3.8q-.6.3-.5 1l-.2 1.2-.2 2-.1 1.8-.2 1.2q.1.7-.4 1.1-.6.3-1-.1zm29.7-9.8-1.3 1.2c-.6.5.5.7.6 1.1q.3.9.2 1.8.3.9.2 1.7c0 .7-.8.5-1.2.9q-.6.4-1 1l-.4 1.6c0 .5-.3 1 0 1.4l.1.2h.5l1.5-.1 3.7-.3 2.2-.2c.6.1.9-.5.9-1-.4-.7-.1-1.4-.4-2l-.2-2.2c0-.6-.7-.8-1-.4l-1.2.9c-.3.6.6.6.8 1l.1 1.5c.1.6-.5.6-1 .7q-.9.4-1.5-.3-.2-.7-.2-1.5l-.3-2.7-.3-3.2c0-.5-.1-1.2-.8-1.1m-.6 8.2h.3v.8l-.3.1-.4.1h-.2q-.3-.3.1-.8zm-30-9.2c-.3 0-.8.7-1.2.6-.9.1-.8 1-.1 1.3v.8c.1.8-.4 1.5-.3 2.3l-.3 2.6q-.4 1.4-.4 2.7c-.1.8-.7.5-1.2.3v-1q0-1.2-1.2-1.2-1-.1-.8-1.1.6-.4 1.5-.3c1 .2.9-1.1.4-1.6s-1.2-1-1.4-1.6q0-1.3-1.2-2.1c-1.1-.1-2 .8-2.3 1.8q-.8 0-1.4.4c-.7.2-1.7 1.4-.7 1.9.5.1 2.2.5 1.4 1.2q-.7 1-1.9.6c-.7 0-1.5-.4-1.5-1.2q0-1.2-.4-2.3c-.2-.8-1.1-.6-1.2.2q-1 1-.1 2 .3 1.2-.3 2.2c-.2 1-1.2 1-1.9 1.2-.3.2-1.6 0-1.1.7a4 4 0 0 0 2.4.3q1.2-.2 2-1.4c.5-.5 1.4-.2 2.2-.2.7 0 1.5.5 2.3.1.2-.5 1.2-1.5 1.5-.5q.2 1.4 1.5 1.2c.9 0 .5.6.5 1.2q.2 1.3 1.5 1.8h.8q1.2-.3 1.8-1.4l.5-2.2.4-3.4q.3-1.5.4-3.2l.3-2.3q0-.6-.5-.4m-6.7 4.1q.2 0 .2.5t.5.8v.3l-.8.2q-.7 0-1.2-.5l-.2-.2.3-.2.5-.5q.4-.4.7-.4m66-7.9-1.7.3c-1 0-1.5 1-.5 1.6.6 1.5 1.5-.4 2.5-.2 1.4.2 1.5 1.8 1.8 3q.1 1.6.7 3.3c1 1.1-.7 1.8-1.4 1-.6-.7-2-1.5-2.7-.6-.9.4-1 1.6-1.7 2-1.2.3-1.3-1.2-2-1.8-.6-.9-1.7-1-2.6-1.2-.4-.9-.2-2.4-1-3-.8.3-2.2 1.7-1 2.4 1 1-.5 1.4-1 2q-1.1 1.4-1 3c-1.3.7-1.5-.8-1.7-1.7 0-1.1-1-.8-1.7-.4q-1.3.8-2 2v2c.2.9 1.2.5 1.8.4 1-.4 1.4.7.6 1.3-.6.6-2.2.3-2 1.4h1.6c1-.3 2.2-1.1 2.3-2.3.2-1 1.7-.9 2.5-1.1 1-.3 2.3-.4 2.6 1 .7.7 2.2 1.5 3 .5a2 2 0 0 0 1.1-2.3c-.1-.8 1.3-.8 1.7-.3.5.8 2.1.6 2.9 0s1-1.6 2.2-1.6l5.4-1.5c1.4-.3-.2-1.2-.6-1.8-1-.5-2 1.7-3.2.6-1-.7-.9-2-1.2-3.1-.3-1.4-.2-3-1.2-4q-1-1-2.5-.9m-6.8 9.5.5.2q.6.4.7 1 0 .2-.3.3l-.5.2q-.5-.1-.7-.5v-.4q-.3-.5 0-.6zm6.5.4q.5 0 .8.3.2.5-.4.8l-.5.2-.4-.3q-.3-.1-.3-.4.1-.5.8-.7zm-9 0q.3 0 .4.2.3.2.3.6v.6q.2.3-.6.2c-.8-.1-.7 0-.7-.6q0-.5.3-.7t.4-.2zm-5.4 1.5.4.4q0 .4-.2.6-.6.2-1 0v-.1q-.3-.2 0-.3v-.1l.2-.3zm9.2 1.2.5.1v.6h-1.2l-.1-.2q0-.3.2-.4zm-17.1 4.8q-.3 0-.1-.2.3-.4.8-.6a3 3 0 0 0 1.4-1l.4-1-.1-1.4a2 2 0 0 0-.8-1q-.6 0-.8-.6l.4-.9.6-1.2q.6-.3.8.2l.5 1q.4.4.6 1l.4 1 .2 1.3-.2 1.6-.6.8q-.4.5-1 .7-.4.3-.9.4H468zm-6.9.4q-.3-.2-.3-.6c0-.4 0-.3.3-.6q.4-.6 1.4 0t1 .1q.2-.4 1-.5l.5.2q.3.2.3.7c0 .5 0 .5-.3.8q-.3.2-.7.2a1 1 0 0 1-.8-.6q0-.4-.2-.1l-.2.1q-.4.1-.8.5l-.5.1q-.4 0-.7-.3m-19.8-8.9q-1.2.1-1.5 1.3c.2.7.8 1.5.4 2.2.3 1-.8 1.4-1.5.9q-.4-1.5-1.3-3c-.8-.2-1.1 1.1-1.7 1.6.3.7 1.1 1.4 1.2 2.3q.1 1.6-1.1 2.4c-.7.7-1.7.5-2.5.6-1 .6.7.8 1.2.8q1.6.3 3-.8c.7-.3.6-1.7 1.5-1.8l4.8.3c.8.2 2.1-.1 2.7.5 0 1 1 1.8 1.9 2.2.5.2 1-.5 1.5-.6 1-.3.7-1.5 1.3-2h5c.2 0 .3-.5.6-.7l-.2-1.9c-.3-.8 0-1.8-.5-2.5-.9-.2-1.6.5-2.4.6q-1.6.7-1.8 2.3c-.5.9-1.4-.2-1-1l-.1-1c-.5-.5-1.4-.3-2.1-.4l-3-.2q-1.5.1-2.7-.1c-1 0-1-1-1-1.8zm2 3.7 1 .1h1.3q1.5.3 3 .2.3 0 .6.4v2q0 .5-.2.8l-.2.2-.7-.5v-1.4l-.7-.3-2.6-.1-2-.1q-.5 0-.9-.4-.2-.4.4-.7zm11.3.3q.2 0 .2.3l.2.5q0 .2-.2.2-.8.3-1.2 0l.2-.6z\"/></g></g><path stroke-width=\"1.1\" d=\"M450 327.2c32.6-25 29.8-61.8 29.8-61.8l-2.5.2c-6.9 0-23.2-4-27-8.9-4 4.5-20.8 9-27.6 9l-2.5-.3s-2.9 36.7 29.8 61.8z\"/><path stroke-width=\".9\" d=\"M477.2 268h-.8c-6.2 0-20.6-3.1-26.2-7.9-5.8 4.4-20.5 8-26.6 8l-.8-.1a73 73 0 0 0 2.6 18.7 71 71 0 0 0 24.6 37.1 71 71 0 0 0 24.6-37.2 73 73 0 0 0 2.6-18.6z\"/><path fill=\"#c09300\" stroke=\"none\" d=\"M439.4 265a62 62 0 0 1-16.6 3l.1 4.1a73 73 0 0 0 2.5 14.5 71 71 0 0 0 14 26.8zm20.6 0v49.2a71 71 0 0 0 14.6-27.6 73 73 0 0 0 2.5-14.5l.1-4h-.8c-3.8 0-10.4-1.2-16.4-3.2z\"/><g stroke-width=\"1.3\"><path stroke-width=\"1.2\" d=\"M462.3 253c.7.1-.9-3.5-.9-3.5 1.8 1.8 8.4 2.3 8.4 2.3-4-1.8-8-15.1-7.5-25.8.4-10.6-1.5-14.8-3-16.4-2-2-8.5-3.8-12.7-4-2.5-.1-2 1.8-2 1.8-4.5-1.1-9-1.6-11-.2-1.8 1.2-2.2 7.5-.8 6.4 3.3-2.7 6.2-.2 8.2 2.7 1.8 2.5 1.7 9.7-.9 18.2a60 60 0 0 1-10 17.7c4 0 9.6-3.5 9.6-3.5l-1.3 5.5c4.2-2 7.5-5.1 7.5-5.1l4 4.2c1.3-1.8 4-4.2 4-4.2s3.3 3.5 8.4 4z\"/><path fill=\"none\" d=\"M446.1 227.6s-2.2 16.4-6.4 21m10-21.5s-1 16.7-3.8 22m6.9-21.3s0 18.2 1 21.3m3-20.4s.8 15.3 4.6 20.8\"/><path fill=\"#c09300\" stroke-width=\".3\" d=\"M442 219.6a8 8 0 0 0-1-3.3c-2-3-4.9-5.4-8.2-2.7 0 0 1.1-3.5 3.6-3.6 1.8-.1 6.1 1.4 9.9 7.8 0 0-2.8-.6-3.5 0-1.2 1-.7 1.8-.7 1.8z\"/><path fill=\"#c09300\" stroke-width=\".3\" d=\"M432.4 209.3q.4-1.6 1.3-2.1c2-1.4 6.4-1 10.9.2 0 0-.4-1.9 2-1.8 4.2.2 10.6 2 12.6 4a8 8 0 0 1 1.5 2.4c-1-1.4-3.8-1.3-4.5-1.2-1 .1-1.7 0-3.1.4q-1.2.3-2.3.8c-.4.4-.8 1.6-1.4 1.6-1 0-1-.2-1.3-.5q-.4-1-.9-1-1.6.2-5-2.5c-2.3-1.8-3.2-2.2-6-2-3 .2-3.8 1.9-3.8 1.9z\"/><circle cx=\"448.8\" cy=\"210.7\" r=\"1.2\" stroke=\"none\"/></g></g></svg>"
+    },
+    "domains": {
+      "topLevelDomain": ".eg",
+      "internetTld": [
+        ".eg",
+        ".مصر"
+      ]
+    },
+    "unMember": true
+  },
+  {
+    "name": "Eritrea",
+    "officialName": "State of Eritrea",
+    "capital": [
+      "Asmara"
+    ],
+    "iso": {
+      "alpha2": "ER",
+      "alpha3": "ERI",
+      "numeric": "232"
+    },
+    "geo": {
+      "latitude": 15,
+      "longitude": 39,
+      "pointer": {
+        "latitude": 15,
+        "longitude": 39
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "region": "Eastern Africa",
+      "continent": "Africa",
+      "landlocked": false,
+      "areaKm2": 117600,
+      "borders": [
+        "DJI",
+        "ETH",
+        "SDN"
+      ]
+    },
+    "languages": [
+      "Arabic",
+      "English",
+      "Tigrinya"
+    ],
+    "currency": {
+      "code": "ERN",
+      "name": "Eritrean nakfa",
+      "symbol": "Nfk"
+    },
+    "callingCode": "+291",
+    "flag": {
+      "emoji": "🇪🇷",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 480\"><g fill-rule=\"evenodd\"><path fill=\"#be0027\" d=\"M0 0h640v480H0z\"/><path fill=\"#b4d7f4\" d=\"m0 480 640-.3V240z\"/><path fill=\"#239e46\" d=\"m0 0 640 .3V240z\"/><path fill=\"#f3e295\" d=\"M186.2 360.4c-10.7 3-16.8 11.3-16.7 19.1l52.8-.2c.4-8.4-6.5-16.2-17-19.3 51.6-1 96.4-20.4 104.6-32.8-8-3.5-17.4 2.1-24 .8 15.7-7.3 63-37.9 55.3-70.7-6 18.2-24 33.3-31.8 37.4 17.7-26.8 41.8-54.8 20.9-76.4 1 12.5-8 26.3-12 27.4 10.3-28.4 20-64-2.1-87.4 2.9 8.5 1.7 32.4-2.3 33.5-1.2-19.3-4.5-59.8-24.8-59.3 6.4 5.8 9.2 21.4 9.4 37.2a58 58 0 0 0-21.1-27 118 118 0 0 0-41.5-42.2c1.8 12.7 3.3 22.7 21 35.9-9.2-.6-18.4-18.1-28.3-18.6-7.9-.4-14 7.1-26.9 2.8 1.4 4.2 7.4 6.1 8.7 9.2-2.8 2-9.3-.3-14.7-3 7.5 10 19 16 28.8 14 11.7-2.2 24.2-1 36.2 5.8a63 63 0 0 1-22.5.6c6.9 7 11.5 11.7 23.6 11.6 10.7 0 16.4-5.8 19.1-2.2 6.8 8 11.3 16 17 25.4-12.5 1.3-8.7-14.1-22.6-22-7.9 16 9 35.2 20.3 43.2a65 65 0 0 0 7.1 31.5c3.5 6.5 8 13.2 6.3 27.9-6.9-5-13.5-21.8-11-35.1-8.6 2.3-12 17.4-8 25 3 5.7 5 16.8 1.6 21.7-3.4 4.6-3.7 4-3.7 14 .1 5.8-3.2 12.8-8.5 17.7a36 36 0 0 0 1.1-15.8c-4.2 7.2-14.9 14.6-18.2 22.4s-4.1 21.2-20 24.3c-20.6 4-27.7 7.6-40.8 13-1.5-10 2.9-31 11.3-29.7 8.1 1.4 33-8.6 24-29.5-1.7 6.6-7.5 13-13.9 13.3 6.9-8.8 19-18 13.1-32.8a43 43 0 0 1-16.3 18c8.4-16 1-21-9-7.6-3.8 5.1-6.1 15.4-8.5 28.5-4-10.6-3.7-24.6-8.4-36-4.8-12.3 6.5-15.5 11.8-14.5 13 3.5 34.9 3.5 33.3-18.1-5.7 7.3-15.5 9.5-26.2 7 12-8.8 21.4-25.3 8-34a31 31 0 0 1-16.9 24.1 51 51 0 0 1-.3-24.8c-5.2 5.6-9 17-12.1 30.2-.3-13 2.2-22.3 4-29.3 2.8-10.1 9.6-3.5 20-2.8 10.2.6 24-5 21.4-18.7-3.4 5.5-10.5 7.6-17.7 7 8.7-5.3 23.8-14.6 15.5-29-3.5 5.4-4.6 10-14.7 11.7 2.6-6 3-14.7 11-18-14-2.9-22 6.3-26.2 20.7-1.6-10-3.6-13.6-4-21 7.6-8.3 8.4-24.8-8-28.4a35 35 0 0 0 1.2 17.4c-7.7-4.6-18.5-7.1-25.8-.7 5 5.3 12.5 10 24.2 4.2-2.8 9-10 7.5-19.8 4 6 11.3 13.6 13.3 22 12 4.4 11.6 4.6 20.4-8.3 37.2.6-10.4-.1-18.2-8.4-26.7-7.2-7-13 .3-1.8 15.8-6.8-5-14.4-15-16.7-25.1-2.2 12.4-.2 27.1 6.7 35.4-3.3 3.5-7-.4-12.5-9 2 27.4 13.7 32.7 29.4 26.6.4 15 .4 28.9 1.3 47-9.1-13.2-20.7-23-27.1-25.4-2 7.3 5.5 17 9.8 22.3-6.5-1.4-20.5-12-20.5-12-1.4 12.1 14.3 23.4 24.5 28.4-12-.5-17.3-5-25-12.4.2 33.8 36.6 27.9 43.5 22.7l3 52.5c-10.3-1.8-9.5-5-18.3-5.7-24.5-1-43.9-29.4-50.3-50.3-1.9 3.4-.4 7-2.1 11.3-4-10.3-9-23.6-15.9-29.8 1.8 6 2 12.1 1.4 23.3-2.4-7.2-4.5-9.5-4.7-18 .1-6.5 6.3-11.3 6-20.5-.3-6.7-6.4-21.3-7.3-32.5-3 11.6-4.8 23.8-9.4 31 2.3-12.4 1.6-21 5.4-29.3 4.4-8.7 8.1-16.6 5.2-25.4-2.8 3.4-1.9 6.5-9 14.8-1.5-9 9.2-23.5 19.6-29.3 7.3-3.8 16.5-17.6 10.5-27-6.9 5-10 11.6-19.7 23 7-27 25-34.2 46.5-34.3 4.7 0 14.3-1.7 17-8-6 2.3-13.2 2.6-19.6 1.4 4.7-6.9 14.4-6 23.6-6 7.1 0 18.3-1 22.8-11.2a51 51 0 0 1-31 1.9c13.7-7 35-7.8 46-17.1-12.5-9.3-43.7 2.2-63.4 15.7 5.5-5 14.2-14 19-21.2-10.8-5.2-38 25-47.4 43-9 5-12.5 13-16 18.5 4.7-16.1 5.2-27.8 9.2-41C80 138 92.6 194.6 86 208.2c.8-15 .1-34.1-6-44-9.4 7.2-10.2 49.5-1.4 84.7-3.2-9.4-9.2-18.2-11.1-29.7-14 25.4 8.2 55.5 26.7 79.2-14-7.3-27.7-22.9-36.8-36 2.5 45.6 50 55 57.4 66.2-10-4.7-29.1-13.9-37.3-4.2a99 99 0 0 1 32.3 12.1c12.4 15.4 35.7 22.2 76.4 23.9\"/></g></svg>"
+    },
+    "domains": {
+      "topLevelDomain": ".er",
+      "internetTld": [
+        ".er"
+      ]
+    },
+    "unMember": true
+  },
+  {
+    "name": "Western Sahara",
+    "officialName": "Sahrawi Arab Democratic Republic",
+    "capital": [
+      "El Aaiún"
+    ],
+    "iso": {
+      "alpha2": "EH",
+      "alpha3": "ESH",
+      "numeric": "732"
+    },
+    "geo": {
+      "latitude": 24.5,
+      "longitude": -13,
+      "pointer": {
+        "latitude": 24.5,
+        "longitude": -13
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "region": "Northern Africa",
+      "continent": "Africa",
+      "landlocked": false,
+      "areaKm2": 266000,
+      "borders": [
+        "DZA",
+        "MRT",
+        "MAR"
+      ]
+    },
+    "languages": [
+      "Berber",
+      "Hassaniya",
+      "Spanish"
+    ],
+    "currency": {
+      "code": "DZD",
+      "name": "Algerian dinar",
+      "symbol": "دج"
+    },
+    "callingCode": "+2125288",
+    "flag": {
+      "emoji": "🇪🇭",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 480\"><defs><clipPath id=\"a\"><path fill-opacity=\".7\" d=\"M-158.7 0H524v512h-682.7z\"/></clipPath></defs><g fill-rule=\"evenodd\" clip-path=\"url(#a)\" transform=\"translate(148.8)scale(.94)\"><path fill=\"#000001\" d=\"M-158.3 0h680.9v255.3h-680.9z\"/><path fill=\"#007a3d\" d=\"M-158.3 255.3h680.9v255.3h-680.9z\"/><path fill=\"#fff\" d=\"M-158.3 148.9h680.9v212.8h-680.9z\"/><path fill=\"#c4111b\" d=\"m-158.3 0 340.4 255.3-340.4 255.3Z\"/><circle cx=\"352.3\" cy=\"255.3\" r=\"68.1\" fill=\"#c4111b\"/><circle cx=\"377.9\" cy=\"255.3\" r=\"68.1\" fill=\"#fff\"/><path fill=\"#c4111b\" d=\"m334 296.5 29.1-20.7 28.8 21-10.8-34 29-20.9-35.7-.2-11-34-11.2 33.9-35.7-.2 28.7 21.2-11.1 34z\"/></g></svg>"
+    },
+    "domains": {
+      "topLevelDomain": ".eh",
+      "internetTld": [
+        ".eh"
+      ]
+    },
+    "unMember": false
+  },
+  {
+    "name": "Ethiopia",
+    "officialName": "Federal Democratic Republic of Ethiopia",
+    "capital": [
+      "Addis Ababa"
+    ],
+    "iso": {
+      "alpha2": "ET",
+      "alpha3": "ETH",
+      "numeric": "231"
+    },
+    "geo": {
+      "latitude": 8,
+      "longitude": 38,
+      "pointer": {
+        "latitude": 8,
+        "longitude": 38
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "region": "Eastern Africa",
+      "continent": "Africa",
+      "landlocked": true,
+      "areaKm2": 1104300,
+      "borders": [
+        "DJI",
+        "ERI",
+        "KEN",
+        "SOM",
+        "SSD",
+        "SDN"
+      ]
+    },
+    "languages": [
+      "Amharic"
+    ],
+    "currency": {
+      "code": "ETB",
+      "name": "Ethiopian birr",
+      "symbol": "Br"
+    },
+    "callingCode": "+251",
+    "flag": {
+      "emoji": "🇪🇹",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 480\"><defs><clipPath id=\"a\"><path fill-opacity=\".7\" d=\"M-61.3 0h682.7v512H-61.3z\"/></clipPath></defs><g fill-rule=\"evenodd\" stroke-width=\"1pt\" clip-path=\"url(#a)\" transform=\"translate(57.5)scale(.94)\"><path fill=\"#ffc621\" d=\"M-238 3.5H800v498H-238z\"/><path fill=\"#ef2118\" d=\"M-240 342.5H799.3V512H-240z\"/><path fill=\"#298c08\" d=\"M-238 0H800v180H-238z\"/><circle cx=\"534.2\" cy=\"353\" r=\"199.7\" fill=\"#006bc6\" transform=\"matrix(.54 0 0 .54 -25.8 74)\"/><path fill=\"#ffc621\" d=\"m214.3 188.2-6.5 4.5 23.5 33 6.3-4zm29.4 78-9.7-6.8 4-12.7-48.1.7-14-10.7 65.7-.7 12.2-36.9 6.6 15zm76.5-70.7-6.3-4.8-24.3 32.4 5.6 4.7zM254.8 247l3.5-11.2h13.3L256.4 190l6-16.5 20.5 62.4 38.8.5-12.2 10.7zm90.6 51.2 2.7-7.4-38.3-13.3-2.8 7zm-69.1-46.4 11.7-.1 4.1 12.6 38.8-28.5 17.6.6-53.1 38.7 11.5 37.2-14-8.4zm-19.8 102 7.9.2.3-40.5-7.4-.5zm22-80.3 3.8 11.1-10.7 8 39.4 27.7 5 16.8-53.6-38-31.5 22.7 3.5-16 44-32.3zm-103.3 13 2.3 7.5 38.7-12.2-2-7.2zm83.2-4-9.4 7.1-10.8-7.7-14.2 46-14.4 10 19.5-62.7-31.4-23 16.3-1.6z\"/></g></svg>"
+    },
+    "domains": {
+      "topLevelDomain": ".et",
+      "internetTld": [
+        ".et"
+      ]
+    },
+    "unMember": true
+  },
+  {
+    "name": "Gabon",
+    "officialName": "Gabonese Republic",
+    "capital": [
+      "Libreville"
+    ],
+    "iso": {
+      "alpha2": "GA",
+      "alpha3": "GAB",
+      "numeric": "266"
+    },
+    "geo": {
+      "latitude": -1,
+      "longitude": 11.75,
+      "pointer": {
+        "latitude": -1,
+        "longitude": 11.75
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "region": "Middle Africa",
+      "continent": "Africa",
+      "landlocked": false,
+      "areaKm2": 267668,
+      "borders": [
+        "CMR",
+        "COG",
+        "GNQ"
+      ]
+    },
+    "languages": [
+      "French"
+    ],
+    "currency": {
+      "code": "XAF",
+      "name": "Central African CFA franc",
+      "symbol": "Fr"
+    },
+    "callingCode": "+241",
+    "flag": {
+      "emoji": "🇬🇦",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 480\"><g fill-rule=\"evenodd\"><path fill=\"#ffe700\" d=\"M640 480H0V0h640z\"/><path fill=\"#36a100\" d=\"M640 160H0V0h640z\"/><path fill=\"#006dbc\" d=\"M640 480H0V320h640z\"/></g></svg>"
+    },
+    "domains": {
+      "topLevelDomain": ".ga",
+      "internetTld": [
+        ".ga"
+      ]
+    },
+    "unMember": true
+  },
+  {
+    "name": "Ghana",
+    "officialName": "Republic of Ghana",
+    "capital": [
+      "Accra"
+    ],
+    "iso": {
+      "alpha2": "GH",
+      "alpha3": "GHA",
+      "numeric": "288"
+    },
+    "geo": {
+      "latitude": 8,
+      "longitude": -2,
+      "pointer": {
+        "latitude": 8,
+        "longitude": -2
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "region": "Western Africa",
+      "continent": "Africa",
+      "landlocked": false,
+      "areaKm2": 238533,
+      "borders": [
+        "BFA",
+        "CIV",
+        "TGO"
+      ]
+    },
+    "languages": [
+      "English"
+    ],
+    "currency": {
+      "code": "GHS",
+      "name": "Ghanaian cedi",
+      "symbol": "₵"
+    },
+    "callingCode": "+233",
+    "flag": {
+      "emoji": "🇬🇭",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 480\"><path fill=\"#006b3f\" d=\"M0 0h640v480H0z\"/><path fill=\"#fcd116\" d=\"M0 0h640v320H0z\"/><path fill=\"#ce1126\" d=\"M0 0h640v160H0z\"/><path fill=\"#000001\" d=\"m320 160 52 160-136.1-98.9H404L268 320z\"/></svg>"
+    },
+    "domains": {
+      "topLevelDomain": ".gh",
+      "internetTld": [
+        ".gh"
+      ]
+    },
+    "unMember": true
+  },
+  {
+    "name": "Guinea",
+    "officialName": "Republic of Guinea",
+    "capital": [
+      "Conakry"
+    ],
+    "iso": {
+      "alpha2": "GN",
+      "alpha3": "GIN",
+      "numeric": "324"
+    },
+    "geo": {
+      "latitude": 11,
+      "longitude": -10,
+      "pointer": {
+        "latitude": 11,
+        "longitude": -10
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "region": "Western Africa",
+      "continent": "Africa",
+      "landlocked": false,
+      "areaKm2": 245857,
+      "borders": [
+        "CIV",
+        "GNB",
+        "LBR",
+        "MLI",
+        "SEN",
+        "SLE"
+      ]
+    },
+    "languages": [
+      "French"
+    ],
+    "currency": {
+      "code": "GNF",
+      "name": "Guinean franc",
+      "symbol": "Fr"
+    },
+    "callingCode": "+224",
+    "flag": {
+      "emoji": "🇬🇳",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 480\"><g fill-rule=\"evenodd\" stroke-width=\"1pt\"><path fill=\"red\" d=\"M0 0h213.3v480H0z\"/><path fill=\"#ff0\" d=\"M213.3 0h213.4v480H213.3z\"/><path fill=\"#090\" d=\"M426.7 0H640v480H426.7z\"/></g></svg>"
+    },
+    "domains": {
+      "topLevelDomain": ".gn",
+      "internetTld": [
+        ".gn"
+      ]
+    },
+    "unMember": true
+  },
+  {
+    "name": "Gambia",
+    "officialName": "Republic of the Gambia",
+    "capital": [
+      "Banjul"
+    ],
+    "iso": {
+      "alpha2": "GM",
+      "alpha3": "GMB",
+      "numeric": "270"
+    },
+    "geo": {
+      "latitude": 13.4667,
+      "longitude": -16.5667,
+      "pointer": {
+        "latitude": 13.4667,
+        "longitude": -16.5667
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "region": "Western Africa",
+      "continent": "Africa",
+      "landlocked": false,
+      "areaKm2": 10689,
+      "borders": [
+        "SEN"
+      ]
+    },
+    "languages": [
+      "English"
+    ],
+    "currency": {
+      "code": "GMD",
+      "name": "dalasi",
+      "symbol": "D"
+    },
+    "callingCode": "+220",
+    "flag": {
+      "emoji": "🇬🇲",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 480\"><defs><clipPath id=\"a\"><path fill-opacity=\".7\" d=\"M0-48h640v480H0z\"/></clipPath></defs><g fill-rule=\"evenodd\" stroke-width=\"1pt\" clip-path=\"url(#a)\" transform=\"translate(0 48)\"><path fill=\"red\" d=\"M0-128h640V85.3H0z\"/><path fill=\"#fff\" d=\"M0 85.3h640V121H0z\"/><path fill=\"#009\" d=\"M0 120.9h640V263H0z\"/><path fill=\"#fff\" d=\"M0 263.1h640v35.6H0z\"/><path fill=\"#090\" d=\"M0 298.7h640V512H0z\"/></g></svg>"
+    },
+    "domains": {
+      "topLevelDomain": ".gm",
+      "internetTld": [
+        ".gm"
+      ]
+    },
+    "unMember": true
+  },
+  {
+    "name": "Guinea-Bissau",
+    "officialName": "Republic of Guinea-Bissau",
+    "capital": [
+      "Bissau"
+    ],
+    "iso": {
+      "alpha2": "GW",
+      "alpha3": "GNB",
+      "numeric": "624"
+    },
+    "geo": {
+      "latitude": 12,
+      "longitude": -15,
+      "pointer": {
+        "latitude": 12,
+        "longitude": -15
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "region": "Western Africa",
+      "continent": "Africa",
+      "landlocked": false,
+      "areaKm2": 36125,
+      "borders": [
+        "GIN",
+        "SEN"
+      ]
+    },
+    "languages": [
+      "Portuguese",
+      "Upper Guinea Creole"
+    ],
+    "currency": {
+      "code": "XOF",
+      "name": "West African CFA franc",
+      "symbol": "Fr"
+    },
+    "callingCode": "+245",
+    "flag": {
+      "emoji": "🇬🇼",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 640 480\"><path fill=\"#ce1126\" d=\"M0 0h220v480H0z\"/><path fill=\"#fcd116\" d=\"M220 0h420v240H220z\"/><path fill=\"#009e49\" d=\"M220 240h420v240H220z\"/><g id=\"b\" transform=\"matrix(80 0 0 80 110 240)\"><path id=\"a\" fill=\"#000001\" d=\"M0-1v1h.5\" transform=\"rotate(18 0 -1)\"/><use xlink:href=\"#a\" transform=\"scale(-1 1)\"/></g><use xlink:href=\"#b\" transform=\"rotate(72 110 240)\"/><use xlink:href=\"#b\" transform=\"rotate(144 110 240)\"/><use xlink:href=\"#b\" transform=\"rotate(-144 110 240)\"/><use xlink:href=\"#b\" transform=\"rotate(-72 110 240)\"/></svg>"
+    },
+    "domains": {
+      "topLevelDomain": ".gw",
+      "internetTld": [
+        ".gw"
+      ]
+    },
+    "unMember": true
+  },
+  {
+    "name": "Equatorial Guinea",
+    "officialName": "Republic of Equatorial Guinea",
+    "capital": [
+      "Malabo"
+    ],
+    "iso": {
+      "alpha2": "GQ",
+      "alpha3": "GNQ",
+      "numeric": "226"
+    },
+    "geo": {
+      "latitude": 2,
+      "longitude": 10,
+      "pointer": {
+        "latitude": 2,
+        "longitude": 10
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "region": "Middle Africa",
+      "continent": "Africa",
+      "landlocked": false,
+      "areaKm2": 28051,
+      "borders": [
+        "CMR",
+        "GAB"
+      ]
+    },
+    "languages": [
+      "French",
+      "Portuguese",
+      "Spanish"
+    ],
+    "currency": {
+      "code": "XAF",
+      "name": "Central African CFA franc",
+      "symbol": "Fr"
+    },
+    "callingCode": "+240",
+    "flag": {
+      "emoji": "🇬🇶",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 480\"><path fill=\"#e32118\" d=\"M0 0h640v480H0z\"/><path fill=\"#fff\" d=\"M0 0h640v320H0z\"/><path fill=\"#3e9a00\" d=\"M0 0h640v160H0z\"/><path fill=\"#0073ce\" d=\"M0 0v480l180-240z\"/><g stroke=\"#000\"><path fill=\"#fff\" d=\"M281.6 191.8h76.6V272c0 27-35.2 6.2-38.2 20.6-5.2-14.8-38.2 6.6-38.2-22.2z\"/><path fill=\"#73452b\" stroke-width=\".2\" d=\"M325.4 279.8s-1 1-2.8.2-2-51.4-2-51.4c4-4.4 7.2-5.8 7.2-5.8l2.4 2c-9 4.6-8.2 11.2-7.4 22.6.2 4.2.2 9.6 1.2 14.8 1.4 6.6 4.2 12.2 4.4 16.4.2 2.6-3 1.2-3 1.2z\"/><path fill=\"#73452b\" stroke-width=\".2\" d=\"M319.2 221.6h3.6c-3 29-.4 46.2-.4 54.6 0 2.8 1.6 3.8 1.4 3.8-3.6 4-5.4-.2-5.4-.2z\"/><path fill=\"#a36629\" stroke-width=\".2\" d=\"M313.6 279.8c-3.4 1.6-3.8-1.6-3.6-2 7.4-15 10.6-48 3.8-51.6l.4-3.2c2.6.8 5 4.2 5 4.2 1 37 0 52.2-.6 52.8-3.6 3.8-5-.6-5.2-1\"/><path fill=\"none\" stroke-width=\".2\" d=\"M313.4 279.2c-.6-3.2 5.2-11.4 4.8-20m5 7q2.8 7.4 2.2 13.6\"/><path fill=\"#009a3b\" stroke-width=\".2\" d=\"M331 208c1.2-1.4 1.2-1.4 3.4-1.4.4-3 5.4-3 5.8.8 4-.8 4.8 1.6 3.2 4 3.8-1 7.2 0 6.2 4.4 6.8 1.8 4.2 6.6 1.2 7.6-.4 3-3.2 4-7 2.8-4.8 3.4-7.6 2.2-9.8-1.2-5.4.8-5.8-.4-8.2-3.4-4.2 1.8-5 1.8-8.6-.4-.2 2.8-1.2 2-3 1.8q.4 5.6-4.4 4c2.4 5-3.8 7.2-6.8 3-2.8.2-3-.6-4.4-1.6-1.2 4-5.6 3.4-6.4 1.2-5.6-.8-5-3.8-.4-4 .4-3.2 3.2-2.6 5-2.2.2-2 1.4-1.6 2.4-1.2q-1-2 1.6-2.6c-2.6-3.4-1-4.6 1.6-5.8-1.4-3.2 1-3 2.8-3.2-.2-3.4.8-4 4.4-4.4-.4-1.2.2-2.2 2.2-2.2-1.2-3.4.4-4.2 4-3.6.6-5 11.2-2.6 10.4 4.2 3 .4 4 1 4.8 3.4z\"/><path fill=\"none\" stroke-width=\".2\" d=\"M309.6 206.2c.8.4 1.8 0 2 2.2 1.6-2.8 3.6-1.2 3.6 2m11-5.8c-.8 1.2-3.8 1.2-3.4 4.4-1-1.4-3-1.8-3.8-.4m12-.6c0 .8-.2 3.2-1 4.4m13.4-1c.2.2-2.8 0-4.2 1m11.6 11c-.8-.4-2.4-1.4-3.6.2 0-.8 0-3-2.2-3m-1.2 5.6c0-2-.4-2.6-.8-3.2m-5.8.4c-1.6-1.2-3.2.6-3.2 1.6m-8.4-3.4c0-.8-.6-2.4.8-3M302.8 230c.4-2 1.8-2 1.6-3-.2-1.6-2-3-4.2-.8m4.2.8q2-.5 2.8.4m-6.2-7.8c.8-.8 2.8-.6 4 0m0-4.8c1 0 2.8-.4 3.4 1.4 2.2-3.4 3.8-3 4.2-2.2m4-.4c1.6-.6 4.4 1 6 3.8.8-2.2 2-1.8 3.2-2m7.6 2c2.6-1.2 4.2 1.2 5 2.2 1.2-1.6 2.2-1.6 3.4-1.6m-32.6 4.2c.6-1 2-1.2 3-.6-.2-1.8 1-2.6 1.8-2.2\"/><path fill=\"gold\" stroke-width=\".7\" d=\"m317.4 180.5-4.4.2-2.2 4-2.4-3.8-4.4.2 2-4-2.4-3.7 4.6-.2 2-4 2.4 3.8 4.4-.2-2 4zm-18.8 1.5-4.4 1-1.2 4.3-3.2-3.2-4.2 1 1.2-4.2-3-3.2 4.2-1.1 1.2-4.3 3.2 3.2 4.4-1-1.4 4.3zm-18.2 3.7-4 2-.2 4.4-3.8-2.4-4 2 .4-4.5-3.8-2.4 4-2 .4-4.5 3.6 2.5 4-2-.2 4.4zm42.8-5.2 4.4.2 2 4 2.4-3.8 4.4.2-2-4 2.4-3.7-4.4-.2-2.2-4-2.4 3.8-4.4-.2 2 4zM342 182l4.2 1 1.2 4.3 3.2-3.2 4.2 1-1.2-4.2 3.2-3.2-4.4-1.1-1.2-4.3-3.2 3.2-4.2-1 1.2 4.3zm18 3.7 4 2 .2 4.4 3.8-2.4 4 2-.2-4.5 3.6-2.4-4-2-.2-4.5-3.8 2.5-4-2 .4 4.4z\"/><g fill=\"#fff\" stroke-width=\".7\"><path d=\"m365.4 270.4 5 7.2 4.6-6.8-3.2-5.8zm-31.8 21 .4 7.2s2 0 3.8-.6c1.6-.6 3-1.8 3-1.8l-.2-3.8zm-26.8 0-.4 7s-1.8 0-3.6-.4c-1.6-.4-3-1.4-3-1.4l-2-4.8zm-32.2-21-5.2 7.2-5.6-9.2 4.2-4.4z\"/><path d=\"M299.6 305.8c0 6.8 41.2 6.8 41.2 0v-9.6c0 5-41.2 4-41.2 0z\"/><path d=\"M262.8 283.6c3.6 18.4 36.8 18.8 36.8 18.8v-6.2c-.8-2.4.6-3.2 6-4 2.2-.2 1.2-3.4 1.2-3.4s-14.4 2.6-24.6-1.4c-13.8-5.6-15.8-16.4-15.8-16.4s-1 8.4-3.6 12.6zm114.6 0c-3.4 18.4-36.6 18.8-36.6 18.8v-6.2c.6-2.4-.8-3.2-6.2-4-2.2-.2-1-3.4-1-3.4s14.4 2.6 24.6-1.4c13.6-5.6 15.2-16.4 15.2-16.4s1.4 8.4 4 12.6z\"/><path d=\"M265.4 276.6c-9.2-5-2-10.2-1.2-25 1.4 9 11.6 12.8 10.4 18.6-4.2.2-6.2-6.2-8.2.8zm109.4 0c9.2-5.2 1.6-10.2.8-25-1.4 9-11.4 12.8-10.2 18.6 4 .2 6-6.2 8 .8l1.4 5.4z\"/></g><path stroke=\"none\" d=\"m271 283.4 1 .8-2.2 2.4q-1.4 1.4-.5 2.2 1 1 2-.4l2.5-2.6.8.8-2.4 2.8c-1.3 1.5-2.5 1.2-3.6.2-.8-.8-1.4-2 0-3.5zm4 3.4 1 .6-.2 4.8 2.2-3.4 1 .6-3.2 5.2-1.2-.6.2-4.8-2.2 3.4-1-.6zm1.8 8.4 2.8-5.6 1 .6-2.6 5.4zm4.4-4.8-2.2 5.8 2.2.8q2.8.9 3.6-1.9 1.2-2.6-1.6-3.9zm.8 1.4c2 .7 2.2 1.5 1.6 3-.6 1.3-1 1.8-3 .8zm5.8.8-3.6 5.4 1.4.4.8-1.4 2.4.6.2 1.4 1.4.2-1.4-6.4zm.4 1.4.4 2.4-1.6-.2zm3-.9-.2 6.2h2.3c2.2.1 2.8-1 2.9-3 0-1.8-.7-3-2.9-3zm1.2 1c2.2.1 2.5.8 2.5 2.3-.1 1.5-.4 2.1-2.6 1.8v-4zm19.8 7.7v6.4h1.4v-2.4s1.2 0 2.2-.2q1.2-.2 1.3-2 0-1.8-1.9-1.8zm1.4 1h1.4c1.1 0 1 1.8 0 1.8h-1.4zm5.8-1-2.6 6.4h1.4l.6-1.6h2.6l.6 1.6h1.4l-2.6-6.4zm.6 1.4 1 2.4h-1.8zm3.4 3.8 3.4-4.2h-3v-1h4.8v1L325 307h3.6v1.2h-5.2zm20.2-12.4 1.2-.2.6 3.6q.2 2-1.3 2.5c-1 .4-2.4 0-2.5-1.7l1-.2q.4 1.3 1 1 .8-.4.6-1.4zm2-.4 1.1-.2.6 3q.2 1.9 1.5 1.7t.9-2l-.7-3.1 1.2-.2.8 3.3c.4 2-.6 2.7-2 3-1.1.2-2.4 0-2.8-2zm6.2 2.8 1-.4c.5.9 1.2.8 1.8.6q1.2-.8.5-1.4c-.6-.3-2 .2-2.7 0q-1.4-.6-1.2-1.7.2-1.4 1.7-1.7 1.6-.6 2.7 1l-1.2.4q-.7-.9-1.4-.4c-.4.2-1 .5-.6 1 .2.5 1.7.2 2.5.2s1.4.6 1.5 1.3q.4 1.6-1.5 2.2c-1.5.6-2.9 0-3.1-1.1m5.4-5-1.6.8-.4-1 4.4-1.8.4.8-1.6.8 1.8 4.4-1 .6zm2.6-2.2 1-.6 2.8 5.2-1 .6zm6.8.4 1.2-.4a2.4 2.4 0 0 1-2.4 3.3c-3 0-3.4-3.4-2.9-4.5.8-1.9 3-1.8 4-.8l-1 .8c-.6-.8-2-.3-2 .4a3 3 0 0 0 1.4 3c1 .4 2.4-.8 1.7-1.8m-.6-4.2 1-.8 3.6 4.8-1 .8zm3.8-3-1 .8 2.2 6 1-1-.6-1.2 1.8-1.6 1.2.6 1-.8zm.4 1.4 2 1-1.2 1.2z\"/></g></svg>"
+    },
+    "domains": {
+      "topLevelDomain": ".gq",
+      "internetTld": [
+        ".gq"
+      ]
+    },
+    "unMember": true
+  },
+  {
+    "name": "British Indian Ocean Territory",
+    "officialName": "British Indian Ocean Territory",
+    "capital": [
+      "Diego Garcia"
+    ],
+    "iso": {
+      "alpha2": "IO",
+      "alpha3": "IOT",
+      "numeric": "086"
+    },
+    "geo": {
+      "latitude": -6,
+      "longitude": 71.5,
+      "pointer": {
+        "latitude": -6,
+        "longitude": 71.5
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "region": "Eastern Africa",
+      "continent": "Africa",
+      "landlocked": false,
+      "areaKm2": 60
+    },
+    "languages": [
+      "English"
+    ],
+    "currency": {
+      "code": "USD",
+      "name": "United States dollar",
+      "symbol": "$"
+    },
+    "callingCode": "+246",
+    "flag": {
+      "emoji": "🇮🇴",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 480\"><path fill=\"#fff\" d=\"M0 0h640v480H0z\"/><path fill=\"#000063\" fill-rule=\"evenodd\" d=\"M640 416.2c-7.2 6.7-13.3 22-32.4 22-38.1 0-47.6-32.5-76.2-32.5-19 0-28.5 32.5-47.6 32.5-38.1 0-47.6-32.5-76.2-32.5-19 0-28.5 32.5-47.5 32.5-38.2 0-47.7-32.5-76.3-32.5-19 0-28.6 32.5-47.6 32.5-38.1 0-47.6-32.5-76.2-32.5-19 0-28.6 32.5-47.6 32.5-38.2 0-47.7-32.5-76.2-32.5-19 0-24.8 23.2-36.2 23.2v41.7c11.4 0 17.1-23 36.3-23 28.5 0 38 32.4 76 32.4 19.1 0 28.6-32.5 47.7-32.5 28.6 0 38.1 32.5 76.3 32.5 19 0 28.4-32.5 47.5-32.5 28.6 0 38.1 32.5 76.2 32.5 19 0 28.6-32.5 47.6-32.5 28.6 0 38.1 32.5 76.2 32.5 19 0 28.6-32.5 47.6-32.5 28.6 0 38.2 32.5 76.2 32.5 19 0 25.2-9.2 32.4-15.8zm0-81.2c-7.2 6.7-13.3 22-32.4 22-38.1 0-47.6-32.5-76.2-32.5-19 0-28.5 32.5-47.6 32.5-38.1 0-47.6-32.5-76.2-32.5-19 0-28.5 32.5-47.5 32.5-38.2 0-47.7-32.5-76.3-32.5-19 0-28.6 32.5-47.6 32.5-38.1 0-47.6-32.5-76.2-32.5-19 0-28.6 32.5-47.6 32.5-38.2 0-47.7-32.5-76.2-32.5-19 0-24.8 23.2-36.2 23.2v41.8c11.4 0 17.1-23.1 36.3-23.1 28.5 0 38 32.5 76 32.5 19.1 0 28.6-32.5 47.7-32.5 28.6 0 38.1 32.5 76.3 32.5 19 0 28.4-32.5 47.5-32.5 28.6 0 38.1 32.5 76.3 32.5 19 0 28.5-32.5 47.5-32.5 28.6 0 38.1 32.5 76.2 32.5 19 0 28.6-32.5 47.6-32.5 28.6 0 38.2 32.5 76.2 32.5 19 0 25.2-9.2 32.4-15.8zm0-81.1c-7.2 6.7-13.3 22-32.4 22-38.1 0-47.6-32.5-76.2-32.5-19 0-28.5 32.5-47.6 32.5-38.1 0-47.6-32.5-76.2-32.5-19 0-28.5 32.5-47.5 32.5-38.2 0-47.7-32.5-76.3-32.5-19 0-28.6 32.5-47.6 32.5-38.1 0-47.6-32.5-76.2-32.5-19 0-28.6 32.5-47.6 32.5-38.2 0-47.7-32.5-76.2-32.5-19 0-24.8 23.2-36.2 23.2v41.8c11.4 0 17.1-23.2 36.3-23.2 28.5 0 38 32.5 76 32.5 19.1 0 28.6-32.5 47.7-32.5 28.6 0 38.1 32.5 76.3 32.5 19 0 28.4-32.5 47.5-32.5 28.6 0 38.1 32.5 76.3 32.5 19 0 28.5-32.5 47.5-32.5 28.6 0 38.1 32.5 76.2 32.5 19 0 28.6-32.5 47.6-32.5 28.6 0 38.2 32.5 76.2 32.5 19 0 25.2-9.2 32.4-15.8zm0-81.1c-7.2 6.6-13.3 22-32.4 22-38.1 0-47.6-32.5-76.2-32.5-19 0-28.5 32.5-47.6 32.5-38.1 0-47.6-32.5-76.2-32.5-19 0-28.5 32.5-47.5 32.5-38.2 0-47.7-32.5-76.3-32.5-19 0-28.6 32.5-47.6 32.5-38.1 0-47.6-32.5-76.2-32.5-19 0-28.6 32.5-47.6 32.5-38.2 0-47.7-32.5-76.2-32.5-19 0-24.8 23.2-36.2 23.2v41.7c11.4 0 17.1-23 36.3-23 28.5 0 38 32.4 76 32.4 19.1 0 28.6-32.5 47.7-32.5 28.6 0 38.1 32.5 76.3 32.5 19 0 28.4-32.5 47.5-32.5 28.6 0 38.1 32.5 76.3 32.5 19 0 28.5-32.5 47.5-32.5 28.6 0 38.1 32.5 76.2 32.5 19 0 28.6-32.5 47.6-32.5 28.6 0 38.2 32.5 76.2 32.5 19 0 25.2-9.3 32.4-15.9zm0-81.3c-7.2 6.7-13.3 22.1-32.4 22.1-38.1 0-47.6-32.5-76.2-32.5-19 0-28.5 32.5-47.6 32.5-38.1 0-47.6-32.5-76.2-32.5-19 0-28.5 32.5-47.5 32.5-38.2 0-47.7-32.5-76.3-32.5-19 0-28.6 32.5-47.6 32.5-38.1 0-47.6-32.5-76.2-32.5-19 0-28.6 32.5-47.6 32.5-38.2 0-47.7-32.5-76.2-32.5-19 .1-24.8 23.3-36.2 23.3v41.8c11.4 0 17.1-23.1 36.2-23.1 28.5 0 38.1 32.5 76.2 32.5 19 0 28.5-32.5 47.6-32.5 28.6 0 38.1 32.5 76.3 32.5 19 0 28.4-32.5 47.4-32.5 28.7 0 38.2 32.5 76.3 32.5 19 0 28.6-32.5 47.6-32.5 28.6 0 38.1 32.5 76.2 32.5 19 0 28.6-32.5 47.6-32.5 28.6 0 38.2 32.5 76.2 32.5 19 0 25.2-9.3 32.4-15.9v-48Zm0-81c-7.2 6.6-13.3 22-32.4 22C569.5 32.5 560 0 531.4 0c-19 0-28.5 32.5-47.6 32.5-38.1 0-47.6-32.5-76.2-32.5-19 0-28.5 32.5-47.5 32.5-38.2 0-47.7-32.5-76.3-32.5-19 0-28.6 32.5-47.6 32.5C198 32.5 188.6 0 160 0c-19 0-28.6 32.5-47.6 32.5C74.2 32.5 64.7 0 36.2 0 17.2 0 11.4 23.2 0 23.2v41.9C11.4 65 17.1 42 36.2 42c28.5 0 38.1 32.4 76.2 32.4 19 0 28.5-32.4 47.6-32.4 28.6 0 38.1 32.4 76.3 32.4 19 0 28.4-32.4 47.4-32.4 28.7 0 38.2 32.4 76.3 32.4 19 0 28.6-32.4 47.6-32.4 28.6 0 38.1 32.4 76.2 32.4 19 0 28.6-32.4 47.6-32.4 28.6 0 38.2 32.4 76.2 32.4 19 0 25.2-9.2 32.4-15.8z\"/><path fill=\"#a24300\" fill-rule=\"evenodd\" stroke=\"#fff\" stroke-width=\"2.1\" d=\"m474.8 131.7-3.5 329c0 17.3 15.7 17.3 17.4 0l-3.5-329Z\"/><path fill=\"#006d00\" fill-rule=\"evenodd\" stroke=\"#fff\" stroke-width=\"1.8\" d=\"m510.7 254-11-11.9-2.6 12.1-4.7-17.5-4.5 8.8-.8-18.6-4.4 8.8-.8-18.6-4.4 8.8L475 204l-4.4 8.8L468 191l-4.5 8.8-2.5-21.9-1.3-11 2.2-4.3 5.8 2.1 9.1 8.7 18.3 17.4-11.3-4.3 18.3 17.4-11.4-4.3 18.3 17.3-11.4-4.2 16.6 14-11.3-4.2 16.5 14-11.3-4.2 12.6 15.2-13.1-7.6 3 14.3z\"/><path fill=\"none\" stroke=\"#000\" stroke-width=\".3\" d=\"M510.7 254 462 162.6m33.1 28.2L469 175.6l-5.4 24.1\"/><path fill=\"none\" stroke=\"#000\" stroke-width=\".3\" d=\"m502.2 203.8-26.3-15.1-5.3 24.1\"/><path fill=\"none\" stroke=\"#000\" stroke-width=\".3\" d=\"m509.1 216.8-26.2-15-5.4 24\"/><path fill=\"none\" stroke=\"#000\" stroke-width=\".3\" d=\"m514.3 226.7-24.5-11.9-7 21\"/><path fill=\"none\" stroke=\"#000\" stroke-width=\".3\" d=\"M519.5 236.5 495 224.6l-7 21\"/><path fill=\"none\" stroke=\"#000\" stroke-width=\".3\" d=\"m520.8 247.4-22.3-16.2-1.4 23\"/><path fill=\"#006d00\" fill-rule=\"evenodd\" stroke=\"#fff\" stroke-width=\"2\" d=\"m383 97.9 17.8 6.8-5.2-13.5 15.6 15.3-1.5-11 12.6 18.4-1.5-11 12.6 18.4-1.5-11 16.3 20.8-1.5-11 16.3 20.8-1.4-11 16.2 20.8 8.2 10.4.7 5.5-6.7.6-14-4.3-28.2-8.7 13.3-1.1-28.1-8.7 13.3-1.1-28.1-8.7 13.3-1.2-24.4-6.2 13.3-1.1-24.4-6.2 13.3-1.2-21.5-9.3 17.1 1.3L383.1 98z\"/><path fill=\"none\" stroke=\"#000\" stroke-width=\".3\" d=\"m383 97.9 103.7 68.7m-48.9-12.4 34.1 2.6-10.3-26.9\"/><path fill=\"none\" stroke=\"#000\" stroke-width=\".3\" d=\"m423 144.4 34 2.6-10.3-27\"/><path fill=\"none\" stroke=\"#000\" stroke-width=\".3\" d=\"m408.2 134.6 34 2.6-10.3-27\"/><path fill=\"none\" stroke=\"#000\" stroke-width=\".3\" d=\"m397 127.2 30.5.1-6.7-24.4\"/><path fill=\"none\" stroke=\"#000\" stroke-width=\".3\" d=\"m386 119.8 30.4.2-6.7-24.5\"/><path fill=\"none\" stroke=\"#000\" stroke-width=\".3\" d=\"m377.8 109.4 31.1 5.7-13.2-23.9\"/><path fill=\"#006d00\" fill-rule=\"evenodd\" stroke=\"#fff\" stroke-width=\"2\" d=\"M589.8 120.8 575 131.7l16.4 1.8-22.9 5.4 12.2 3.6-24.7 1.8 12.2 3.6-24.7 1.8 12.1 3.7-28.9 3.6 12.2 3.6-28.9 3.6 12.2 3.6-28.9 3.6-14.5 1.8-6-1.8 2.2-5.4 10.7-9 21.3-18.1-4.6 10.8 21.3-18-4.6 10.8 21.3-18-4.6 10.8L553 119l-4.5 10.9 17-16.3-4.5 10.8 19-12.6-8.7 12.7 18.6-3.6z\"/><path fill=\"none\" stroke=\"#000\" stroke-width=\".3\" d=\"m589.8 120.8-117 50.6m34.1-32.5-17.4 25.3 32.7 3.6\"/><path fill=\"none\" stroke=\"#000\" stroke-width=\".3\" d=\"M523.7 131.7 506.2 157l32.7 3.6\"/><path fill=\"none\" stroke=\"#000\" stroke-width=\".3\" d=\"m540.4 124.4-17.5 25.3 32.7 3.7\"/><path fill=\"none\" stroke=\"#000\" stroke-width=\".3\" d=\"m553 119-13.3 23.5 28.5 5.4\"/><path fill=\"none\" stroke=\"#000\" stroke-width=\".3\" d=\"m565.5 113.6-13.3 23.5 28.5 5.4\"/><path fill=\"none\" stroke=\"#000\" stroke-width=\".3\" d=\"m580 111.8-19.4 21.7h30.7\"/><path fill=\"#006d00\" fill-rule=\"evenodd\" stroke=\"#fff\" stroke-width=\"2\" d=\"M587.4 230.3 569 225l6.6 13-17.1-14 2.6 10.7-14.5-17.2 2.7 10.8-14.5-17.3 2.6 10.8-18.5-19.4 2.7 10.8-18.5-19.4 2.7 10.8-18.5-19.4-9.2-9.7-1.3-5.4 6.6-1.2 14.5 3.2 29 6.4-13.2 2.2 29 6.4-13.2 2.2 29 6.4-13.2 2.3 25 4.2-13.2 2.2 25 4.2L569 211l22.3 7.5h-17l13 12z\"/><path fill=\"none\" stroke=\"#000\" stroke-width=\".3\" d=\"m587.4 230.3-110.6-60.2m50 8.4-34.2.2 13.2 26\"/><path fill=\"none\" stroke=\"#000\" stroke-width=\".3\" d=\"m542.6 187.1-34.2.2 13.2 26\"/><path fill=\"none\" stroke=\"#000\" stroke-width=\".3\" d=\"m558.4 195.7-34.2.2 13.2 26\"/><path fill=\"none\" stroke=\"#000\" stroke-width=\".3\" d=\"m570.3 202.2-30.3 2.3 9.3 23.8\"/><path fill=\"none\" stroke=\"#000\" stroke-width=\".3\" d=\"m582.2 208.7-30.3 2.2 9.2 23.8\"/><path fill=\"none\" stroke=\"#000\" stroke-width=\".3\" d=\"m591.3 218.4-31.5-3.2 15.8 22.8\"/><path fill=\"#006d00\" fill-rule=\"evenodd\" stroke=\"#fff\" stroke-width=\"1.8\" d=\"m395.2 236.6 9.3-13-14.1 2.1 17.4-9.9-11.1-.5 20-7-11.1-.6 20-7-11.1-.6 23-9.6-11.2-.5 23-9.7-11.1-.5 23-9.6 11.5-4.9 5.6.3-.4 5.3-6.3 10.4-12.6 20.8.8-10.6-12.6 20.8.7-10.7-12.6 20.8.7-10.6-9.6 18.2.7-10.6-9.6 18.2.7-10.6-12.2 15.4 3.7-13.2z\"/><path fill=\"none\" stroke=\"#000\" stroke-width=\".3\" d=\"m395.2 236.6 83-71m-19.1 36.5 7.3-26.4-28.2 4.1\"/><path fill=\"none\" stroke=\"#000\" stroke-width=\".3\" d=\"m447.2 212.3 7.3-26.4-28.2 4\"/><path fill=\"none\" stroke=\"#000\" stroke-width=\".3\" d=\"m435.3 222.4 7.4-26.4-28.2 4.1\"/><path fill=\"none\" stroke=\"#000\" stroke-width=\".3\" d=\"m426.4 230 4.4-23.8-25.2 1.5\"/><path fill=\"none\" stroke=\"#000\" stroke-width=\".3\" d=\"m417.5 237.6 4.4-23.8-25.2 1.5\"/><path fill=\"none\" stroke=\"#000\" stroke-width=\".3\" d=\"m406 242.4 10-23.5-25.6 6.8\"/><path fill=\"#006d00\" fill-rule=\"evenodd\" stroke=\"#fff\" stroke-width=\"2\" d=\"m563 66.2-17.9 12-2.9-12.9-10.5 17.8-2-8.5-8.6 18.2-1.2-8.4-6.7 18.7-3.8-9-6.7 22.7-3.8-9-6.7 22.7-3.9-9-6.7 22.7-3.3 11.4 1.9 4.5 7.2-2.4 12.4-9.2 25-18.4-14.4 4.7 24.9-18.5-14.4 4.8 24.9-18.5-14.4 4.8 25-14.4-17 4L566 83.3l-16.3 4.2 19.7-15.6-17 8.1z\"/><path fill=\"none\" stroke=\"#000\" stroke-width=\".3\" d=\"m556 72.7-25.8 22.2-50 65.2\"/><path fill=\"none\" stroke=\"#000\" stroke-width=\".3\" d=\"m519.3 132.8-28.6 13.5-2.4-20.8\"/><path fill=\"none\" stroke=\"#000\" stroke-width=\".3\" d=\"m530.2 119.2-29 13.4-2.3-20.8\"/><path fill=\"none\" stroke=\"#000\" stroke-width=\".3\" d=\"m540.5 105.5-28.7 13.4-2.2-20.7\"/><path fill=\"none\" stroke=\"#000\" stroke-width=\".3\" d=\"m549.1 95.3-26.8 9.9-3-17\"/><path fill=\"none\" stroke=\"#000\" stroke-width=\".3\" d=\"M559 85.5 530.2 95l-1-16.4\"/><path fill=\"none\" stroke=\"#000\" stroke-width=\".3\" d=\"m562.8 76.2-26.6 13.6 5.2-20.6\"/><path fill=\"#006d00\" fill-rule=\"evenodd\" stroke=\"#fff\" stroke-width=\"2\" d=\"m466.1 43.8 8 18.2 10.3-9.6-1.7 19.8 6.8-6.4-3.7 19.4 6-6.6-5.5 19 8.7-6-8 22.3 8.6-6-8 22.5 8.7-6-8 22.4-4 11.2-4.4 3-4.8-5.3-5-13.4-10-26.9 9.4 10.5-10.1-27 9.4 10.6-10-27L468 93l-12.5-23.4 12 11.1-14.4-23.9 11.3 11-7.3-22.2 9.6 14.6z\"/><path fill=\"none\" stroke=\"#000\" stroke-width=\".3\" d=\"m468.2 52.4 8.5 30.5 3.2 78\"/><path fill=\"none\" stroke=\"#000\" stroke-width=\".3\" d=\"m463 120.2 16.2 24.3 14.7-16.7\"/><path fill=\"none\" stroke=\"#000\" stroke-width=\".3\" d=\"m462 103.7 16.5 24.4 14.7-16.7\"/><path fill=\"none\" stroke=\"#000\" stroke-width=\".3\" d=\"m461.5 87.3 16.4 24.4L492.3 95\"/><path fill=\"none\" stroke=\"#000\" stroke-width=\".3\" d=\"m460.4 74.9 16.8 20.4 13-13\"/><path fill=\"none\" stroke=\"#000\" stroke-width=\".3\" d=\"m458 62 18.7 21 11-13.6\"/><path fill=\"none\" stroke=\"#000\" stroke-width=\".3\" d=\"m460.3 52.4 14.4 23.5 8.1-19.9\"/><path fill=\"#006d00\" fill-rule=\"evenodd\" stroke=\"#fff\" stroke-width=\"1.9\" d=\"m359 178 23.3-16.2-11.7-6 20.5 3.4-7-9.3 19.8 7.5-7-9.3 19.9 7.4-7-9.2 24 8.1-7-9.3 23.3 12.1-7-9.3 24 8.2 11.7 6 3.5 4.6-4.7 3.3-12.9 1.8-20.7 8.6 3.8-7.4-25.7 3.6 9.3-6.4-26.3 7.6 9.4-6.5-22.2 8.3 9.9-10.4-22.8 12.2 10-10.4-18.8 13 10.5-14.4z\"/><path fill=\"none\" stroke=\"#000\" stroke-width=\".3\" d=\"m366.3 173.6 24.2-10.5 12.9-1.8 10.7-.2 18.5 1.2 16.7.7 33 3.7\"/><path fill=\"none\" stroke=\"#000\" stroke-width=\".3\" d=\"m447.2 176.9 18.5-11.4-18.8-14.7\"/><path fill=\"none\" stroke=\"#000\" stroke-width=\".3\" d=\"m426.5 175.2 22.7-12.2-18.7-14.8\"/><path fill=\"none\" stroke=\"#000\" stroke-width=\".3\" d=\"m411.7 174.8 20.9-12.5-19-13.7m-29.5 29.6 19.3-16.9-15.6-8.5\"/><path fill=\"none\" stroke=\"#000\" stroke-width=\".3\" d=\"m375.5 179.3 15-16.1-12-4.5m18.4 17.7 19-15.2-15.2-10.4\"/><g fill-rule=\"evenodd\"><path fill=\"#c00\" stroke=\"#000\" stroke-width=\"1pt\" d=\"m541.5 1173.3-1.7-229.1-61.1-107c-15.3-52.6-7.8-78 17-79.8 24.7-1.6 49.2 13.6 84.8 15.3s28.9-59.4 81.5-57.7 144.3 32.3 222.3 37.4c78.1 5 118.8-27.2 208.8-30.6s113.7 42.4 118.8 42.4 30.6-18.6 56-22c25.5-3.4 34 10.2 34 10.2s-1.7 57.7-13.6 91.6c-11.9 34-54.3 90-56 90s-15.3 249.5-15.3 251.2-675.5-6.8-675.5-11.9z\" transform=\"matrix(.12934 0 0 .11906 367.5 215.5)\"/><g stroke=\"#000\" stroke-width=\"1pt\"><path fill=\"#fff100\" d=\"M531.5 584.6s-68-52-69.8-177.1c-1-72 34.4-124 123-124 124 0 301.1 53.1 301.1 53.1v17.7s-141.7-53.1-301.2-53.1c-70.8 0-106.3 52-106.3 105.2 0 88.6 71 178.3 71 178.3v141.7h-17.8z\" transform=\"matrix(-.12934 0 0 .11906 596.6 257.6)\"/><path fill=\"#fff\" d=\"M478.4 549.2a17.8 17.8 0 1 1-35.5 0 17.8 17.8 0 0 1 35.5 0z\" transform=\"matrix(-.12934 0 0 .11906 594.5 257.4)\"/><path fill=\"#fff\" d=\"M478.4 549.2a17.8 17.8 0 1 1-35.5 0 17.8 17.8 0 0 1 35.5 0z\" transform=\"matrix(-.12934 0 0 .11906 596.8 252.6)\"/><path fill=\"#fff\" d=\"M478.4 549.2a17.8 17.8 0 1 1-35.5 0 17.8 17.8 0 0 1 35.5 0z\" transform=\"matrix(-.12934 0 0 .11906 598 247.6)\"/><path fill=\"#fff\" d=\"M478.4 549.2a17.8 17.8 0 1 1-35.5 0 17.8 17.8 0 0 1 35.5 0z\" transform=\"matrix(-.12934 0 0 .11906 598.9 242.4)\"/><path fill=\"#fff\" d=\"M478.4 549.2a17.8 17.8 0 1 1-35.5 0 17.8 17.8 0 0 1 35.5 0z\" transform=\"matrix(-.12934 0 0 .11906 598.7 236.8)\"/><path fill=\"#fff\" d=\"M478.4 549.2a17.8 17.8 0 1 1-35.5 0 17.8 17.8 0 0 1 35.5 0z\" transform=\"matrix(-.12934 0 0 .11906 591.2 261.7)\"/><path fill=\"#fff\" d=\"M478.4 549.2a17.8 17.8 0 1 1-35.5 0 17.8 17.8 0 0 1 35.5 0z\" transform=\"matrix(-.12934 0 0 .11906 596.7 231.4)\"/><path fill=\"#fff\" d=\"M478.4 549.2a17.8 17.8 0 1 1-35.5 0 17.8 17.8 0 0 1 35.5 0z\" transform=\"matrix(-.12934 0 0 .11906 592.5 227.1)\"/><path fill=\"#fff\" d=\"M478.4 549.2a17.8 17.8 0 1 1-35.5 0 17.8 17.8 0 0 1 35.5 0z\" transform=\"matrix(-.12934 0 0 .11906 586.8 224.3)\"/><path fill=\"#fff\" d=\"M478.4 549.2a17.8 17.8 0 1 1-35.5 0 17.8 17.8 0 0 1 35.5 0z\" transform=\"matrix(-.12934 0 0 .11906 581 223.9)\"/><path fill=\"#fff\" d=\"M478.4 549.2a17.8 17.8 0 1 1-35.5 0 17.8 17.8 0 0 1 35.5 0z\" transform=\"matrix(-.12934 0 0 .11906 575 224)\"/><path fill=\"#fff\" d=\"M478.4 549.2a17.8 17.8 0 1 1-35.5 0 17.8 17.8 0 0 1 35.5 0z\" transform=\"matrix(-.12934 0 0 .11906 568.8 225)\"/><path fill=\"#fff\" d=\"M478.4 549.2a17.8 17.8 0 1 1-35.5 0 17.8 17.8 0 0 1 35.5 0z\" transform=\"matrix(-.12934 0 0 .11906 562.7 225.7)\"/><path fill=\"#fff\" d=\"M478.4 549.2a17.8 17.8 0 1 1-35.5 0 17.8 17.8 0 0 1 35.5 0z\" transform=\"matrix(-.12934 0 0 .11906 556 226.6)\"/><path fill=\"#fff\" d=\"M478.4 549.2a17.8 17.8 0 1 1-35.5 0 17.8 17.8 0 0 1 35.5 0z\" transform=\"matrix(-.12934 0 0 .11906 550.4 228.1)\"/></g><path fill=\"#fff\" stroke=\"#000\" stroke-width=\"1pt\" d=\"M478.4 549.2a17.8 17.8 0 1 1-35.5 0 17.8 17.8 0 0 1 35.5 0z\" transform=\"matrix(.12934 0 0 .11906 369.5 257.4)\"/><path fill=\"#fff\" stroke=\"#000\" stroke-width=\"1pt\" d=\"M478.4 549.2a17.8 17.8 0 1 1-35.5 0 17.8 17.8 0 0 1 35.5 0z\" transform=\"matrix(.12934 0 0 .11906 367.2 252.6)\"/><path fill=\"#fff\" stroke=\"#000\" stroke-width=\"1pt\" d=\"M478.4 549.2a17.8 17.8 0 1 1-35.5 0 17.8 17.8 0 0 1 35.5 0z\" transform=\"matrix(.12934 0 0 .11906 366 247.6)\"/><path fill=\"#fff\" stroke=\"#000\" stroke-width=\"1pt\" d=\"M478.4 549.2a17.8 17.8 0 1 1-35.5 0 17.8 17.8 0 0 1 35.5 0z\" transform=\"matrix(.12934 0 0 .11906 365.2 242.4)\"/><path fill=\"#fff\" stroke=\"#000\" stroke-width=\"1pt\" d=\"M478.4 549.2a17.8 17.8 0 1 1-35.5 0 17.8 17.8 0 0 1 35.5 0z\" transform=\"matrix(.12934 0 0 .11906 365.4 236.8)\"/><path fill=\"#fff\" stroke=\"#000\" stroke-width=\"1pt\" d=\"M478.4 549.2a17.8 17.8 0 1 1-35.5 0 17.8 17.8 0 0 1 35.5 0z\" transform=\"matrix(.12934 0 0 .11906 367.3 231.4)\"/><path fill=\"#fff\" stroke=\"#000\" stroke-width=\"1pt\" d=\"M478.4 549.2a17.8 17.8 0 1 1-35.5 0 17.8 17.8 0 0 1 35.5 0z\" transform=\"matrix(.12934 0 0 .11906 371.4 227.1)\"/><path fill=\"#fff\" stroke=\"#000\" stroke-width=\"1pt\" d=\"M478.4 549.2a17.8 17.8 0 1 1-35.5 0 17.8 17.8 0 0 1 35.5 0z\" transform=\"matrix(.12934 0 0 .11906 377.2 224.3)\"/><path fill=\"#fff\" stroke=\"#000\" stroke-width=\"1pt\" d=\"M478.4 549.2a17.8 17.8 0 1 1-35.5 0 17.8 17.8 0 0 1 35.5 0z\" transform=\"matrix(.12934 0 0 .11906 382.9 223.9)\"/><path fill=\"#fff\" stroke=\"#000\" stroke-width=\"1pt\" d=\"M478.4 549.2a17.8 17.8 0 1 1-35.5 0 17.8 17.8 0 0 1 35.5 0z\" transform=\"matrix(.12934 0 0 .11906 389 224)\"/><path fill=\"#fff\" stroke=\"#000\" stroke-width=\"1pt\" d=\"M478.4 549.2a17.8 17.8 0 1 1-35.5 0 17.8 17.8 0 0 1 35.5 0z\" transform=\"matrix(.12934 0 0 .11906 395.2 225)\"/><path fill=\"#fff\" stroke=\"#000\" stroke-width=\"1pt\" d=\"M478.4 549.2a17.8 17.8 0 1 1-35.5 0 17.8 17.8 0 0 1 35.5 0z\" transform=\"matrix(.12934 0 0 .11906 401.4 225.7)\"/><path fill=\"#fff\" stroke=\"#000\" stroke-width=\"1pt\" d=\"M478.4 549.2a17.8 17.8 0 1 1-35.5 0 17.8 17.8 0 0 1 35.5 0z\" transform=\"matrix(.12934 0 0 .11906 407.9 226.6)\"/><path fill=\"#fff\" stroke=\"#000\" stroke-width=\"1pt\" d=\"M478.4 549.2a17.8 17.8 0 1 1-35.5 0 17.8 17.8 0 0 1 35.5 0z\" transform=\"matrix(.12934 0 0 .11906 413.6 228.1)\"/><path fill=\"#fff\" stroke=\"#000\" stroke-width=\"1pt\" d=\"M478.4 549.2a17.8 17.8 0 1 1-35.5 0 17.8 17.8 0 0 1 35.5 0z\" transform=\"matrix(.12934 0 0 .11906 372.8 261.7)\"/><path fill=\"#fff100\" stroke=\"#000\" stroke-width=\"1pt\" d=\"M531.5 584.6s-68-52-69.8-177.1c-1-72 34.4-124 123-124 124 0 301.1 53.1 301.1 53.1v17.7s-141.7-53.1-301.2-53.1c-70.8 0-106.3 52-106.3 105.2 0 88.6 71 178.3 71 178.3v141.7h-17.8z\" transform=\"matrix(.12934 0 0 .11906 367.5 257.6)\"/><path fill=\"#fff100\" stroke=\"#000\" stroke-width=\"3\" d=\"M1240.2 531.5s15.3-35.4 70.9-35.4c37.8 0 70.8 35.4 70.8 70.8v70.9h35.5v-70.9c0-35.4 35.4-70.8 70.8-70.8 53.2 0 70.9 35.4 70.9 35.4s0-106.3-70.9-106.3c-53.1 0-70.8 35.4-70.8 35.4s17.7-53.1 17.7-106.3-35.4-88.6-35.4-88.6c0 6.8-35.5 35.5-35.5 88.6s17.7 106.3 17.7 106.3-17.7-35.4-70.8-35.4c-70.9 0-70.9 106.3-70.9 106.3z\" transform=\"matrix(.04311 0 0 .04536 398.7 310.9)\"/><path fill=\"#fff100\" stroke=\"#000\" stroke-width=\"3\" d=\"M1240.2 531.5s15.3-35.4 70.9-35.4c37.8 0 70.8 35.4 70.8 70.8v70.9h35.5v-70.9c0-35.4 35.4-70.8 70.8-70.8 53.2 0 70.9 35.4 70.9 35.4s0-106.3-70.9-106.3c-53.1 0-70.8 35.4-70.8 35.4s17.7-53.1 17.7-106.3-35.4-88.6-35.4-88.6c0 6.8-35.5 35.5-35.5 88.6s17.7 106.3 17.7 106.3-17.7-35.4-70.8-35.4c-70.9 0-70.9 106.3-70.9 106.3z\" transform=\"matrix(.04311 0 0 .04536 444.5 310.9)\"/><path fill=\"#fff100\" stroke=\"#000\" stroke-width=\"1pt\" d=\"M531.5 832.7V673.2s35.4 53.2 88.6 53.2c43.5 0 88.6-70.9 88.6-70.9s41.5 53.2 88.6 53.2c42 0 88.5-68.6 88.5-68.6s43.2 68.6 88.6 68.6c45.5 0 88.6-53.2 88.6-53.2s46.3 70.9 106.3 70.9c53.1 0 70.9-53.2 70.9-53.2v159.5z\" transform=\"matrix(.12934 0 0 .11906 367.5 257.6)\"/><path fill=\"#fff100\" stroke=\"#000\" stroke-width=\"1pt\" d=\"M708.7 832.7v-124S815 744 815 832.7z\" transform=\"matrix(.12934 0 0 .11906 344.5 257.6)\"/><path fill=\"#fff100\" stroke=\"#000\" stroke-width=\"1pt\" d=\"M708.7 832.7v-124S815 744 815 832.7z\" transform=\"matrix(-.12934 0 0 .11906 619.4 257.6)\"/><path fill=\"#fff100\" stroke=\"#000\" stroke-width=\"1pt\" d=\"M602.4 832.7C602.4 744 708.7 688 708.7 688S815 744 815 832.7z\" transform=\"matrix(.12934 0 0 .11906 367.5 257.6)\"/><path fill=\"#fff100\" stroke=\"#000\" stroke-width=\"1pt\" d=\"M602.4 832.7C602.4 744 708.7 688 708.7 688S815 744 815 832.7z\" transform=\"matrix(.12934 0 0 .11906 413.3 257.6)\"/><path fill=\"#fff100\" stroke=\"#000\" stroke-width=\"1pt\" d=\"M584.6 847.5c0-88.6 124.1-159.4 124.1-159.4s124 70.8 124 159.4h-248z\" transform=\"matrix(.12934 0 0 .11906 390.4 255.9)\"/><path fill=\"#fff\" stroke=\"#000\" stroke-width=\"1pt\" d=\"M1275.6 655.5c-35.4-17.7-166-35.4-376.3-35.4s-350 17.7-385.5 35.4c-35.4 17.7-35.4 53.2 0 70.9s175.3 35.4 385.5 35.4 340.9-17.7 376.3-35.4 35.4-53.2 0-70.9z\" transform=\"matrix(.12788 0 0 .11906 367 278.7)\"/><path fill=\"gray\" d=\"M527.9 365.2c0 4.2-38.2 4.2-45.9 4.2-8.3 0-45.8 1.2-45.8-4.2 0-4.2 37.8-4.2 45.8-4.2s45.9.8 45.9 4.2\"/><path fill=\"#c00\" d=\"M440.8 350c0 1.4-1 2.6-2.3 2.6s-2.3-1.2-2.3-2.6 1-2.5 2.3-2.5 2.3 1.2 2.3 2.5m87 0c0 1.4-1 2.6-2.3 2.6s-2.3-1.2-2.3-2.6 1-2.5 2.3-2.5 2.3 1.2 2.3 2.5\"/><path d=\"M486.6 348.8c0 1.3-2.1 2.4-4.6 2.4s-4.6-1.1-4.6-2.5 2-2.5 4.6-2.5 4.6 1.2 4.6 2.5z\"/><path fill=\"#006300\" d=\"M508.6 348.8c0 1.3-1.6 2.4-3.5 2.4s-3.4-1.1-3.4-2.5 1.6-2.5 3.4-2.5 3.5 1.2 3.5 2.5zm-47.2 0c0 1.3-1.5 2.4-3.4 2.4s-3.5-1.1-3.5-2.5 1.5-2.5 3.5-2.5c1.9 0 3.4 1.2 3.4 2.5z\"/><path fill=\"#fff100\" stroke=\"#000\" stroke-width=\"2.2\" d=\"M1257.9 496s35.4-53 70.9-53h35.4v35.3c0 53.2-53.1 71-53.1 71h141.7s-53.2-17.8-53.2-71V443h35.5c35.4 0 70.8 53.2 70.8 53.2V354.3s-35.4 53.2-70.8 53.2h-35.5V372c0-53.1 53.2-70.8 53.2-70.8H1311s53.1 17.7 53.1 70.8v35.5h-35.4c-35.5 0-70.9-53.2-70.9-53.2v141.8z\" transform=\"matrix(.0739 0 0 .06804 379.9 300.5)\"/><path fill=\"#fff100\" stroke=\"#000\" stroke-width=\"3.3\" d=\"M1381.9 549.2h70.9s-53.2-17.7-53.2-70.9V443h35.4c35.5 0 71 53.2 71 53.2V354.3s-35.5 53.2-71 53.2h-35.4V372c0-53.1 53.2-70.8 53.2-70.8h-70.9z\" transform=\"matrix(.03696 0 0 .05953 385 309.3)\"/><path fill=\"#fff100\" stroke=\"#000\" stroke-width=\"3.3\" d=\"M1381.9 549.2h70.9s-53.2-17.7-53.2-70.9V443h35.4c35.5 0 71 53.2 71 53.2V354.3s-35.5 53.2-71 53.2h-35.4V372c0-53.1 53.2-70.8 53.2-70.8h-70.9z\" transform=\"matrix(-.03696 0 0 .05953 579 309.3)\"/><path fill=\"#fff\" stroke=\"#000\" stroke-width=\"1pt\" d=\"M903.5 602.4a17.7 17.7 0 1 1-35.4 0 17.7 17.7 0 0 1 35.4 0z\" transform=\"matrix(.12934 0 0 .11906 367.5 257.6)\"/><path fill=\"#fff100\" stroke=\"#000\" stroke-width=\"2.2\" d=\"M1257.9 496s35.4-53 70.9-53h35.4v35.3c0 53.2-53.1 71-53.1 71h141.7s-53.2-17.8-53.2-71V443h35.5c35.4 0 70.8 53.2 70.8 53.2V354.3s-35.4 53.2-70.8 53.2h-35.5V372c0-53.1 53.2-70.8 53.2-70.8H1311s53.1 17.7 53.1 70.8v35.5h-35.4c-35.5 0-70.9-53.2-70.9-53.2v141.8z\" transform=\"matrix(.0739 0 0 .06804 379.9 256.2)\"/><path fill=\"#fff\" stroke=\"#000\" stroke-width=\"1pt\" d=\"M903.5 602.4a17.7 17.7 0 1 1-35.4 0 17.7 17.7 0 0 1 35.4 0z\" transform=\"matrix(.12934 0 0 .11906 367.7 213.7)\"/><path fill=\"#fff100\" stroke=\"#000\" stroke-width=\"1pt\" d=\"M850.4 655.5h70.9v53.2h-71z\" transform=\"matrix(.12934 0 0 .11906 367.5 215.5)\"/><path fill=\"#fff100\" stroke=\"#000\" stroke-width=\"1pt\" d=\"M850.4 683.3h70.9v202.5h-71z\" transform=\"matrix(.12934 0 0 .11906 367.5 215.5)\"/><path fill=\"#fff\" stroke=\"#000\" stroke-width=\"1pt\" d=\"M478.4 549.2a17.8 17.8 0 1 1-35.5 0 17.8 17.8 0 0 1 35.5 0z\" transform=\"matrix(.12934 0 0 .11906 422.4 251.2)\"/><path fill=\"#fff\" stroke=\"#000\" stroke-width=\"1pt\" d=\"M478.4 549.2a17.8 17.8 0 1 1-35.5 0 17.8 17.8 0 0 1 35.5 0z\" transform=\"matrix(.12934 0 0 .11906 422.4 245.8)\"/><path fill=\"#fff\" stroke=\"#000\" stroke-width=\"1pt\" d=\"M478.4 549.2a17.8 17.8 0 1 1-35.5 0 17.8 17.8 0 0 1 35.5 0z\" transform=\"matrix(.12934 0 0 .11906 422.4 240.8)\"/><path fill=\"#fff\" stroke=\"#000\" stroke-width=\"1pt\" d=\"M478.4 549.2a17.8 17.8 0 1 1-35.5 0 17.8 17.8 0 0 1 35.5 0z\" transform=\"matrix(.12934 0 0 .11906 422.4 235.5)\"/><path d=\"M486.9 356.8c0 1-2.1 1.7-4.8 1.7s-4.5-.7-4.5-1.7 2-1.7 4.6-1.7 4.7.8 4.7 1.7M529 361c-.3.7-2.6.8-5.1 0-2.6-.5-4.4-1.4-4.2-2 .3-.8 2.6-.8 5.1-.2 2.6.6 4.4 1.5 4.2 2.2m-17.7-2.8c0 .8-2.3 1.3-5 1.2-2.5-.2-4.6-1-4.5-2 .1-.8 2.4-1.2 5-1s4.7.9 4.5 1.8m-77.5 2.8c.2.7 2.5.8 5 0 2.6-.5 4.5-1.4 4.2-2-.3-.8-2.5-.8-5-.2-2.6.6-4.4 1.5-4.2 2.2m18.5-3.2c.1.8 2.4 1.3 5 1.1s4.7-1 4.5-1.9c0-.7-2.3-1.3-5-1.1-2.5.2-4.6 1-4.5 1.9\"/></g><path fill=\"#012169\" d=\"M0 0h320v240H0Z\"/><path fill=\"#fff\" d=\"m37.5 0 122 90.5L281 0h39v31l-120 89.5 120 89V240h-40l-120-89.5L40.5 240H0v-30l119.5-89L0 32V0Z\"/><path fill=\"#c8102e\" d=\"M212 140.5 320 220v20l-135.5-99.5Zm-92 10 3 17.5-96 72H0ZM320 0v1.5l-124.5 94 1-22L295 0ZM0 0l119.5 88h-30L0 21Z\"/><path fill=\"#fff\" d=\"M120.5 0v240h80V0ZM0 80v80h320V80Z\"/><path fill=\"#c8102e\" d=\"M0 96.5v48h320v-48zM136.5 0v240h48V0Z\"/></svg>"
+    },
+    "domains": {
+      "topLevelDomain": ".io",
+      "internetTld": [
+        ".io"
+      ]
+    },
+    "unMember": false
+  },
+  {
+    "name": "Kenya",
+    "officialName": "Republic of Kenya",
+    "capital": [
+      "Nairobi"
+    ],
+    "iso": {
+      "alpha2": "KE",
+      "alpha3": "KEN",
+      "numeric": "404"
+    },
+    "geo": {
+      "latitude": 1,
+      "longitude": 38,
+      "pointer": {
+        "latitude": 1,
+        "longitude": 38
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "region": "Eastern Africa",
+      "continent": "Africa",
+      "landlocked": false,
+      "areaKm2": 580367,
+      "borders": [
+        "ETH",
+        "SOM",
+        "SSD",
+        "TZA",
+        "UGA"
+      ]
+    },
+    "languages": [
+      "English",
+      "Swahili"
+    ],
+    "currency": {
+      "code": "KES",
+      "name": "Kenyan shilling",
+      "symbol": "Sh"
+    },
+    "callingCode": "+254",
+    "flag": {
+      "emoji": "🇰🇪",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 640 480\"><defs><path id=\"a\" stroke-miterlimit=\"10\" d=\"m-28.6 47.5 1.8 1 46.7-81c2.7-.6 4.2-3.2 5.7-5.8 1-1.8 5-8.7 6.7-17.7a58 58 0 0 0-11.9 14.7c-1.5 2.6-3 5.2-2.3 7.9z\"/></defs><path fill=\"#fff\" d=\"M0 0h640v480H0z\"/><path fill=\"#000001\" d=\"M0 0h640v144H0z\"/><path fill=\"#060\" d=\"M0 336h640v144H0z\"/><g id=\"b\" transform=\"matrix(3 0 0 3 320 240)\"><use xlink:href=\"#a\" stroke=\"#000\"/><use xlink:href=\"#a\" fill=\"#fff\"/></g><use xlink:href=\"#b\" transform=\"matrix(-1 0 0 1 640 0)\"/><path fill=\"#b00\" d=\"M640.5 168H377c-9-24-39-72-57-72s-48 48-57 72H-.2v144H263c9 24 39 72 57 72s48-48 57-72h263.5z\"/><path id=\"c\" d=\"M377 312c9-24 15-48 15-72s-6-48-15-72c-9 24-15 48-15 72s6 48 15 72\"/><use xlink:href=\"#c\" transform=\"matrix(-1 0 0 1 640 0)\"/><g fill=\"#fff\" transform=\"matrix(3 0 0 3 320 240)\"><ellipse rx=\"4\" ry=\"6\"/><path id=\"d\" d=\"M1 5.8s4 8 4 21-4 21-4 21z\"/><use xlink:href=\"#d\" transform=\"scale(-1)\"/><use xlink:href=\"#d\" transform=\"scale(-1 1)\"/><use xlink:href=\"#d\" transform=\"scale(1 -1)\"/></g></svg>"
+    },
+    "domains": {
+      "topLevelDomain": ".ke",
+      "internetTld": [
+        ".ke"
+      ]
+    },
+    "unMember": true
+  },
+  {
+    "name": "Liberia",
+    "officialName": "Republic of Liberia",
+    "capital": [
+      "Monrovia"
+    ],
+    "iso": {
+      "alpha2": "LR",
+      "alpha3": "LBR",
+      "numeric": "430"
+    },
+    "geo": {
+      "latitude": 6.5,
+      "longitude": -9.5,
+      "pointer": {
+        "latitude": 6.5,
+        "longitude": -9.5
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "region": "Western Africa",
+      "continent": "Africa",
+      "landlocked": false,
+      "areaKm2": 111369,
+      "borders": [
+        "GIN",
+        "CIV",
+        "SLE"
+      ]
+    },
+    "languages": [
+      "English"
+    ],
+    "currency": {
+      "code": "LRD",
+      "name": "Liberian dollar",
+      "symbol": "$"
+    },
+    "callingCode": "+231",
+    "flag": {
+      "emoji": "🇱🇷",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 480\"><defs><clipPath id=\"a\"><path fill-opacity=\".7\" d=\"M0 0h682.7v512H0z\"/></clipPath></defs><g fill-rule=\"evenodd\" clip-path=\"url(#a)\" transform=\"scale(.9375)\"><path fill=\"#fff\" d=\"M0 0h767.9v512H0z\"/><path fill=\"#006\" d=\"M0 0h232.7v232.8H0z\"/><path fill=\"#c00\" d=\"M0 464.9h767.9V512H0z\"/><path fill=\"#c00\" d=\"M0 465.4h767.9V512H0zm0-92.9h767.9v46.2H0zm0-93.2h766V326H0zM232.7 0h535.1v46.5H232.7zm0 186h535.1v46.8H232.7zm0-92.7h535.1v46.5H232.7z\"/><path fill=\"#fff\" d=\"m166.3 177.5-50.7-31-50.4 31.3 18.7-50.9-50.3-31.4 62.3-.4 19.3-50.7L135 95h62.3l-50.1 31.7z\"/></g></svg>"
+    },
+    "domains": {
+      "topLevelDomain": ".lr",
+      "internetTld": [
+        ".lr"
+      ]
+    },
+    "unMember": true
+  },
+  {
+    "name": "Libya",
+    "officialName": "State of Libya",
+    "capital": [
+      "Tripoli"
+    ],
+    "iso": {
+      "alpha2": "LY",
+      "alpha3": "LBY",
+      "numeric": "434"
+    },
+    "geo": {
+      "latitude": 25,
+      "longitude": 17,
+      "pointer": {
+        "latitude": 25,
+        "longitude": 17
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "region": "Northern Africa",
+      "continent": "Africa",
+      "landlocked": false,
+      "areaKm2": 1759540,
+      "borders": [
+        "DZA",
+        "TCD",
+        "EGY",
+        "NER",
+        "SDN",
+        "TUN"
+      ]
+    },
+    "languages": [
+      "Arabic"
+    ],
+    "currency": {
+      "code": "LYD",
+      "name": "Libyan dinar",
+      "symbol": "ل.د"
+    },
+    "callingCode": "+218",
+    "flag": {
+      "emoji": "🇱🇾",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 480\"><defs><clipPath id=\"a\"><path d=\"M166.7-20h666.6v500H166.7z\"/></clipPath></defs><g clip-path=\"url(#a)\" transform=\"matrix(.96 0 0 .96 -160 19.2)\"><path fill=\"#239e46\" d=\"M0-20h1000v500H0z\"/><path fill=\"#000001\" d=\"M0-20h1000v375H0z\"/><path fill=\"#e70013\" d=\"M0-20h1000v125H0z\"/><path fill=\"#fff\" d=\"M544.2 185.8a54.3 54.3 0 1 0 0 88.4 62.5 62.5 0 1 1 0-88.4M530.4 230l84.1-27.3-52 71.5v-88.4l52 71.5z\"/></g></svg>"
+    },
+    "domains": {
+      "topLevelDomain": ".ly",
+      "internetTld": [
+        ".ly"
+      ]
+    },
+    "unMember": true
+  },
+  {
+    "name": "Lesotho",
+    "officialName": "Kingdom of Lesotho",
+    "capital": [
+      "Maseru"
+    ],
+    "iso": {
+      "alpha2": "LS",
+      "alpha3": "LSO",
+      "numeric": "426"
+    },
+    "geo": {
+      "latitude": -29.5,
+      "longitude": 28.5,
+      "pointer": {
+        "latitude": -29.5,
+        "longitude": 28.5
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "region": "Southern Africa",
+      "continent": "Africa",
+      "landlocked": true,
+      "areaKm2": 30355,
+      "borders": [
+        "ZAF"
+      ]
+    },
+    "languages": [
+      "English",
+      "Sotho"
+    ],
+    "currency": {
+      "code": "LSL",
+      "name": "Lesotho loti",
+      "symbol": "L"
+    },
+    "callingCode": "+266",
+    "flag": {
+      "emoji": "🇱🇸",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 480\"><path fill=\"#fff\" d=\"M0 0h640v480H0z\"/><path fill=\"#009543\" d=\"M0 336h640v144H0z\"/><path fill=\"#00209f\" d=\"M0 0h640v144H0z\"/><path stroke=\"#000\" stroke-width=\"1.6\" d=\"M319.6 153c-2.7 0-5.4 3-5.4 3l.3 32.4-10.3 10.7h8.3v18.5l-49 66-7.2-2.6-12.7 27s31.3 19.6 76.7 19c49.8-.5 76.9-19.9 76.9-19.9l-13-26.6-6.5 2.8-49.6-65.6v-19.1h8.2L325.1 188v-32.2s-2.7-3-5.5-2.9z\"/><path fill=\"none\" stroke=\"#000\" stroke-width=\"8\" d=\"M336.7 230.4h-33.9s-12.2-25.9-10.3-44c2-18.4 12.6-27.1 26.6-27.3 16.6-.1 25.2 8.1 27.8 26.6 2.6 18.3-10.2 44.7-10.2 44.7z\"/><path fill=\"#fff\" d=\"M260.5 292.1c-.6.7-4.7 8.9-4.7 8.9l7-1.5zm4 10.5-7.4 2.4 8.9 3.5zm3.3-10.3 3.7 10.9 9-2.6-2.3-5.2zm5.8 14.8 1.2 4.4 12 3-4.8-10.2zm13.2-9.3 4.3 10.2 9-3.5-3-4.5zm6 13.9 1.4 3.8 14 2-5.9-9.2-9.6 3.4zm13.4-11 5.2 9.1 13-4.8-1.4-3.5-16.8-.7zm7.6 12.4 2.7 4.8 16.2-.5-6-9-13 4.7zm17.1-12 4.4 7.6 10.4-5-2.8-4zm17 5.8-10.3 5.1 2.7 4.5 13.8-2.2zm3.3-8 5.3 6.7 8.7-6.9-3-3zm15.9 3.5-8.3 6.3 2.2 3.9 11.4-3zm11.4-13 2 2.9-5.7 8.5-5.9-7.6zm3.9 7.3 3.5 7-7 2.4-.6-3.3 4-6z\"/></svg>"
+    },
+    "domains": {
+      "topLevelDomain": ".ls",
+      "internetTld": [
+        ".ls"
+      ]
+    },
+    "unMember": true
+  },
+  {
+    "name": "Morocco",
+    "officialName": "Kingdom of Morocco",
+    "capital": [
+      "Rabat"
+    ],
+    "iso": {
+      "alpha2": "MA",
+      "alpha3": "MAR",
+      "numeric": "504"
+    },
+    "geo": {
+      "latitude": 32,
+      "longitude": -5,
+      "pointer": {
+        "latitude": 32,
+        "longitude": -5
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "region": "Northern Africa",
+      "continent": "Africa",
+      "landlocked": false,
+      "areaKm2": 446550,
+      "borders": [
+        "DZA",
+        "ESH",
+        "ESP"
+      ]
+    },
+    "languages": [
+      "Arabic",
+      "Berber"
+    ],
+    "currency": {
+      "code": "MAD",
+      "name": "Moroccan dirham",
+      "symbol": "د.م."
+    },
+    "callingCode": "+212",
+    "flag": {
+      "emoji": "🇲🇦",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 480\"><path fill=\"#c1272d\" d=\"M640 0H0v480h640z\"/><path fill=\"none\" stroke=\"#006233\" stroke-width=\"11.7\" d=\"M320 179.4 284.4 289l93.2-67.6H262.4l93.2 67.6z\"/></svg>"
+    },
+    "domains": {
+      "topLevelDomain": ".ma",
+      "internetTld": [
+        ".ma",
+        "المغرب."
+      ]
+    },
+    "unMember": true
+  },
+  {
+    "name": "Madagascar",
+    "officialName": "Republic of Madagascar",
+    "capital": [
+      "Antananarivo"
+    ],
+    "iso": {
+      "alpha2": "MG",
+      "alpha3": "MDG",
+      "numeric": "450"
+    },
+    "geo": {
+      "latitude": -20,
+      "longitude": 47,
+      "pointer": {
+        "latitude": -20,
+        "longitude": 47
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "region": "Eastern Africa",
+      "continent": "Africa",
+      "landlocked": false,
+      "areaKm2": 587041
+    },
+    "languages": [
+      "French",
+      "Malagasy"
+    ],
+    "currency": {
+      "code": "MGA",
+      "name": "Malagasy ariary",
+      "symbol": "Ar"
+    },
+    "callingCode": "+261",
+    "flag": {
+      "emoji": "🇲🇬",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 480\"><g fill-rule=\"evenodd\" stroke-width=\"1pt\"><path fill=\"#fc3d32\" d=\"M213.3 0H640v240H213.3z\"/><path fill=\"#007e3a\" d=\"M213.3 240H640v240H213.3z\"/><path fill=\"#fff\" d=\"M0 0h213.3v480H0z\"/></g></svg>"
+    },
+    "domains": {
+      "topLevelDomain": ".mg",
+      "internetTld": [
+        ".mg"
+      ]
+    },
+    "unMember": true
+  },
+  {
+    "name": "Mali",
+    "officialName": "Republic of Mali",
+    "capital": [
+      "Bamako"
+    ],
+    "iso": {
+      "alpha2": "ML",
+      "alpha3": "MLI",
+      "numeric": "466"
+    },
+    "geo": {
+      "latitude": 17,
+      "longitude": -4,
+      "pointer": {
+        "latitude": 17,
+        "longitude": -4
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "region": "Western Africa",
+      "continent": "Africa",
+      "landlocked": true,
+      "areaKm2": 1240192,
+      "borders": [
+        "DZA",
+        "BFA",
+        "GIN",
+        "CIV",
+        "MRT",
+        "NER",
+        "SEN"
+      ]
+    },
+    "languages": [
+      "French"
+    ],
+    "currency": {
+      "code": "XOF",
+      "name": "West African CFA franc",
+      "symbol": "Fr"
+    },
+    "callingCode": "+223",
+    "flag": {
+      "emoji": "🇲🇱",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 480\"><g fill-rule=\"evenodd\"><path fill=\"red\" d=\"M425.8 0H640v480H425.7z\"/><path fill=\"#009a00\" d=\"M0 0h212.9v480H0z\"/><path fill=\"#ff0\" d=\"M212.9 0h214v480h-214z\"/></g></svg>"
+    },
+    "domains": {
+      "topLevelDomain": ".ml",
+      "internetTld": [
+        ".ml"
+      ]
+    },
+    "unMember": true
+  },
+  {
+    "name": "Mozambique",
+    "officialName": "Republic of Mozambique",
+    "capital": [
+      "Maputo"
+    ],
+    "iso": {
+      "alpha2": "MZ",
+      "alpha3": "MOZ",
+      "numeric": "508"
+    },
+    "geo": {
+      "latitude": -18.25,
+      "longitude": 35,
+      "pointer": {
+        "latitude": -18.25,
+        "longitude": 35
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "region": "Eastern Africa",
+      "continent": "Africa",
+      "landlocked": false,
+      "areaKm2": 801590,
+      "borders": [
+        "MWI",
+        "ZAF",
+        "SWZ",
+        "TZA",
+        "ZMB",
+        "ZWE"
+      ]
+    },
+    "languages": [
+      "Portuguese"
+    ],
+    "currency": {
+      "code": "MZN",
+      "name": "Mozambican metical",
+      "symbol": "MT"
+    },
+    "callingCode": "+258",
+    "flag": {
+      "emoji": "🇲🇿",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 480\"><defs><clipPath id=\"a\"><path fill-opacity=\".7\" d=\"M0 0h682.7v512H0z\"/></clipPath></defs><g clip-path=\"url(#a)\" transform=\"scale(.9375)\"><path fill=\"#009a00\" fill-rule=\"evenodd\" d=\"M0 0h768v160H0z\"/><path fill=\"#fff\" fill-rule=\"evenodd\" d=\"M0 160h768v16H0z\"/><path fill=\"#000001\" fill-rule=\"evenodd\" d=\"M0 176h768v160H0z\"/><path fill=\"#fff\" fill-rule=\"evenodd\" d=\"M0 336h768v16H0z\"/><path fill=\"#ffca00\" fill-rule=\"evenodd\" d=\"M0 352h768v160H0z\"/><path fill=\"red\" fill-rule=\"evenodd\" d=\"M0 0v512l336-256z\"/><path fill=\"#ffca00\" fill-rule=\"evenodd\" d=\"m198.5 333-51.2-37.5L96.1 333l19.9-60.3-51.5-37.1 63.5.2 19.3-60.4 19.4 60.5 63.5-.3-51.5 37.1z\"/><path fill=\"#fff\" fill-rule=\"evenodd\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.1\" d=\"M102.8 290.9h37c3 3.3 9.5 4.7 15.8 0 11.6-6.4 34 0 34 0l4.4-4.7-10.7-35.2-3.9-4.2s-8.3-5-24-3.3-21.2-.5-21.2-.5-13.7 1.6-17.6 3.6l-4.4 4.4z\"/><path fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.1\" d=\"M110.3 281.8s35.2-4.4 45.4 9.1c-5.7 4-10.8 4.3-16.2.3.8-1.5 12.6-13.8 42.7-9.7\"/><path fill=\"none\" stroke=\"#000\" stroke-width=\"1.2\" d=\"m148 246.6-.3 38.8m31.7-38.3L186 278\"/><path fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.1\" d=\"m117 246.6-3.7 16\"/><path fill-rule=\"evenodd\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.1\" d=\"m78.9 295.1 8.6 10.2q1.5.9 2.9 0l12.8-15.4 5.4-6.7q1.3-1.6 1-3l10.4-9.3 2.2.2c-1-.2-1.7-.7-1-1.8l2.4-1.8 1.8 2.3s-2.6 3.4-2.9 3.4h-2.8l-5.4 4.9 2.4 2 3.5 9.8 4.4-3.1-2.8-10 6.1-6.7-2.3-3.6 1.6-2s21.3 13.4 29.6 9.8c.2 0 .5-9.6.5-9.6s-22.2-2.3-22.7-6.7 5-5 5-5l-2.4-3.2.5-1.8 3.9 4.8 8.7-7.4 51.5 58.6c2.8-1.1 3.4-1.8 3.6-4.6L155 241.5l3.8-4.1c.8-.9 1-1.2 1-2.6l6-5.1a7 7 0 0 1 3.8 3L186 219c.4.4 1.7.8 2.6.4l26.9-25.9-29.3 20.7-1-.7c0-.9 1-1 0-2.6-1.2-1.4-2.9 1.3-3.1 1.3s-4.3-1.4-5.2-3.2l-.2 4.7-7.5 7-5.7-.3-8.2 8-1 3 1.3 2.7s-4.4 3.8-4.4 3.6c0-.3-.9-1.2-1-1.3l3.8-3.4.5-2.3-1.2-2c-.4.3-5.2 5.4-5.5 4.8l-14-15.5.8-2.9-8.7-9.5c-3.2-1.1-8.3-1.3-9.3 5.7-.8 1.6-7.4.2-7.4.2l-3.6.8L85.2 241l11.3 13.6 23.2-29.3.7-8.3 4.8 5.4q2.5.5 4.7-.5l13.7 15.3-2.3 2.3 2 2.2 2.4-1.6.9 1.3-3.1 2.1c-1.8-1.2-3.6-2.7-3.5-5l-7.7 6.4-.3 1.2-22.9 19-2 .3-.5 6 14.9-12.4v-1.8l1.5 1.3 11.6-9.3s.8 1 .5 1-10.3 9.3-10.3 9.3l-.2 1-1.8 1.6-1-.8-14 12.4h-2l-7.7 7.7c-2 .2-3.7.4-5.4 1.5z\"/></g></svg>"
+    },
+    "domains": {
+      "topLevelDomain": ".mz",
+      "internetTld": [
+        ".mz"
+      ]
+    },
+    "unMember": true
+  },
+  {
+    "name": "Mauritania",
+    "officialName": "Islamic Republic of Mauritania",
+    "capital": [
+      "Nouakchott"
+    ],
+    "iso": {
+      "alpha2": "MR",
+      "alpha3": "MRT",
+      "numeric": "478"
+    },
+    "geo": {
+      "latitude": 20,
+      "longitude": -12,
+      "pointer": {
+        "latitude": 20,
+        "longitude": -12
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "region": "Western Africa",
+      "continent": "Africa",
+      "landlocked": false,
+      "areaKm2": 1030700,
+      "borders": [
+        "DZA",
+        "MLI",
+        "SEN",
+        "ESH"
+      ]
+    },
+    "languages": [
+      "Arabic"
+    ],
+    "currency": {
+      "code": "MRU",
+      "name": "Mauritanian ouguiya",
+      "symbol": "UM"
+    },
+    "callingCode": "+222",
+    "flag": {
+      "emoji": "🇲🇷",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 480\"><path fill=\"#cd2a3e\" d=\"M0 0h640v480H0z\"/><path fill=\"#006233\" d=\"M0 72h640v336H0z\"/><path fill=\"#ffc400\" d=\"M470 154.6a150 150 0 0 1-300 0 155 155 0 0 0-5 39.2 155 155 0 1 0 310 0 154 154 0 0 0-5-39.2\" class=\"mr-st1\"/><path fill=\"#ffc400\" d=\"m320 93.8-13.5 41.5H263l35.3 25.6-13.5 41.4 35.3-25.6 35.3 25.6-13.5-41.4 35.3-25.6h-43.6z\"/></svg>"
+    },
+    "domains": {
+      "topLevelDomain": ".mr",
+      "internetTld": [
+        ".mr"
+      ]
+    },
+    "unMember": true
+  },
+  {
+    "name": "Mauritius",
+    "officialName": "Republic of Mauritius",
+    "capital": [
+      "Port Louis"
+    ],
+    "iso": {
+      "alpha2": "MU",
+      "alpha3": "MUS",
+      "numeric": "480"
+    },
+    "geo": {
+      "latitude": -20.2833,
+      "longitude": 57.55,
+      "pointer": {
+        "latitude": -20.2833,
+        "longitude": 57.55
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "region": "Eastern Africa",
+      "continent": "Africa",
+      "landlocked": false,
+      "areaKm2": 2040
+    },
+    "languages": [
+      "English",
+      "French",
+      "Mauritian Creole"
+    ],
+    "currency": {
+      "code": "MUR",
+      "name": "Mauritian rupee",
+      "symbol": "₨"
+    },
+    "callingCode": "+230",
+    "flag": {
+      "emoji": "🇲🇺",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 480\"><g fill-rule=\"evenodd\"><path fill=\"#00a04d\" d=\"M0 360h640v120H0z\"/><path fill=\"#151f6d\" d=\"M0 120h640v120H0z\"/><path fill=\"#ee2737\" d=\"M0 0h640v120H0z\"/><path fill=\"#ffcd00\" d=\"M0 240h640v120H0z\"/></g></svg>"
+    },
+    "domains": {
+      "topLevelDomain": ".mu",
+      "internetTld": [
+        ".mu"
+      ]
+    },
+    "unMember": true
+  },
+  {
+    "name": "Malawi",
+    "officialName": "Republic of Malawi",
+    "capital": [
+      "Lilongwe"
+    ],
+    "iso": {
+      "alpha2": "MW",
+      "alpha3": "MWI",
+      "numeric": "454"
+    },
+    "geo": {
+      "latitude": -13.5,
+      "longitude": 34,
+      "pointer": {
+        "latitude": -13.5,
+        "longitude": 34
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "region": "Eastern Africa",
+      "continent": "Africa",
+      "landlocked": true,
+      "areaKm2": 118484,
+      "borders": [
+        "MOZ",
+        "TZA",
+        "ZMB"
+      ]
+    },
+    "languages": [
+      "English",
+      "Chewa"
+    ],
+    "currency": {
+      "code": "MWK",
+      "name": "Malawian kwacha",
+      "symbol": "MK"
+    },
+    "callingCode": "+265",
+    "flag": {
+      "emoji": "🇲🇼",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 480\"><g fill-rule=\"evenodd\" stroke-width=\"1pt\"><path fill=\"#f41408\" d=\"M0 0h640v480H0z\"/><path fill=\"#21873b\" d=\"M0 320h640v160H0z\"/><path fill=\"#000001\" d=\"M0 0h640v160H0z\"/><path fill=\"#f31509\" d=\"M220.5 141c22.3-49.2 84.5-72.8 138.8-52.5a98 98 0 0 1 58 52.5zm-26 6.4a332 332 0 0 1-52.4-7.8c-4.1-1.3-4.3-3.6-3.8-5.3s3.1-3.6 6.2-3c5.6 1.4 28.8 7 50 16.1m124.6-85.9c-4.2-21-5.2-44-4.8-48C314.7 9.6 317 9 319 9s4.7 1.8 4.7 4.7c0 5.3-.1 27-4.6 48zm11.6.5a249 249 0 0 1-.3-48.2c.8-3.9 3.2-4.4 5.1-4.2 2 .1 4.5 2.1 4.2 5-.5 5.3-2.6 26.9-9 47.4m10.4 1.3c-.2-21.3 3-44.3 4.1-48 1.1-3.9 3.6-4.2 5.5-3.9 2 .3 4.3 2.5 3.8 5.3-1 5.3-5.2 26.6-13.4 46.6m11 2.2c1.8-21.2 7.3-43.8 8.8-47.5s4-3.8 5.8-3.4c2 .5 4 2.8 3.3 5.6-1.6 5.1-7.7 26-17.8 45.3zm10.9 3.2c3.9-21 11.5-43.1 13.3-46.7 1.9-3.5 4.3-3.5 6.2-2.9 1.8.6 3.7 3.2 2.7 5.8A264 264 0 0 1 363 68.7m10.1 3.8c5.8-20.7 15.5-42 17.7-45.5 2.2-3.4 4.6-3.1 6.4-2.3 1.8.7 3.4 3.4 2.1 6-2.5 4.8-12.5 24.4-26.2 41.8m10 4.7a263 263 0 0 1 22-43.9c2.4-3.2 4.9-2.7 6.6-1.8a4.4 4.4 0 0 1 1.5 6.1c-3 4.6-14.9 23.4-30.1 39.6m9.4 5.5c9.7-19.4 23.3-39 26.1-42s5.2-2.3 6.8-1.3a4.4 4.4 0 0 1 1 6.2c-3.5 4.4-17.2 22.1-34 37zm8.8 6.2c11.6-18.6 27-37 30.1-39.7 3-2.8 5.4-2 6.9-.8a4.3 4.3 0 0 1 .3 6.2c-3.8 4.1-19.1 20.7-37.3 34.3m8.3 6.9a284 284 0 0 1 33.8-37.2c3.3-2.5 5.5-1.5 6.9-.3a4.3 4.3 0 0 1-.3 6.3c-4.1 3.8-21 19.1-40.4 31.2m7.6 7.5A278 278 0 0 1 454.4 69c3.6-2.3 5.7-1.1 7 .3 1.2 1.3 1.5 4.4-1 6.2a306 306 0 0 1-43.2 27.8m6.5 7.8A297 297 0 0 1 464 79.6c3.7-2 5.7-.6 6.8.9 1.2 1.4 1.1 4.5-1.4 6.1-4.8 3-24.3 15.6-45.7 24.5m5.9 8.3a307 307 0 0 1 43-28.1c4-1.7 5.9-.2 6.9 1.3 1 1.6.6 4.6-2 6a321 321 0 0 1-48 20.8zm5.4 9.6a313 313 0 0 1 45.8-24.4c4.1-1.4 5.8.3 6.6 1.9.9 1.6.3 4.6-2.6 5.8-5.3 2.2-27 11.4-49.8 16.7m4.2 9.2a320 320 0 0 1 48-20.8c4.2-1 5.7.8 6.4 2.5.6 1.6-.3 4.6-3.2 5.5-5.5 1.9-28 9.3-51.2 12.8m3.4 9.8a325 325 0 0 1 49.8-16.9c4.2-.6 5.6 1.2 6.1 3 .5 1.7-.7 4.5-3.7 5.3-5.7 1.3-28.8 7-52.2 8.6M307.8 62a252 252 0 0 1-9.7-47.4c0-3.9 2.3-4.8 4.2-5 2-.1 5 1.5 5.2 4.3.5 5.3 2.6 26.9.4 48.1zm-11 1.3a251 251 0 0 1-14.3-46.4c-.4-4 1.8-5 3.7-5.3s5 1 5.6 3.8a263 263 0 0 1 5 47.9m-11 2.2A259 259 0 0 1 267 20.3c-.8-3.9 1.3-5.1 3.2-5.6s5 .6 5.9 3.4c1.5 5.1 7.7 26 9.6 47.3zm-10.5 3A264 264 0 0 1 252.5 25c-1.1-3.8.8-5.2 2.6-5.8s5.1.2 6.2 2.8c2 5 10.2 25.4 14 46.4zM265.2 72a270 270 0 0 1-27-41.5c-1.4-3.7.4-5.3 2.2-6s5-.2 6.4 2.4c2.5 4.8 12.5 24.5 18.4 45.1m-10.3 5a276 276 0 0 1-31-39.2c-1.7-3.5-.1-5.2 1.6-6.1s5-.6 6.6 1.9c3 4.6 15 23.3 22.8 43.4m-9.4 5.4A285 285 0 0 1 211 45.7c-2.1-3.4-.7-5.2 1-6.3 1.5-1 5-1 6.7 1.4 3.4 4.3 17.1 22 26.8 41.5zm-8.7 6a292 292 0 0 1-37.9-33.9c-2.4-3.2-1.1-5 .4-6.2a5.5 5.5 0 0 1 6.8.8c3.8 4 19.2 20.7 30.7 39.3m-8.5 7a299 299 0 0 1-41-30.7c-2.8-3-1.7-5-.3-6.3a5.5 5.5 0 0 1 6.9.3c4.2 3.7 21 19 34.4 36.6zm-7.4 7A307 307 0 0 1 177.2 75c-3-2.8-2.1-4.8-.8-6.2 1.2-1.4 4.5-2.1 6.9-.3a292 292 0 0 1 37.6 34zm-7 8.2a313 313 0 0 1-46.2-23.8c-3.3-2.5-2.6-4.7-1.5-6.1 1.1-1.5 4.3-2.5 6.9-.9 4.8 3.1 24.3 15.5 40.8 30.8m-6.3 8.8c-22.2-7-44.9-17.6-48.4-19.9-3.6-2.2-3-4.4-2.1-6s4-2.8 6.8-1.4c5 2.7 25.8 13.5 43.7 27.3m-5.3 9c-22.8-5.3-46.3-14-50.1-16-3.7-2-3.5-4.2-2.6-5.8s3.7-3.1 6.6-2c5.3 2.3 27 11.4 46.1 23.8m-4.2 9a329 329 0 0 1-51.4-12.2c-4-1.6-3.8-3.9-3.2-5.5.7-1.7 3.5-3.4 6.4-2.5 5.6 1.9 28 9.3 48.2 20.2\"/><path fill=\"#f31509\" d=\"M194.5 147.4a332 332 0 0 1-52.4-7.8c-4.1-1.3-4.3-3.6-3.8-5.3s3.1-3.6 6.2-3c5.6 1.4 28.8 7 50 16.1\"/><path d=\"M129.4 141.5h381.2v12.6H129.4z\"/></g></svg>"
+    },
+    "domains": {
+      "topLevelDomain": ".mw",
+      "internetTld": [
+        ".mw"
+      ]
+    },
+    "unMember": true
+  },
+  {
+    "name": "Mayotte",
+    "officialName": "Department of Mayotte",
+    "capital": [
+      "Mamoudzou"
+    ],
+    "iso": {
+      "alpha2": "YT",
+      "alpha3": "MYT",
+      "numeric": "175"
+    },
+    "geo": {
+      "latitude": -12.8333,
+      "longitude": 45.1667,
+      "pointer": {
+        "latitude": -12.8333,
+        "longitude": 45.1667
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "region": "Eastern Africa",
+      "continent": "Africa",
+      "landlocked": false,
+      "areaKm2": 374
+    },
+    "languages": [
+      "French"
+    ],
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    },
+    "callingCode": "+262",
+    "flag": {
+      "emoji": "🇾🇹",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 480\"><path fill=\"#fff\" d=\"M0 0h640v480H0z\"/><path fill=\"#000091\" d=\"M0 0h213.3v480H0z\"/><path fill=\"#e1000f\" d=\"M426.7 0H640v480H426.7z\"/></svg>"
+    },
+    "domains": {
+      "topLevelDomain": ".yt",
+      "internetTld": [
+        ".yt"
+      ]
+    },
+    "unMember": false
+  },
+  {
+    "name": "Namibia",
+    "officialName": "Republic of Namibia",
+    "capital": [
+      "Windhoek"
+    ],
+    "iso": {
+      "alpha2": "NA",
+      "alpha3": "NAM",
+      "numeric": "516"
+    },
+    "geo": {
+      "latitude": -22,
+      "longitude": 17,
+      "pointer": {
+        "latitude": -22,
+        "longitude": 17
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "region": "Southern Africa",
+      "continent": "Africa",
+      "landlocked": false,
+      "areaKm2": 825615,
+      "borders": [
+        "AGO",
+        "BWA",
+        "ZAF",
+        "ZMB"
+      ]
+    },
+    "languages": [
+      "Afrikaans",
+      "German",
+      "English",
+      "Herero",
+      "Khoekhoe",
+      "Kwangali",
+      "Lozi",
+      "Ndonga",
+      "Tswana"
+    ],
+    "currency": {
+      "code": "NAD",
+      "name": "Namibian dollar",
+      "symbol": "$"
+    },
+    "callingCode": "+264",
+    "flag": {
+      "emoji": "🇳🇦",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 480\"><defs><clipPath id=\"a\"><path fill-opacity=\".7\" d=\"M0 0h640v480H0z\"/></clipPath></defs><g fill-rule=\"evenodd\" clip-path=\"url(#a)\"><path fill=\"#fff\" d=\"M0 0h640v480H0z\"/><path fill=\"#3662a2\" d=\"m-26.4.2.8 345.6L512.5 0z\"/><path fill=\"#38a100\" d=\"M666.4 479.6 665 120.3 122.3 479.8l544-.2z\"/><path fill=\"#c70000\" d=\"m-26 371.8.4 108.2 117.5-.1L665.4 95.4l-.7-94.1-116-1L-26 371.7z\"/><path fill=\"#ffe700\" d=\"m219.6 172-21.8-13.2-12.6 22.1-12.2-22.2-22 12.9.6-25.4-25.4.2 13.2-21.8-22.1-12.5 22.2-12.3-12.8-22 25.4.6-.1-25.5 21.7 13.2L186.3 44l12.2 22.2 22-12.9-.6 25.4 25.4-.2-13.2 21.8 22.1 12.5-22.2 12.3 12.8 22-25.4-.6z\"/><path fill=\"#3662a2\" d=\"M232.4 112.4c0 25.6-20.9 46.3-46.6 46.3s-46.6-20.7-46.6-46.3 20.8-46.2 46.6-46.2 46.6 20.7 46.6 46.2\"/><path fill=\"#ffe700\" d=\"M222.3 112.4a36.5 36.5 0 1 1-73 0 36.5 36.5 0 0 1 73 0\"/></g></svg>"
+    },
+    "domains": {
+      "topLevelDomain": ".na",
+      "internetTld": [
+        ".na"
+      ]
+    },
+    "unMember": true
+  },
+  {
+    "name": "Niger",
+    "officialName": "Republic of Niger",
+    "capital": [
+      "Niamey"
+    ],
+    "iso": {
+      "alpha2": "NE",
+      "alpha3": "NER",
+      "numeric": "562"
+    },
+    "geo": {
+      "latitude": 16,
+      "longitude": 8,
+      "pointer": {
+        "latitude": 16,
+        "longitude": 8
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "region": "Western Africa",
+      "continent": "Africa",
+      "landlocked": true,
+      "areaKm2": 1267000,
+      "borders": [
+        "DZA",
+        "BEN",
+        "BFA",
+        "TCD",
+        "LBY",
+        "MLI",
+        "NGA"
+      ]
+    },
+    "languages": [
+      "French"
+    ],
+    "currency": {
+      "code": "XOF",
+      "name": "West African CFA franc",
+      "symbol": "Fr"
+    },
+    "callingCode": "+227",
+    "flag": {
+      "emoji": "🇳🇪",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 480\"><path fill=\"#0db02b\" d=\"M0 0h640v480H0z\"/><path fill=\"#fff\" d=\"M0 0h640v320H0z\"/><path fill=\"#e05206\" d=\"M0 0h640v160H0z\"/><circle cx=\"320\" cy=\"240\" r=\"68\" fill=\"#e05206\"/></svg>"
+    },
+    "domains": {
+      "topLevelDomain": ".ne",
+      "internetTld": [
+        ".ne"
+      ]
+    },
+    "unMember": true
+  },
+  {
+    "name": "Nigeria",
+    "officialName": "Federal Republic of Nigeria",
+    "capital": [
+      "Abuja"
+    ],
+    "iso": {
+      "alpha2": "NG",
+      "alpha3": "NGA",
+      "numeric": "566"
+    },
+    "geo": {
+      "latitude": 10,
+      "longitude": 8,
+      "pointer": {
+        "latitude": 10,
+        "longitude": 8
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "region": "Western Africa",
+      "continent": "Africa",
+      "landlocked": false,
+      "areaKm2": 923768,
+      "borders": [
+        "BEN",
+        "CMR",
+        "TCD",
+        "NER"
+      ]
+    },
+    "languages": [
+      "English"
+    ],
+    "currency": {
+      "code": "NGN",
+      "name": "Nigerian naira",
+      "symbol": "₦"
+    },
+    "callingCode": "+234",
+    "flag": {
+      "emoji": "🇳🇬",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 480\"><g fill-rule=\"evenodd\" stroke-width=\"1pt\"><path fill=\"#fff\" d=\"M0 0h640v480H0z\"/><path fill=\"#008753\" d=\"M426.6 0H640v480H426.6zM0 0h213.3v480H0z\"/></g></svg>"
+    },
+    "domains": {
+      "topLevelDomain": ".ng",
+      "internetTld": [
+        ".ng"
+      ]
+    },
+    "unMember": true
+  },
+  {
+    "name": "Réunion",
+    "officialName": "Réunion Island",
+    "capital": [
+      "Saint-Denis"
+    ],
+    "iso": {
+      "alpha2": "RE",
+      "alpha3": "REU",
+      "numeric": "638"
+    },
+    "geo": {
+      "latitude": -21.15,
+      "longitude": 55.5,
+      "pointer": {
+        "latitude": -21.15,
+        "longitude": 55.5
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "region": "Eastern Africa",
+      "continent": "Africa",
+      "landlocked": false,
+      "areaKm2": 2511
+    },
+    "languages": [
+      "French"
+    ],
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    },
+    "callingCode": "+262",
+    "flag": {
+      "emoji": "🇷🇪",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 480\"><path fill=\"#fff\" d=\"M0 0h640v480H0z\"/><path fill=\"#000091\" d=\"M0 0h213.3v480H0z\"/><path fill=\"#e1000f\" d=\"M426.7 0H640v480H426.7z\"/></svg>"
+    },
+    "domains": {
+      "topLevelDomain": ".re",
+      "internetTld": [
+        ".re"
+      ]
+    },
+    "unMember": false
+  },
+  {
+    "name": "Rwanda",
+    "officialName": "Republic of Rwanda",
+    "capital": [
+      "Kigali"
+    ],
+    "iso": {
+      "alpha2": "RW",
+      "alpha3": "RWA",
+      "numeric": "646"
+    },
+    "geo": {
+      "latitude": -2,
+      "longitude": 30,
+      "pointer": {
+        "latitude": -2,
+        "longitude": 30
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "region": "Eastern Africa",
+      "continent": "Africa",
+      "landlocked": true,
+      "areaKm2": 26338,
+      "borders": [
+        "BDI",
+        "COD",
+        "TZA",
+        "UGA"
+      ]
+    },
+    "languages": [
+      "English",
+      "French",
+      "Kinyarwanda"
+    ],
+    "currency": {
+      "code": "RWF",
+      "name": "Rwandan franc",
+      "symbol": "Fr"
+    },
+    "callingCode": "+250",
+    "flag": {
+      "emoji": "🇷🇼",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 640 480\"><path fill=\"#20603d\" d=\"M0 0h640v480H0z\"/><path fill=\"#fad201\" d=\"M0 0h640v360H0z\"/><path fill=\"#00a1de\" d=\"M0 0h640v240H0z\"/><g transform=\"translate(511 125.4)scale(.66667)\"><g id=\"b\"><path id=\"a\" fill=\"#e5be01\" d=\"M116.1 0 35.7 4.7l76.4 25.4-78.8-16.3L100.6 58l-72-36.2L82 82.1 21.9 28.6l36.2 72-44.3-67.3L30 112 4.7 35.7 0 116.1-1-1z\"/><use xlink:href=\"#a\" transform=\"scale(1 -1)\"/></g><use xlink:href=\"#b\" transform=\"scale(-1 1)\"/><circle r=\"34.3\" fill=\"#e5be01\" stroke=\"#00a1de\" stroke-width=\"3.4\"/></g></svg>"
+    },
+    "domains": {
+      "topLevelDomain": ".rw",
+      "internetTld": [
+        ".rw"
+      ]
+    },
+    "unMember": true
+  },
+  {
+    "name": "Sudan",
+    "officialName": "Republic of the Sudan",
+    "capital": [
+      "Khartoum"
+    ],
+    "iso": {
+      "alpha2": "SD",
+      "alpha3": "SDN",
+      "numeric": "729"
+    },
+    "geo": {
+      "latitude": 15,
+      "longitude": 30,
+      "pointer": {
+        "latitude": 15,
+        "longitude": 30
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "region": "Northern Africa",
+      "continent": "Africa",
+      "landlocked": false,
+      "areaKm2": 1886068,
+      "borders": [
+        "CAF",
+        "TCD",
+        "EGY",
+        "ERI",
+        "ETH",
+        "LBY",
+        "SSD"
+      ]
+    },
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "currency": {
+      "code": "SDG",
+      "name": "Sudanese pound",
+      "symbol": "PT"
+    },
+    "callingCode": "+249",
+    "flag": {
+      "emoji": "🇸🇩",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 480\"><defs><clipPath id=\"a\"><path fill-opacity=\".7\" d=\"M0 0h682.7v512H0z\"/></clipPath></defs><g fill-rule=\"evenodd\" stroke-width=\"1pt\" clip-path=\"url(#a)\" transform=\"scale(.9375)\"><path fill=\"#000001\" d=\"M0 341.3h1024V512H0z\"/><path fill=\"#fff\" d=\"M0 170.6h1024v170.7H0z\"/><path fill=\"red\" d=\"M0 0h1024.8v170.7H0z\"/><path fill=\"#009a00\" d=\"M0 0v512l341.3-256z\"/></g></svg>"
+    },
+    "domains": {
+      "topLevelDomain": ".sd",
+      "internetTld": [
+        ".sd"
+      ]
+    },
+    "unMember": true
+  },
+  {
+    "name": "Senegal",
+    "officialName": "Republic of Senegal",
+    "capital": [
+      "Dakar"
+    ],
+    "iso": {
+      "alpha2": "SN",
+      "alpha3": "SEN",
+      "numeric": "686"
+    },
+    "geo": {
+      "latitude": 14,
+      "longitude": -14,
+      "pointer": {
+        "latitude": 14,
+        "longitude": -14
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "region": "Western Africa",
+      "continent": "Africa",
+      "landlocked": false,
+      "areaKm2": 196722,
+      "borders": [
+        "GMB",
+        "GIN",
+        "GNB",
+        "MLI",
+        "MRT"
+      ]
+    },
+    "languages": [
+      "French"
+    ],
+    "currency": {
+      "code": "XOF",
+      "name": "West African CFA franc",
+      "symbol": "Fr"
+    },
+    "callingCode": "+221",
+    "flag": {
+      "emoji": "🇸🇳",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 480\"><g fill-rule=\"evenodd\" stroke-width=\"1pt\"><path fill=\"#0b7226\" d=\"M0 0h213.3v480H0z\"/><path fill=\"#ff0\" d=\"M213.3 0h213.3v480H213.3z\"/><path fill=\"#bc0000\" d=\"M426.6 0H640v480H426.6z\"/></g><path fill=\"#0b7226\" d=\"M342 218.8h71.8l-56.6 43.6 20.7 69.3-56.6-43.6-56.6 41.6 20.7-67.3-56.6-43.6h69.8l22.7-71.3z\"/></svg>"
+    },
+    "domains": {
+      "topLevelDomain": ".sn",
+      "internetTld": [
+        ".sn"
+      ]
+    },
+    "unMember": true
+  },
+  {
+    "name": "Sierra Leone",
+    "officialName": "Republic of Sierra Leone",
+    "capital": [
+      "Freetown"
+    ],
+    "iso": {
+      "alpha2": "SL",
+      "alpha3": "SLE",
+      "numeric": "694"
+    },
+    "geo": {
+      "latitude": 8.5,
+      "longitude": -11.5,
+      "pointer": {
+        "latitude": 8.5,
+        "longitude": -11.5
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "region": "Western Africa",
+      "continent": "Africa",
+      "landlocked": false,
+      "areaKm2": 71740,
+      "borders": [
+        "GIN",
+        "LBR"
+      ]
+    },
+    "languages": [
+      "English"
+    ],
+    "currency": {
+      "code": "SLL",
+      "name": "Sierra Leonean leone",
+      "symbol": "Le"
+    },
+    "callingCode": "+232",
+    "flag": {
+      "emoji": "🇸🇱",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 480\"><g fill-rule=\"evenodd\"><path fill=\"#0000cd\" d=\"M0 320.3h640V480H0z\"/><path fill=\"#fff\" d=\"M0 160.7h640v159.6H0z\"/><path fill=\"#00cd00\" d=\"M0 0h640v160.7H0z\"/></g></svg>"
+    },
+    "domains": {
+      "topLevelDomain": ".sl",
+      "internetTld": [
+        ".sl"
+      ]
+    },
+    "unMember": true
+  },
+  {
+    "name": "Somalia",
+    "officialName": "Federal Republic of Somalia",
+    "capital": [
+      "Mogadishu"
+    ],
+    "iso": {
+      "alpha2": "SO",
+      "alpha3": "SOM",
+      "numeric": "706"
+    },
+    "geo": {
+      "latitude": 10,
+      "longitude": 49,
+      "pointer": {
+        "latitude": 10,
+        "longitude": 49
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "region": "Eastern Africa",
+      "continent": "Africa",
+      "landlocked": false,
+      "areaKm2": 637657,
+      "borders": [
+        "DJI",
+        "ETH",
+        "KEN"
+      ]
+    },
+    "languages": [
+      "Arabic",
+      "Somali"
+    ],
+    "currency": {
+      "code": "SOS",
+      "name": "Somali shilling",
+      "symbol": "Sh"
+    },
+    "callingCode": "+252",
+    "flag": {
+      "emoji": "🇸🇴",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 480\"><defs><clipPath id=\"a\"><path fill-opacity=\".7\" d=\"M-85.3 0h682.6v512H-85.3z\"/></clipPath></defs><g fill-rule=\"evenodd\" clip-path=\"url(#a)\" transform=\"translate(80)scale(.9375)\"><path fill=\"#40a6ff\" d=\"M-128 0h768v512h-768z\"/><path fill=\"#fff\" d=\"M336.5 381.2 254 327.7l-82.1 54 30.5-87.7-82-54.2L222 239l31.4-87.5 32.1 87.3 101.4.1-81.5 54.7z\"/></g></svg>"
+    },
+    "domains": {
+      "topLevelDomain": ".so",
+      "internetTld": [
+        ".so"
+      ]
+    },
+    "unMember": true
+  },
+  {
+    "name": "South Sudan",
+    "officialName": "Republic of South Sudan",
+    "capital": [
+      "Juba"
+    ],
+    "iso": {
+      "alpha2": "SS",
+      "alpha3": "SSD",
+      "numeric": "728"
+    },
+    "geo": {
+      "latitude": 7,
+      "longitude": 30,
+      "pointer": {
+        "latitude": 7,
+        "longitude": 30
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "region": "Middle Africa",
+      "continent": "Africa",
+      "landlocked": true,
+      "areaKm2": 619745,
+      "borders": [
+        "CAF",
+        "COD",
+        "ETH",
+        "KEN",
+        "SDN",
+        "UGA"
+      ]
+    },
+    "languages": [
+      "English"
+    ],
+    "currency": {
+      "code": "SSP",
+      "name": "South Sudanese pound",
+      "symbol": "£"
+    },
+    "callingCode": "+211",
+    "flag": {
+      "emoji": "🇸🇸",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 480\"><path fill=\"#078930\" d=\"M0 336h640v144H0z\"/><path fill=\"#fff\" d=\"M0 144h640v192H0z\"/><path fill=\"#000001\" d=\"M0 0h640v144H0z\"/><path fill=\"#da121a\" d=\"M0 168h640v144H0z\"/><path fill=\"#0f47af\" d=\"m0 0 415.7 240L0 480z\"/><path fill=\"#fcdd09\" d=\"M200.7 194.8 61.7 240l139 45.1L114.9 167v146z\"/></svg>"
+    },
+    "domains": {
+      "topLevelDomain": ".ss",
+      "internetTld": [
+        ".ss"
+      ]
+    },
+    "unMember": true
+  },
+  {
+    "name": "São Tomé and Príncipe",
+    "officialName": "Democratic Republic of São Tomé and Príncipe",
+    "capital": [
+      "São Tomé"
+    ],
+    "iso": {
+      "alpha2": "ST",
+      "alpha3": "STP",
+      "numeric": "678"
+    },
+    "geo": {
+      "latitude": 1,
+      "longitude": 7,
+      "pointer": {
+        "latitude": 1,
+        "longitude": 7
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "region": "Middle Africa",
+      "continent": "Africa",
+      "landlocked": false,
+      "areaKm2": 964
+    },
+    "languages": [
+      "Portuguese"
+    ],
+    "currency": {
+      "code": "STN",
+      "name": "São Tomé and Príncipe dobra",
+      "symbol": "Db"
+    },
+    "callingCode": "+239",
+    "flag": {
+      "emoji": "🇸🇹",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 640 480\"><path fill=\"#12ad2b\" d=\"M0 0h640v480H0z\"/><path fill=\"#ffce00\" d=\"M0 137.1h640V343H0z\"/><path fill=\"#d21034\" d=\"M0 0v480l240-240\"/><g id=\"c\" transform=\"translate(351.6 240)scale(.34286)\"><g id=\"b\"><path id=\"a\" fill=\"#000001\" d=\"M0-200V0h100\" transform=\"rotate(18 0 -200)\"/><use xlink:href=\"#a\" transform=\"scale(-1 1)\"/></g><use xlink:href=\"#b\" transform=\"rotate(72)\"/><use xlink:href=\"#b\" transform=\"rotate(144)\"/><use xlink:href=\"#b\" transform=\"rotate(-144)\"/><use xlink:href=\"#b\" transform=\"rotate(-72)\"/></g><use xlink:href=\"#c\" x=\"700\" transform=\"translate(-523.2)\"/></svg>"
+    },
+    "domains": {
+      "topLevelDomain": ".st",
+      "internetTld": [
+        ".st"
+      ]
+    },
+    "unMember": true
+  },
+  {
+    "name": "Eswatini",
+    "officialName": "Kingdom of Eswatini",
+    "capital": [
+      "Lobamba"
+    ],
+    "iso": {
+      "alpha2": "SZ",
+      "alpha3": "SWZ",
+      "numeric": "748"
+    },
+    "geo": {
+      "latitude": -26.5,
+      "longitude": 31.5,
+      "pointer": {
+        "latitude": -26.5,
+        "longitude": 31.5
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "region": "Southern Africa",
+      "continent": "Africa",
+      "landlocked": true,
+      "areaKm2": 17364,
+      "borders": [
+        "MOZ",
+        "ZAF"
+      ]
+    },
+    "languages": [
+      "English",
+      "Swazi"
+    ],
+    "currency": {
+      "code": "SZL",
+      "name": "Swazi lilangeni",
+      "symbol": "L"
+    },
+    "callingCode": "+268",
+    "flag": {
+      "emoji": "🇸🇿",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 640 480\"><path fill=\"#3e5eb9\" d=\"M0 0h640v480H0Z\"/><path fill=\"#ffd900\" d=\"M0 90h640v300H0Z\"/><path fill=\"#b10c0c\" d=\"M0 120h640v240H0Z\"/><g fill=\"#ffd900\" stroke=\"#000\" transform=\"translate(-43.2)scale(1.2)\"><g id=\"a\"><path fill=\"#fff\" d=\"m492.9 154.3-24.3 8.6 24.2 8.5 24.3-8.5z\"/><rect x=\"122.8\" y=\"160\" rx=\"3.1\" ry=\"2.9\"/><path d=\"M471.4 165.7a3 3 0 0 0 2.9-2.8 3 3 0 0 0-2.9-2.9m-2.8 5.7a3 3 0 0 0 2.8-2.8 3 3 0 0 0-2.8-2.9m-2.9 5.7a3 3 0 0 0 2.9-2.8 3 3 0 0 0-2.9-2.9\"/></g><use xlink:href=\"#a\" x=\"-23.3\" y=\"17.1\"/><rect x=\"59.8\" y=\"195.7\" stroke-width=\"1.1\" rx=\"4.2\" ry=\"4.3\"/></g><path fill=\"#fff\" stroke=\"#000\" stroke-width=\"1.2\" d=\"M488.2 240c-34.3 34.3-80 102.9-171.4 102.9-80 0-137.1-68.6-171.4-102.9 34.2-34.3 91.4-102.9 171.4-102.9 91.4 0 137.1 68.6 171.4 102.9z\"/><path d=\"M304.8 173c9.2 10.2 1.5 14.3 11.2 15 10.2.7 4.4 10.8 13 11.2 6 .2-.6 24.2 5.1 32 5.9 8.3 10.8 2.5 11 8.4 0 6.2-16 5.5-16.3 24.5-.5 10.9-13.6 11.6-14.2 18.6-.8 6.6 25.8 10.3 25.4 16.2-.3 6-28.7 5-30 11.7-.6 6 39 11 42.2 28.5-6 2-22.7 3.7-35.4 3.8-80 0-137.1-68.6-171.4-103 34.3-34.2 91.4-102.8 171.4-102.8 0 0-23.7 21.7-12 35.8z\"/><g stroke=\"#fff\" transform=\"translate(-43.2)scale(1.2)\"><g id=\"d\" stroke-width=\"6.9\"><g id=\"c\"><path id=\"b\" d=\"M214 192.4v-22.9m13.8 0v22.9m13.8-22.9v22.9\"/><use xlink:href=\"#b\" y=\"38.1\"/></g><use xlink:href=\"#c\" x=\"41.6\"/></g></g><use xlink:href=\"#d\" x=\"104.8\" stroke=\"#000\" transform=\"translate(-43.2)scale(1.2)\"/><g fill=\"#a70000\"><path fill=\"#333\" stroke=\"#000\" d=\"M570.4 236c-5.2 8.9 4-3 26.4 12a22 22 0 0 1 7.8 15.3c-1-.7-1.9-2.3-3-3.2-1.6 1.6 1.6 9 2 12.5-3.5-2-3.2-2.8-4.3-5.2.2 2.8-.7 10.8.8 14-2.8-.8-2.6-3-4-3.5 1 3.5-.9 7.2-.4 11.2-1.6-1.6-3.4-2.9-4.1-3.5-.2 2-3.1 6.8-3.2 8.6a5 5 0 0 1-2-3 59 59 0 0 0-8 12.4c-4.7-4-16.6-14-18.2-19.4-1.4 3-3.4 4-7.2 6.2-1.6-8.4-7.5-17.8-4.4-25.1l-6.1 4.2a50 50 0 0 1 28-33.6z\"/><path fill=\"#b3b3b3\" d=\"M551 280.5c2.2-4.3 4.2-5.7 5.6-8.5 2.4-4.8 2.8-8.8 5-8.2 2 .6 2 2.6-.7 7.4s-4 5.8-9.9 9.3m14.6 10.2c-.2-3.2.7-4.6.6-6.7-.4-3.8-1.9-6.3.1-6.5 2-.1 2.9 1.1 2.9 4.8 0 3.8-.6 4.8-3.6 8.4m11.1 6.4c-.9-4.5-.2-6.5-.8-9.5-1-5.2-2.9-8.6-1-9.1s3 1.2 3.7 6.5c.6 5.2.3 6.7-1.9 12.2zm11.5-32c-2.7-2-4.3-2.2-6-3.5-3-2.4-4.6-4.8-5.6-3.6s-.3 2.6 3 4.7 4.2 2.3 8.6 2.4m-1.9 15.2c-1.4-3-3-3.7-3.8-5.6-1.6-3.4-1.6-6.3-3.5-5.6-1.7.8-1.9 2.3 0 5.6 2 3.2 3 3.8 7.2 5.6z\"/><path fill=\"#333\" stroke=\"#000\" stroke-width=\"1.3\" d=\"M53.8 244.6c-.4-2.6.2-3-1.4-5 2.4 1 2.4 3.7 5.3 1.8 1-.5 1.5-.5.2-3.5 3 .2 12.7 3.5 14.3 3.6 4.1.2 11.6-4.3 16.8 1.2 5 5 3.2 10.3 3.2 17.2-2-1-1-1.3-3.2-3.9 1.6 6.2 0 17.1 0 23.6-.8-1.6-.7-.9-1.5-2.5-2 5.9-4.6 7-4.6 14.1-.8-2.8 0-2.2-.9-3.6-2 4.5-16 8.3-10.6 12.8-4.8-2.8-7-2.6-9-5q-1.5.9-2.6 3.2c-8.5-3.8-5.5-12.2-12.1-17.9-1.2 2.4-.7 2.1-2 5.9-1.2-5.3-1.6-8.7-3.1-12.6-1.3 2.2-1.2 1.3-3.6 4.6-1-6.4-2.5-8-2-12.3-2.4 1.8-.8 1-3.3 3.2 2.4-16.5 12.6-28.8 20-25z\"/><path fill=\"#b3b3b3\" d=\"M43.4 271.7c2.1-5.4 4-7 5.5-10.4 2.5-6.1 2.9-11 5-10.3 2 .8 2 3.2-.8 9.2s-4 7.2-9.7 11.5m8.2 13.3c.8-4.8 2.2-6.4 2.8-9.6 1-5.4.5-9.4 2.4-9.2 2 .2 2.4 2.3 1.1 7.6-1.3 5.5-2.2 6.8-6.4 11.2zm9.8 9.4c.3-4.6 1.4-6.5 1.6-9.5.3-5.2-.8-9 1-9 2 0 2.6 1.9 2 7.1s-1.2 6.6-4.6 11.4M82.6 264c-4-4-6.4-4.8-9-7.4-4.6-4.6-6.9-8.8-8.6-7.3s-.6 3.7 4.3 8c4.8 4.5 6.5 5.1 13.4 6.7zm-2.4 15.6c-2.6-4-4.6-5.1-6.3-7.8-3-4.5-4-8.4-5.7-7.5s-1.3 3 1.9 7.5 4.5 5.2 10.1 7.8\"/><path fill=\"#333\" stroke=\"#000\" d=\"M261.4 155.4c-4.8 9.2 8.3-3 28.8 12.4a35 35 0 0 1 9.2 19.3 62 62 0 0 1-12-5.3s9 9.2 9 19.6c-3.2-2-4.8-1.7-6-4.1 0 3.3 3 5.5 3 10.7a42 42 0 0 0-6.3-4.2c3 5.3-5.5 15.5-1.2 18.8a27 27 0 0 1-18.1-11c-1.6 1-1.8 2.7-1.9 4.6.3.1-11.3-8.7-10.2-12a10 10 0 0 0-2.2 5.8 32 32 0 0 1-9.6-13.8c-1.8 2.4-2 2.4-3.9 5-1.4-8.7-1.4-8.4 1.4-15.8l-5.6 4.3a50 50 0 0 1 25.6-34.3z\"/><path fill=\"#b3b3b3\" d=\"M249.6 200.2c.8-6.3 2.4-8.6 3-12.8.8-7-.2-12.4 2.4-12.2 2.4.2 3.2 2.8 2 10-1.3 7.1-2.4 8.8-7.3 15.1zm13.3 11.6c-.5-5.2.5-7.6.1-11-.5-6-2.4-10.2-.2-10.5s3.4 1.6 3.6 7.8c.2 6-.3 7.7-3.5 13.7m20.8 9.6c-2.3-4.7-4.3-6-5.7-9-2.6-5.3-3.2-9.5-5.1-8.8-2 .8-1.9 3 1 8.2 2.8 5 4.1 6.1 9.7 9.6zm7.1-41.5c-5.8-3-8.7-3-12.4-5-6.5-3.4-10.3-7.1-11.6-5-1.4 2 .4 4.1 7.1 7.2s8.8 3.2 16.8 2.8zm2 17.3c-4-3.4-6.6-4-9.3-6.2-4.8-4-7.1-7.7-8.6-6.2-1.6 1.6-.6 3.6 4.4 7.3s6.7 4.1 13.6 5.1z\"/></g></svg>"
+    },
+    "domains": {
+      "topLevelDomain": ".sz",
+      "internetTld": [
+        ".sz"
+      ]
+    },
+    "unMember": true
+  },
+  {
+    "name": "Seychelles",
+    "officialName": "Republic of Seychelles",
+    "capital": [
+      "Victoria"
+    ],
+    "iso": {
+      "alpha2": "SC",
+      "alpha3": "SYC",
+      "numeric": "690"
+    },
+    "geo": {
+      "latitude": -4.5833,
+      "longitude": 55.6667,
+      "pointer": {
+        "latitude": -4.5833,
+        "longitude": 55.6667
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "region": "Eastern Africa",
+      "continent": "Africa",
+      "landlocked": false,
+      "areaKm2": 452
+    },
+    "languages": [
+      "Seychellois Creole",
+      "English",
+      "French"
+    ],
+    "currency": {
+      "code": "SCR",
+      "name": "Seychellois rupee",
+      "symbol": "₨"
+    },
+    "callingCode": "+248",
+    "flag": {
+      "emoji": "🇸🇨",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 480\"><path fill=\"#fff\" d=\"M0 0h640v480H0Z\"/><path fill=\"#d92223\" d=\"M0 480V0h640v160z\"/><path fill=\"#fcd955\" d=\"M0 480V0h426.7z\"/><path fill=\"#003d88\" d=\"M0 480V0h213.3z\"/><path fill=\"#007a39\" d=\"m0 480 640-160v160z\"/></svg>"
+    },
+    "domains": {
+      "topLevelDomain": ".sc",
+      "internetTld": [
+        ".sc"
+      ]
+    },
+    "unMember": true
+  },
+  {
+    "name": "Chad",
+    "officialName": "Republic of Chad",
+    "capital": [
+      "N'Djamena"
+    ],
+    "iso": {
+      "alpha2": "TD",
+      "alpha3": "TCD",
+      "numeric": "148"
+    },
+    "geo": {
+      "latitude": 15,
+      "longitude": 19,
+      "pointer": {
+        "latitude": 15,
+        "longitude": 19
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "region": "Middle Africa",
+      "continent": "Africa",
+      "landlocked": true,
+      "areaKm2": 1284000,
+      "borders": [
+        "CMR",
+        "CAF",
+        "LBY",
+        "NER",
+        "NGA",
+        "SDN"
+      ]
+    },
+    "languages": [
+      "Arabic",
+      "French"
+    ],
+    "currency": {
+      "code": "XAF",
+      "name": "Central African CFA franc",
+      "symbol": "Fr"
+    },
+    "callingCode": "+235",
+    "flag": {
+      "emoji": "🇹🇩",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 480\"><g fill-rule=\"evenodd\"><path fill=\"#002664\" d=\"M0 0h214v480H0z\"/><path fill=\"#c60c30\" d=\"M426 0h214v480H426z\"/><path fill=\"#fecb00\" d=\"M214 0h212v480H214z\"/></g></svg>"
+    },
+    "domains": {
+      "topLevelDomain": ".td",
+      "internetTld": [
+        ".td"
+      ]
+    },
+    "unMember": true
+  },
+  {
+    "name": "Togo",
+    "officialName": "Togolese Republic",
+    "capital": [
+      "Lomé"
+    ],
+    "iso": {
+      "alpha2": "TG",
+      "alpha3": "TGO",
+      "numeric": "768"
+    },
+    "geo": {
+      "latitude": 8,
+      "longitude": 1.1667,
+      "pointer": {
+        "latitude": 8,
+        "longitude": 1.1667
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "region": "Western Africa",
+      "continent": "Africa",
+      "landlocked": false,
+      "areaKm2": 56785,
+      "borders": [
+        "BEN",
+        "BFA",
+        "GHA"
+      ]
+    },
+    "languages": [
+      "French"
+    ],
+    "currency": {
+      "code": "XOF",
+      "name": "West African CFA franc",
+      "symbol": "Fr"
+    },
+    "callingCode": "+228",
+    "flag": {
+      "emoji": "🇹🇬",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 480\"><defs><clipPath id=\"a\"><path fill-opacity=\".7\" d=\"M0 0h682.7v512H0z\"/></clipPath></defs><g fill-rule=\"evenodd\" clip-path=\"url(#a)\" transform=\"scale(.9375)\"><path fill=\"#ffe300\" d=\"M0 0h767.6v512H0z\"/><path fill=\"#118600\" d=\"M0 208.1h767.6V311H0zM0 .2h767.6v102.9H0z\"/><path fill=\"#d80000\" d=\"M0 .3h306.5v310.6H0z\"/><path fill=\"#fff\" d=\"M134.4 128.4c0-.8 18.9-53 18.9-53l17 52.2s57.4 1.7 57.4.8-45.3 34.3-45.3 34.3 21.4 60 20.5 58.2-49.6-36-49.6-36-49.7 34.3-48.8 34.3c.8 0 18.8-56.5 18.8-56.5l-44.5-33.4z\"/><path fill=\"#118600\" d=\"M0 409.2h767.6V512H0z\"/></g></svg>"
+    },
+    "domains": {
+      "topLevelDomain": ".tg",
+      "internetTld": [
+        ".tg"
+      ]
+    },
+    "unMember": true
+  },
+  {
+    "name": "Tunisia",
+    "officialName": "Tunisian Republic",
+    "capital": [
+      "Tunis"
+    ],
+    "iso": {
+      "alpha2": "TN",
+      "alpha3": "TUN",
+      "numeric": "788"
+    },
+    "geo": {
+      "latitude": 34,
+      "longitude": 9,
+      "pointer": {
+        "latitude": 34,
+        "longitude": 9
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "region": "Northern Africa",
+      "continent": "Africa",
+      "landlocked": false,
+      "areaKm2": 163610,
+      "borders": [
+        "DZA",
+        "LBY"
+      ]
+    },
+    "languages": [
+      "Arabic"
+    ],
+    "currency": {
+      "code": "TND",
+      "name": "Tunisian dinar",
+      "symbol": "د.ت"
+    },
+    "callingCode": "+216",
+    "flag": {
+      "emoji": "🇹🇳",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 480\"><path fill=\"#e70013\" d=\"M0 0h640v480H0z\"/><path fill=\"#fff\" d=\"M320 119.2a1 1 0 0 0-1 240.3 1 1 0 0 0 1-240.3M392 293a90 90 0 1 1 0-107 72 72 0 1 0 0 107m-4.7-21.7-37.4-12.1-23.1 31.8v-39.3l-37.4-12.2 37.4-12.2V188l23.1 31.8 37.4-12.1-23.1 31.8z\"/></svg>"
+    },
+    "domains": {
+      "topLevelDomain": ".tn",
+      "internetTld": [
+        ".tn"
+      ]
+    },
+    "unMember": true
+  },
+  {
+    "name": "Tanzania",
+    "officialName": "United Republic of Tanzania",
+    "capital": [
+      "Dodoma"
+    ],
+    "iso": {
+      "alpha2": "TZ",
+      "alpha3": "TZA",
+      "numeric": "834"
+    },
+    "geo": {
+      "latitude": -6,
+      "longitude": 35,
+      "pointer": {
+        "latitude": -6,
+        "longitude": 35
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "region": "Eastern Africa",
+      "continent": "Africa",
+      "landlocked": false,
+      "areaKm2": 945087,
+      "borders": [
+        "BDI",
+        "COD",
+        "KEN",
+        "MWI",
+        "MOZ",
+        "RWA",
+        "UGA",
+        "ZMB"
+      ]
+    },
+    "languages": [
+      "English",
+      "Swahili"
+    ],
+    "currency": {
+      "code": "TZS",
+      "name": "Tanzanian shilling",
+      "symbol": "Sh"
+    },
+    "callingCode": "+255",
+    "flag": {
+      "emoji": "🇹🇿",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 480\"><defs><clipPath id=\"a\"><path fill-opacity=\".7\" d=\"M10 0h160v120H10z\"/></clipPath></defs><g fill-rule=\"evenodd\" stroke-width=\"1pt\" clip-path=\"url(#a)\" transform=\"matrix(4 0 0 4 -40 0)\"><path fill=\"#09f\" d=\"M0 0h180v120H0z\"/><path fill=\"#090\" d=\"M0 0h180L0 120z\"/><path fill=\"#000001\" d=\"M0 120h40l140-95V0h-40L0 95z\"/><path fill=\"#ff0\" d=\"M0 91.5 137.2 0h13.5L0 100.5zM29.3 120 180 19.5v9L42.8 120z\"/></g></svg>"
+    },
+    "domains": {
+      "topLevelDomain": ".tz",
+      "internetTld": [
+        ".tz"
+      ]
+    },
+    "unMember": true
+  },
+  {
+    "name": "Uganda",
+    "officialName": "Republic of Uganda",
+    "capital": [
+      "Kampala"
+    ],
+    "iso": {
+      "alpha2": "UG",
+      "alpha3": "UGA",
+      "numeric": "800"
+    },
+    "geo": {
+      "latitude": 1,
+      "longitude": 32,
+      "pointer": {
+        "latitude": 1,
+        "longitude": 32
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "region": "Eastern Africa",
+      "continent": "Africa",
+      "landlocked": true,
+      "areaKm2": 241550,
+      "borders": [
+        "COD",
+        "KEN",
+        "RWA",
+        "SSD",
+        "TZA"
+      ]
+    },
+    "languages": [
+      "English",
+      "Swahili"
+    ],
+    "currency": {
+      "code": "UGX",
+      "name": "Ugandan shilling",
+      "symbol": "Sh"
+    },
+    "callingCode": "+256",
+    "flag": {
+      "emoji": "🇺🇬",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 480\"><defs><clipPath id=\"a\"><path fill-opacity=\".7\" d=\"M-85.3 0h682.6v512H-85.3z\"/></clipPath></defs><g clip-path=\"url(#a)\" transform=\"translate(80)scale(.9375)\"><path fill=\"#ffe700\" fill-rule=\"evenodd\" d=\"M-128 341.4h768v85.3h-768z\"/><path fill=\"#000001\" fill-rule=\"evenodd\" d=\"M-128 256h768v85.3h-768z\"/><path fill=\"#de3908\" fill-rule=\"evenodd\" d=\"M-128 170.7h768V256h-768z\"/><path fill=\"#ffe700\" fill-rule=\"evenodd\" d=\"M-128 85.4h768v85.3h-768z\"/><path fill=\"#000001\" fill-rule=\"evenodd\" d=\"M-128 0h768v85.3h-768z\"/><path fill=\"#fffdff\" fill-rule=\"evenodd\" stroke=\"#000\" d=\"M335.7 256a79.7 79.7 0 1 1-159.4 0 79.7 79.7 0 0 1 159.4 0z\"/><path fill=\"#de3108\" fill-rule=\"evenodd\" stroke=\"#000\" d=\"m242 194.9-5.2-9.5c2-2 5.3-3.6 10.7-3.6l-.6 10.5z\"/><path fill=\"#ffe700\" fill-rule=\"evenodd\" stroke=\"#000\" d=\"m247 192.3.7-10.5s10.7-.6 16.5 6.4l-5.7 8.2z\"/><path fill=\"#de3108\" fill-rule=\"evenodd\" stroke=\"#000\" d=\"m258.6 196.3 5.3-8.2c3.5 3.7 5 6.3 5.5 10.3.1.1-8.3 2.1-8.3 2z\"/><path fill-rule=\"evenodd\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\".9\" d=\"M244.6 331.1s9.9-11.3 29.1-8.9c-2.9-4.7-12.3-4.1-12.3-4.1s-2.8-22-.6-23.2 12 .1 12 .1c1.2 0 3.4-3.4 1.6-5.6s-6.8-10.5-4.7-12.2 13.4 1 13.4 1l-32-41s-3.3-15.5 3.3-23c7.9-6.5 7-13.6 6.8-13.5-1.1-7.2-12-12.3-19.4-5.7-4.3 5.2-1.4 9.2-1.4 9.2s-11.5 3.1-11.9 5.1 12.9-.3 12.9-.3l-1.3 9.1s-26 23.6-6 44l.6-.8s7 8.6 14.3 10.5c7 7 6.3 6 6.3 6s1.3 11.1 0 13.3c-1.7-.5-19.3-1.2-21.9-.2-2.4.8-11.4.3-9.2 15.1l3.3-7.5s-.3 5.3 1.9 7.2c-.4-5.6 2.1-9.4 2.1-9.4s.4 6.2 1.8 7c1.4 1 1.4-10 9-9 7.4.9 12.9.6 12.9.6s2.5 21.4 1.7 23.4c-5.4-1.3-18.4.5-19.2 3.8 7.6-.5 11.1.4 11.1.4s-6.1 5.5-4.2 8.6\"/><path fill=\"#9ca69c\" fill-rule=\"evenodd\" stroke=\"#9ca69c\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\".9\" d=\"M247.6 214.8s-18.9 20.8-10.7 36.7c.4-2.2.2-3.6.5-3.5-.5-.3 2.3 1.9 2.1 1.5 0-1.2-.8-3.7-.8-3.7l2.5.7-1.5-2.8 3.7.4s-1.3-3.4-.9-3.4l3 .2c-5.4-9.6-.3-17.6 2.1-26.2z\"/><path fill=\"#9ca69c\" fill-rule=\"evenodd\" stroke=\"#9ca69c\" d=\"M254.2 196.9s1 7.2-3 9.2c-.5.5-3 1.3-2.6 2.8.4 2 1.5 1.6 3 1.2 4.1-.7 8.9-9.4 2.6-13.2z\"/><path fill=\"#fff\" fill-rule=\"evenodd\" d=\"M247.2 203a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0\"/><path fill=\"#de3108\" fill-rule=\"evenodd\" stroke=\"#000\" d=\"M241.1 209c-1 .9-6.2 6.3-1 8.3 5.3-1.4 3.8-2.4 5-3.6 0-2.5-2.6-3.1-4-4.6z\"/><path fill=\"#9ca69c\" fill-rule=\"evenodd\" stroke=\"#9ca69c\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\".9\" d=\"M252.6 260.5c-.3 1.2-1.5 5.6.1 9 4.6-2 6.7-1.4 8.2-.4-3.7-3-5.2-4.3-8.3-8.6\"/><path fill=\"#fff\" fill-rule=\"evenodd\" stroke=\"#fff\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\".9\" d=\"m260.4 281.1.2 10.2s3.6.6 5.2 0 0-7-5.4-10.2\"/><path fill=\"#9ca69c\" fill-rule=\"evenodd\" stroke=\"#000\" d=\"M286 282.4s-6.5-15.8-23.2-19.8-14.5-21.8-13.2-22.9c.8-1.5 1.3-3.9 6.1-1.6s27 13.4 30.2 14 .4 30.7.2 30.3z\"/><path fill=\"#de3108\" fill-rule=\"evenodd\" stroke=\"#000\" stroke-linejoin=\"round\" stroke-width=\".9\" d=\"M270.2 262.5c-.3.2 22.3 13.4 15.5 24.7 6.4-4.3 4.4-11.7 4.4-11.7s5.2 13.7-7.6 20.4c1.4 1.2 2.3 1 2.3 1l-2.2 2.1s-1 1.7 7.6-2.5c-2.3 1.9-2.5 3.3-2.5 3.3s.6 1.8 6.2-3.1c-4.5 4.9-5.5 7.4-5.5 7.3 12.3-1 39-41-8.4-52.7l2.1 2.2z\"/><path fill=\"#fff\" fill-rule=\"evenodd\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\".9\" d=\"M271.2 258.6c3 2.2 4.1 3 4.5 4-2.8-.6-5.3-.4-5.3-.4s-6.1-5.8-7.2-6.3c-.8 0-5.6-3-5.6-3-2.3-1.2-4.5-9.3 4.2-7a93 93 0 0 0 10.3 4.6l10.7 3.4 6.2 6.9s-11-5.4-12.4-5.5c3 2.4 4.7 5.8 4.7 5.8-3.5-1-6.5-2-10.1-2.5\"/><path fill=\"none\" stroke=\"#fff\" stroke-linecap=\"round\" stroke-width=\".9\" d=\"M228.4 209.9s10.5-2.6 11.8-2.2\"/><path fill=\"#de3908\" fill-rule=\"evenodd\" d=\"M-128 426.7h768V512h-768z\"/></g></svg>"
+    },
+    "domains": {
+      "topLevelDomain": ".ug",
+      "internetTld": [
+        ".ug"
+      ]
+    },
+    "unMember": true
+  },
+  {
+    "name": "South Africa",
+    "officialName": "Republic of South Africa",
+    "capital": [
+      "Pretoria",
+      "Bloemfontein",
+      "Cape Town"
+    ],
+    "iso": {
+      "alpha2": "ZA",
+      "alpha3": "ZAF",
+      "numeric": "710"
+    },
+    "geo": {
+      "latitude": -29,
+      "longitude": 24,
+      "pointer": {
+        "latitude": -29,
+        "longitude": 24
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "region": "Southern Africa",
+      "continent": "Africa",
+      "landlocked": false,
+      "areaKm2": 1221037,
+      "borders": [
+        "BWA",
+        "LSO",
+        "MOZ",
+        "NAM",
+        "SWZ",
+        "ZWE"
+      ]
+    },
+    "languages": [
+      "Afrikaans",
+      "English",
+      "Southern Ndebele",
+      "Northern Sotho",
+      "Southern Sotho",
+      "Swazi",
+      "Tswana",
+      "Tsonga",
+      "Venda",
+      "Xhosa",
+      "Zulu"
+    ],
+    "currency": {
+      "code": "ZAR",
+      "name": "South African rand",
+      "symbol": "R"
+    },
+    "callingCode": "+27",
+    "flag": {
+      "emoji": "🇿🇦",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 480\"><defs><clipPath id=\"a\"><path fill-opacity=\".7\" d=\"M-71.9 0h682.7v512H-71.9z\"/></clipPath></defs><g clip-path=\"url(#a)\" transform=\"translate(67.4)scale(.93748)\"><g fill-rule=\"evenodd\" stroke-width=\"1pt\"><path fill=\"#000001\" d=\"M-71.9 407.8V104.4L154 256.1z\"/><path fill=\"#000c8a\" d=\"m82.2 512.1 253.6-170.6H696V512H82.2z\"/><path fill=\"#e1392d\" d=\"M66 0h630v170.8H335.7S69.3-1.7 66 0\"/><path fill=\"#ffb915\" d=\"M-71.9 64v40.4L154 256-72 407.8v40.3l284.5-192z\"/><path fill=\"#007847\" d=\"M-71.9 64V0h95l301.2 204h371.8v104.2H324.3L23 512h-94.9v-63.9l284.4-192L-71.8 64z\"/><path fill=\"#fff\" d=\"M23 0h59.2l253.6 170.7H696V204H324.3zm0 512.1h59.2l253.6-170.6H696v-33.2H324.3L23 512z\"/></g></g></svg>"
+    },
+    "domains": {
+      "topLevelDomain": ".za",
+      "internetTld": [
+        ".za"
+      ]
+    },
+    "unMember": true
+  },
+  {
+    "name": "Zambia",
+    "officialName": "Republic of Zambia",
+    "capital": [
+      "Lusaka"
+    ],
+    "iso": {
+      "alpha2": "ZM",
+      "alpha3": "ZMB",
+      "numeric": "894"
+    },
+    "geo": {
+      "latitude": -15,
+      "longitude": 30,
+      "pointer": {
+        "latitude": -15,
+        "longitude": 30
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "region": "Eastern Africa",
+      "continent": "Africa",
+      "landlocked": true,
+      "areaKm2": 752612,
+      "borders": [
+        "AGO",
+        "BWA",
+        "COD",
+        "MWI",
+        "MOZ",
+        "NAM",
+        "TZA",
+        "ZWE"
+      ]
+    },
+    "languages": [
+      "English"
+    ],
+    "currency": {
+      "code": "ZMW",
+      "name": "Zambian kwacha",
+      "symbol": "ZK"
+    },
+    "callingCode": "+260",
+    "flag": {
+      "emoji": "🇿🇲",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 480\"><defs><clipPath id=\"a\"><path fill-opacity=\".7\" d=\"M-170.7 0H512v512h-682.7z\"/></clipPath></defs><g fill-rule=\"evenodd\" clip-path=\"url(#a)\" transform=\"translate(160)scale(.9375)\"><path fill=\"#198a00\" d=\"M-256 0h768v512h-768z\"/><path fill=\"#ef7d00\" d=\"M421.9 184H512v328h-90.1z\"/><path fill=\"#000001\" d=\"M331.9 183.8h90v328h-90z\"/><path fill=\"#de2010\" d=\"M240 184h91.9v328h-92z\"/><g fill=\"#ef7d00\" stroke=\"#000\"><path stroke-linejoin=\"round\" d=\"M451.6 65.6s34-14.5 37.2-17.5c1.5 1.8-13.6 20-42.9 26.7 26.6-6.2 49.3-26 54-25.4 1.3.3 1 19.3-60 35.8 42.2-11 66.7-31.4 66.4-29.2.3.5-4.2 16-41.1 28.1 10.3-2.4 38.3-19.4 38-16.1.9 1.3-27 37.2-77.6 25.5 40.4 10.5 66.5-14.8 70.2-14.3.8.1-7.4 22-58.2 23.4 24.3-2.5 17.3-.1 17.3-.1s-14.3 11.2-31.7 3.6c13.6 3.7 15.1 3.9 15.4 5-.9 1.6-12 3.8-22.9-2 8.7 3.6 16.5 4.2 16.6 5.5-.1.4-5.6 3.6-10.6 1.3s-50.3-30.1-50.3-30.1l77.4-21.3 2.8 1zm-91 75.6c-6.8 0-7 6-7 6s-.5.5-.2 3.4l1.7-2.6c.8.1 3.9 1 8.8-2.8-4.5 4.7-1.8 6.4-1.8 6.4s-1 3.7 2.4 4.4c-1-1.5-.4-2.8-.4-2.8s4.8-.5 4.5-6.3c.1 5.3 3 6.6 3 6.6s0 2.9 3.1 3.2c-1.6-1.5-1.3-3.8-1.3-3.8s4-3 .7-8c2-1.2 3.7-4.5 3.7-4.5s-2.8-1.2-4.1-2.2c-.6-1.3 0-8.5 0-8.5l-1.8-9.3-4.8 14.5c.2-2 .3 6.3-6.5 6.3z\"/><path stroke-linejoin=\"round\" d=\"M394.2 120.3c.2.1 5.1 5.6 9.9 5.3 1.8-1.5-3.7-4.7-3.7-5.5 2 1.8 10.1 8.8 15.4 6.3 2-3-3.8-2.5-10.2-10.6 4.5 3 15.7 9.5 21 7 2.1-2.4-11.7-9.9-16.4-15.7l-12-6.1-16.2 13.3 12.3 6z\"/><path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M375.9 74.8s5.5-3.2 27.6-1.6c2.4.3 15-4.3 19.1-5.7 6.4-1.2 27-5.6 32.4-9.8 4-.5-1 7.1-6 9-5.2 2.3-24.1 8.9-30.9 8 8.1.1 3.6 6.7-9.8 3.6 6.4 3.6 4 4.2 4 4.2s-11.3.6-14.3-2c7.6 2.9 4.4 4 4.4 4s-7.7.7-11.3-1c5.5 1.7 2.7 2.7 2.7 2.7s-4.5.8-8.2-.6c-3.8-1.3-9.4-10.7-9.7-10.7z\"/><path stroke-linejoin=\"round\" d=\"m384.7 123.4.8 14.6-.8 1.2c-.3.4-10.3-1.6-9 6 0 3.2 0 4 2.2 5.7-.5-2-.4-3.5-.4-3.5s2.9 1.7 5.6-3c-1.9 4.6-.6 6.3-.1 6.4.4.8-.8 4.5 3 4.4-1.5-1.4-.8-3.4-.8-3.4s4-.6 2.6-7.7c1.4-1.4 2 0 2 0s.4 4.2 3.9 3.3c1.5.9-.3 3.2-.3 3.2s2.5 0 3.3-2c.7-2.2 1.6-6-2.5-7.6-.5-1.5 1.6-1.6 1.6-1.6s2.6.9 3.4 2.2.5-3.4-2.8-4c-4 0-4.2-.9-4.2-1l-1-13.7z\"/><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.1\" d=\"M398.6 135.8c0-.7-6.8-9.9-5-11 1.7.3 4.5 4.5 6.9 3.1-.7-1.6-2.8-.7-5.1-4.9-2.4-4.8-2.7-11.9-11-19.6 5.4 8.2 17.4 13 18 10.6s-10.7-11.4-10.1-13.6c2.2 4.4 13.4 14.4 21.6 13.6.6-2-6.7-5.8-8.6-9.4-5.3-3.6-19.4-15.7-19.6-18.5a33 33 0 0 0-9.9-10.6l-.8-1.7c-3.2-7.5 1-10 3.5-10.3 2-.3 2.6 0 4-.7l-5.1-2c2.3 1.7 8 .2 6.8 5 2.5-1 7.9-7.4-6.1-8.8-4.6-5.2-23.3-8.2-28 14.6.4.3.6.6 1.8 1.4-6-2.8-21.9-5-27.6-6-15.6-4.4-31.7-15.2-33.2-13.9-2 1 9.4 11.6 8.8 11.8a263 263 0 0 0-27.5-13.6c-6-2.2-11.9-7.4-12.5-6.4-2.2 4.5 9.5 15.9 11.7 17.2s19.3 9.3 19 9.4c-25.8-11.7-30-13.9-31.4-15.2-2.3-.5-7.8-8-9.3-7.5-.9.8.8 12.6 13.1 18 2 1.4 26.4 10.1 26.2 10.8 0 .2-28-11.5-29-12-5.4-2-12-9.4-13.2-8.6s3 8.8 8.4 11.3c2.9 1.2 13.8 6.6 23.6 10 .6.3-17.7-6.9-26.5-10.5-4-2.2-5.8-5-6.4-4.4-1 .6 1.4 12.4 29.7 19 .7.4 10-2.1 9.5-1.8a113 113 0 0 1-15.8 2.8c-.3.8 1.8 5 16.4 4.2 1.8-.1 12-3.7 11.1-3a174 174 0 0 1-14.8 4.9c-.9 0-5.6.6-5.8 1-.2.8 3.5 3.8 11.3 4.2 7 .4 20.2-4.2 20-3.9-.4.3-12.8 4.6-13.1 4.8-.5.3-5 .5-5.2.9-.4.9 6.6 7.4 27.1.4-2 2.8-12 4.7-12 5.2s2.2 2.5 5.7 3.3c1.7.4 4.1.3 6.3 0 4-.8 8-2.3 13.3-7.2.6 1.5-13.1 8.5-12.5 9.1 3 2.8 12.9-.3 13.5-.7.7-.3 19-10.7 19-12 .3 1.6-23.7 14.7-23.4 15.2 1.5 2.4 9.7-.1 10-.4l10.8-5.8c.3-.1-11.8 7-10.8 8.2-.5 4.7 19-3.2 20.5-4.2.7-.5-9.4 4.4-9.4 6.7 3.3 5.5 13.7 3.8 15.3 2.6.8-.6-1 4-.4 3.6a16 16 0 0 0 3-4.3c-.2 1.6-1.4 4-2 6.8s-.9 5.9-1.8 9.2c-.2 1.4 6.4-2.9 5.4-13.2.6 5.4-2 15.4-1.3 16 1.3 1 5.2-5 5.6-9.1 1.1 2 3.5 6.3 5.6 7.3-.2-3.1 0-3-1-6q.8-6.3.8-16.1c5.6 10.7 7.9 15.3 6.3 23.5 1.7.7 4.3-5.8 4.1-9a13 13 0 0 0 11.5 10.2\"/><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.1\" d=\"M305.4 67.7s-3.9 2.9-8.6 2.7c1.2 4.8 11 1.1 11 1.1s-4.7 5.3-8.1 6.1c2 1.7 10.6 1.1 12 .3s4-4.2 4-4.2-8.8 10.2-10 10.1c-.3 1.2 9.1.8 11-1s7-4.4 7-4.4-13 9-13.5 9c4.8 1.2 14.5-1.6 20.7-5.4-9.2 6.1-10 7.2-14.7 9.3 4.2.9 6.3 3.7 20.3-2.4 8-3.8 12.6-10.8 12.6-10.8a82 82 0 0 1-21.6 18c-.5 1 9.4 5.2 21.9-7.9\"/><path stroke-linecap=\"round\" stroke-width=\"1.1\" d=\"M373.4 96s.9 4 4.3 7 3.6 6 3.6 6m-9.5-39s1.1 3.7 4.6 6c3.6 2.2 9 9.4 9.3 10.7.4 1.5 2.5 12.6 2.3 13.8m-37.8-25c.2 1.5-5 8.3 2.2 16.4-6.6 8-6.6 9-6.6 9s3.7 2 10.2-3.6c10.8 13.2 7.2 19.2 7.2 19.2\"/><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.1\" d=\"M362.3 107.2s-1-1.4.8-6.7c1.6 2 3.4 2.3 4.1 3 .8.9 9 2 9.4 7.5\"/><path stroke-width=\"1.1\" d=\"M371.9 57.5c0-.4-1.7-4-7.8.4 3.3.2 6.5 2.1 7.8-.4z\"/><path stroke-linejoin=\"round\" stroke-width=\"1.1\" d=\"M430.1 73.5c.3.2 18.2 4 24.2 2.1-7.6 10.2-22.9 3.3-22.9 3.3 7.5 2.2 7.8 2 10.2 4.2.8 2-13.8 1-18.5-1.7 13.3 4.2 13.6 4 14 5.5.6 2.3-21.8-.6-23.7-3.5 6 4.6 9.2 5.5 12.5 7.6-4 1.8-11.5 3.6-25.2-6.1 18 16.4 34.3 15.4 36.9 18.3-6.3 9.3-30.7-5.5-41.9-13s24.5 18.1 27.8 17.7c-1.6 2.5-13.4.3-14.2-1\"/><path stroke-linecap=\"round\" stroke-width=\"1.1\" d=\"M434.7 90.7c-2 .3-8.3.3-9.2.1\"/><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.1\" d=\"M300.1 65s13.6 7.2 19.4 6.7a10 10 0 0 1-3.8 2c1.4.6 5.4 2.7 11.4 1.4l-3.3 3s5.2 2 11-1l-2.8 3.7 4.1.3\"/></g></g></svg>"
+    },
+    "domains": {
+      "topLevelDomain": ".zm",
+      "internetTld": [
+        ".zm"
+      ]
+    },
+    "unMember": true
+  },
+  {
+    "name": "Zimbabwe",
+    "officialName": "Republic of Zimbabwe",
+    "capital": [
+      "Harare"
+    ],
+    "iso": {
+      "alpha2": "ZW",
+      "alpha3": "ZWE",
+      "numeric": "716"
+    },
+    "geo": {
+      "latitude": -20,
+      "longitude": 30,
+      "pointer": {
+        "latitude": -20,
+        "longitude": 30
+      },
+      "bounds": {
+        "north": 0,
+        "south": 0,
+        "east": 0,
+        "west": 0
+      },
+      "region": "Eastern Africa",
+      "continent": "Africa",
+      "landlocked": true,
+      "areaKm2": 390757,
+      "borders": [
+        "BWA",
+        "MOZ",
+        "ZAF",
+        "ZMB"
+      ]
+    },
+    "languages": [
+      "Chibarwe",
+      "English",
+      "Kalanga",
+      "Khoisan",
+      "Ndau",
+      "Northern Ndebele",
+      "Chewa",
+      "Shona",
+      "Sotho",
+      "Tonga",
+      "Tswana",
+      "Tsonga",
+      "Venda",
+      "Xhosa",
+      "Zimbabwean Sign Language"
+    ],
+    "currency": {
+      "code": "BWP",
+      "name": "Botswana pula",
+      "symbol": "P"
+    },
+    "callingCode": "+263",
+    "flag": {
+      "emoji": "🇿🇼",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 640 480\"><defs><clipPath id=\"a\"><rect x=\"1.9\" y=\".1\" fill=\"#00f\" fill-rule=\"evenodd\" ry=\"0\"/></clipPath></defs><g clip-path=\"url(#a)\" transform=\"matrix(1.1722 0 0 1.1426 -2.3 -.1)\"><path fill=\"#006400\" d=\"M0 0h840v420H0z\"/><path fill=\"#ffd200\" d=\"M0 60h840v300H0z\"/><path fill=\"#d40000\" d=\"M0 120h840v180H0z\"/><path fill=\"#000001\" d=\"M0 180h840v60H0z\"/><path stroke=\"#000\" stroke-width=\"20\" d=\"M0 0v420l280-210z\"/><path fill=\"#fff\" d=\"M0 0v420l280-210z\"/><path fill=\"#d40000\" d=\"M106.5 104.4 162 275.1 16.8 169.6h179.5L51 275.1z\"/><path fill=\"#fc0\" d=\"m82.8 253.7 9.8-1.8 18.1-.7 6.7.6 15 2.5 1.1-1.5V242l1.8-9.3 3-9.4 3.3-7.5 4.2-7.8 6.8 1.7h1.8l.2-1.3-14.4-12.3-15-11.5-21.7-16.2-2-.5-2.3-17-1.7-5.1-2.3-2-4.3-1.4-4.8.2-2.2 1.2-4.6 1-2.4.4-1.6 1.9-.2 2.4 6.7.2 1.7.7-.2.7-3.8.5-1.8.6 2.1 1.6 2.2.8 2.8 1 .6 2 .2 25.8-1.5 4-.5 7.5 2.2 9-5.6 6.4L77 216l-.6 3.5-1.7 3.5-.2 2.2 1.1 2.4 4.3 14.2 2.2 11.7z\"/><path d=\"M88 142c-1.8 0-2.6.2-4.3 1.1a11 11 0 0 1-4.6 1.4c-2.5 0-4.5 1.8-4.5 4.1v1.5l3.6-.1c10.6.3 1 1.3.2 1.4-2.6.5.6 2.6 3.7 3.7 3.3 1 3.1.4 3.1 15 0 11.9 0 13.6-1 16.3-1.3 4-1.3 10 0 14 .6 1.6 1 3 1 3.3s-1.6 2.1-3.5 4.3c-3.5 4-5.6 8.1-5.6 11a6 6 0 0 1-1 2.6c-1.3 1.7-1.3 4.6-.1 5.7 1.3 1.2 6.6 21.8 6.7 25.7 0 1.4.2 1.4 8.3-.2 6.6-1.3 22.1-1.6 30-.6 3.6.5 7.8 1.3 9.3 1.6 4.8 1.3 4.6 1.5 4.6-4.3a74 74 0 0 1 5.1-26.7 95 95 0 0 1 6.9-14s1.8.2 4 .8c4.1 1 5.3.9 5.3-1 0-1-4.3-4.6-25.4-21a432 432 0 0 0-26.3-19.9q-1 0-1.3-.7l-1.5-9.5c-.7-4.9-1.7-9.7-2.1-10.7q-2-4.4-8.6-4.8zm.1 1h2c6.6.4 7.8 2.2 9.6 14l1.2 9.4q.1 1.1-3.2 3.3a47 47 0 0 0-10 9.5l-1.3 1.8-.3-4.2V165c.3-8.7 0-9.5-2.8-10.5-2.3-.8-5.3-1.6-4.5-2.1 1-.6 2-.2 4.4-.9 1-.2.9-.1.7-.9-.2-1.3-1.6-2-5.3-1.8-3 .2-3.3.1-3.1-.7q.7-2.4 4.5-2.9a13 13 0 0 0 4.4-1.3 7 7 0 0 1 3.7-1zm14.9 25.8h.4c1.7.3 50.8 38.7 50.8 39.8q0 .7-1 .7c-.4 0-12.9-3.5-27.7-7.8-23.6-7-27-8-28-9.3a5 5 0 0 1-.1-6.2 5 5 0 0 0 1-2c0-1.2-2.5 1.8-3 3.5-.5 2 .5 5.4 2 6.5.6.5 5.1 2 10 3.5 8.4 2.4 9 2.7 9.4 4.1 1 3.3-2.5 7.2-7.5 8.3a15 15 0 0 0-5.2 2.4 68 68 0 0 1-17.2 10.4c-.4.3-.9 1.9-1.2 3.4-.6 3.3-.8 3.8-1.8 3.8q-.8.1-.2-1.4c.7-2 .6-4.4-.1-4.4q-.7 0-.7 1.8c0 1-.3 2.2-.7 2.5-.5.6-.6.2-.4-2.3.2-1.7.1-3-.1-3-.5 0-1.4 2.5-1.7 4.7q-.2 2-.6-.3c-.3-1.2-.2-2 .7-3.5a9 9 0 0 0 1-3.5c0-1.3 1-2.6 5.7-7.3 3-3.1 6.7-7 8-8.7 2.3-2.8 2.4-3 2.3-5.9 0-1.6-.2-3.1-.4-3.3-.6-.6-1.4 2.6-1 4.3.2 1.6 0 2.1-3.3 6a113 113 0 0 1-7.5 7.8c-3.9 3.6-5.3 5.6-5.3 7.4 0 .6-.4 2-1 3.3s-.8 2.6-.6 2.9q.2.5-.3 0-.7-.6-.1-3a7 7 0 0 0 .2-2.6c-.5-1-1.2.2-1.5 2.7-.2 1.4-.5 2.5-.8 2.3-.7-.4-.5-3 .4-4.4.5-.7 1-2.3 1.3-3.6.7-3.7 2.3-6.7 5.8-10.7l3.2-3.8-1-3.3a25 25 0 0 1-.2-13.7q1.9-5.6 8-11.7c4-3.9 7.9-6.3 10-6.4m15 32.2a.9.6 0 0 1 1 .6.9.6 0 0 1-1.7 0 .9.6 0 0 1 .7-.6m2.5.3a.9.6 0 0 1 1 .6.9.6 0 0 1-1.7 0 .9.6 0 0 1 .7-.6m2.6.5a.9.6 0 0 1 1 .6.9.6 0 0 1-1.7 0 .9.6 0 0 1 .7-.6m2.4.5a.9.6 0 0 1 1 .6.9.6 0 0 1-1.7 0 .9.6 0 0 1 .7-.6m-6.3.6a.9.6 0 0 1 1 .6.9.6 0 0 1-1.7 0 .9.6 0 0 1 .7-.6m2.4.4a.9.6 0 0 1 1 .6.9.6 0 0 1-1.7 0 .9.6 0 0 1 .7-.6m5.2.2a.9.6 0 0 1 1 .6.9.6 0 0 1-1.7 0 .9.6 0 0 1 .7-.6m-2.7 0a.9.6 0 0 1 1 .6.9.6 0 0 1-1.7 0 .9.6 0 0 1 .7-.6m5 .6c.1 0 3.7.8 8 2l7.9 2.3-1.5 2.7-2.4 4.4c-1 2-1.2 2-6 .9-5.2-1.2-13.4-2.3-21.8-3l-8-.7 3-1.1 5.3-2.4c2-1.1 2.8-1.3 5.9-1q6.8.4 8.7-2.4l1-1.7zm-8.8.6a.9.6 0 0 1 1 .6.9.6 0 0 1-1.7 0 .9.6 0 0 1 .7-.6m5.6 0a.9.6 0 0 1 1 .6.9.6 0 0 1-1.6 0 .9.6 0 0 1 .7-.6zm-8 0a.9.6 0 0 1 1 .6.9.6 0 0 1-1.7 0 .9.6 0 0 1 .7-.5zm5.3.2a.9.6 0 0 1 1 .5.9.6 0 0 1-1.7 0 .9.6 0 0 1 .7-.5m-6.6 1.1a.9.6 0 0 1 1 .6.9.6 0 0 1-1.7 0 .9.6 0 0 1 .7-.6m2.5 0a.9.6 0 0 1 1 .7.9.6 0 0 1-1.7 0 .9.6 0 0 1 .7-.6zm2.6.2a.9.6 0 0 1 1 .5.9.6 0 0 1-1.7 0 .9.6 0 0 1 .7-.5m2.8 0a.9.6 0 0 1 1 .6.9.6 0 0 1-1.7 0 .9.6 0 0 1 .7-.6m-20.3 8.1a191 191 0 0 1 35.1 4.2c.1.1-.6 2.5-1.7 5.4l-2 6q0 .7-2.5.3c-8.3-1.3-32.3-1.2-41.5.2-5.3.8-6 .7-5.6-.4l1-3.5.6-2.7L93 221a63 63 0 0 0 10.2-6.5h.9zm-27 14.2q.5 0 1.6.8c1 .6 2.2 1.1 2.7 1.1 2.6 0 4 3.7 6.2 16l.8 4.4c.2 1 0 1.2-2.3 1.7-2.8.6-3.5.7-3.5.3 0-1-2.8-13.7-4-18.2l-1.6-6h.1zm28.6 2h2.9l-1 1c-1.7 2-2.5 2.1-3.7.8l-1-1.5c0-.2 1.3-.4 2.8-.4zm6.1 0h5.4l-1.2 1.2c-1.4 1.6-1.5 1.6-3 0l-1.2-1.3zm8.2 0h1.3c.7 0 2 0 2.8.2l1.5.3-1.4 1.3q-1.3 1.2-1.6 1.2l-1.4-1.6zm8.5.3 1.2.3c.7.2 2.2.3 3.3.4h2l-1.5 1.3-1.8 1.3c-.1 0-1-.8-1.7-1.7zm-30.2.1h.2q.1.5-1 1.7l-1 1.4-1.5-1.2-1.5-1.3 2.4-.3zm2.3.2 1.6 1.4 1.6 1.5-3 .2-3 .1 1.4-1.5zm18 0q.4 0 .8.3l1.3 1.7q.8 1.1-1 1l-2.5-.5-1.2-.3 1.3-1.3q.8-1 1.4-1zm-8.3 0q.7-.1 1.6 1.3c.7 1.1.7 1.1-2 1.1h-2.7l1.4-1.3q1-1 1.7-1zm17 .2 1.2 1.2q2.1 2 .6 2l-2.8-.3-2.2-.2 1.6-1.3zm-35.2.7q.5 0 1.6 1.2l1.2 1.3-2.5.4-3.5.5q-1.1.3 1-1.6 1.7-1.7 2.2-1.8m-3.7 0h.4c.8.2.8.4-.6 1.8l-1.5 1.5-.5-1.3c-.4-1-.3-1.3.6-1.7zm46 1.8q.3 0 0 .6c-.2.8-1.1 1-1.1.2q0-.3.7-.7zm-21.4 1.6c7.7 0 15.5.2 17.4.4 3.1.4 3.4.5 3.4 1.7 0 1.4-.4 1.5-4.6.8-1.2-.3-6.3-.7-11.2-1.1a150 150 0 0 0-28.5 1c-1.9.2-2.4 0-2.4-.6 0-1.3 10.2-2.2 25.9-2.2m-10.3 2.9h5.4l-1.2 1.3c-1.5 1.6-1.6 1.6-3 0zm7 0 1.4 1.4 1.4 1.6-2.9.1h-2.9l1.5-1.6zm2.1 0h5.4l-1.2 1.3c-1.4 1.6-1.5 1.6-3 0zm-12.8 0q.3 0-.7 1.5-1.2 1.5-1.5 1.6-.5-.1-1.5-1.3l-1.2-1.3H96a9 9 0 0 0 2.7-.4zm2 .5 1.3 1.2 1.5 1.3-2.6.2-2.9.2 1.4-1.5zm17.4 0 1.4 1.6c1.6 1.7 1.5 1.8-2.1 1.1l-1.7-.3 1.2-1.2zm2 0h2.4q3.8-.1 1.4 1.8c-1.2 1-1.2 1-2.6-.5zm-30.6.5c1.2 0 1.1.1-.4 1.6-1.1 1.1-1.2 1.1-1.6.3q-.3-1.6 2-1.9m38.8.2 2 .2 2.3.4-1.3 1.2-1.2 1.2-1.1-1.4-1-1.6zm-36 .5q.4 0 1.1.7c1 1 1 1 .2 1.4l-2.4.4H90l1.3-1.4q1-1 1.3-1.1zm34.1.3q.5-.1 1.2 1l.9 1.2h-2.1q-2 0-2-.6.3-.7 1.3-1.3zm6.4 1.3q.3 0 .2.5c0 1-.9 1.7-1.3 1q-.1-.5.5-1.1zm-25.9 1.2c8.7 0 18.3.6 24 1.6l1.6.3v4.4c0 3.3-.2 4.4-.7 4.4l-5-1a126 126 0 0 0-35-1l-2.3.3-.6-3.7-.4-3.8s2.3-.5 5-.8c3.3-.5 8.2-.7 13.4-.7\"/><path id=\"b\" d=\"M124.8 217.8c-3 0-5.1 2.1-5.1 5.2 0 4.8 5.4 7.2 8.6 3.8s1-9-3.5-9m0 1.2a4 4 0 0 1 4 4c0 3-3.3 5-6 3.7-2.7-1.5-2.5-6.1.4-7.3z\"/><use xlink:href=\"#b\" x=\"-20.1\" y=\"-.6\"/><path d=\"M88 145.3a1.7 1.8 0 0 0-1.6 1.7 1.7 1.8 0 1 0 3.5 0 1.7 1.8 0 0 0-1.9-1.7m.1.6a1.2 1.2 0 0 1 1.2 1.1 1.2 1.1 0 1 1-2.4 0 1.2 1.2 0 0 1 1.2-1.1\"/></g></svg>"
+    },
+    "domains": {
+      "topLevelDomain": ".zw",
+      "internetTld": [
+        ".zw"
+      ]
+    },
+    "unMember": true
+  }
+]
