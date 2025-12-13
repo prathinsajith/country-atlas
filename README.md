@@ -1,22 +1,27 @@
-# 🌍 World Country Data
+# 🌍 Country Atlas
+
+[![npm version](https://img.shields.io/npm/v/country-atlas)](https://www.npmjs.com/package/country-atlas)
+[![npm downloads](https://img.shields.io/npm/dt/country-atlas)](https://www.npmjs.com/package/country-atlas)
+[![license](https://img.shields.io/github/license/prathinsajith/country-atlas)](https://github.com/prathinsajith/country-atlas/blob/main/LICENSE)
+[![TypeScript](https://img.shields.io/badge/TypeScript-ready-blue)](https://www.typescriptlang.org/)
+[![bundle size](https://img.shields.io/bundlephobia/minzip/country-atlas)](https://bundlephobia.com/package/country-atlas)
 
 > **Production-ready, type-safe, and tree-shakable country metadata for modern applications.**
 
-[![NPM Version](https://img.shields.io/npm/v/country-atlas)](https://www.npmjs.com/package/country-atlas)
-[![Try on RunKit](https://badge.runkitcdn.com/country-atlas.svg)](https://npm.runkit.com/country-atlas)
-[![License: MIT](https://img.shields.io/github/license/prathinsajith/country-atlas)](https://github.com/prathinsajith/country-atlas/blob/main/LICENSE)
-[![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue)](https://www.typescriptlang.org/)
+**Country Atlas** provides authoritative, normalized country metadata designed for validation, localization, mapping, and UI use cases. It works seamlessly in both backend and frontend projects, with zero runtime dependencies and excellent tree-shaking support.
 
-A lightweight, zero-dependency Node.js library that provides authoritative data for all countries. Optimized for both backend (validation, enrichment) and frontend (UI components, maps) use.
+---
 
-## 🚀 Features
+## ✨ Key Features
 
-- **🛡️ Strict TypeScript Support:** Fully typed interfaces (`Country`, `Currency`, `Geo`, etc.).
-- **🌲 Tree-Shakable:** Import only the regions or data you need (e.g., `import { asia } from ...`).
-- **⚡ Zero Runtime Dependencies:** Pure JSON data and simple helper functions.
-- **🚩 Optimized Flags:** Includes high-quality, lightweight SVG flags embedded inline (no external requests).
-- **📦 Dual Build:** Supports both ESM (`import`) and CJS (`require`).
-- **✅ Verified Data:** Normalized from ISO 3166, CLDR, and authoritative sources.
+- **🧩 Type-safe** – Strict TypeScript definitions for all entities (`Country`, `Geo`, `Currency`, etc.)
+- **🌲 Tree-shakable imports** – Import only the data you need (regions, helpers, or individual lookups)
+- **🚫 Zero runtime dependencies** – Pure JSON data and helper functions
+- **🚩 High-quality flags** – Optimized inline SVG flags for infinite scalability without quality loss
+- **🔁 Dual module support** – Works with both ESM (`import`) and CommonJS (`require`)
+- **🧪 Verified & normalized data** – Based on ISO standards and authoritative datasets
+
+---
 
 ## 📦 Installation
 
@@ -28,149 +33,131 @@ yarn add country-atlas
 pnpm add country-atlas
 ```
 
-## 📖 Usage
+---
+
+## 🚀 Quick Start
 
 ### Basic Lookup
 
-```typescript
+```ts
 import { getCountryByISO2, getCountryByName } from 'country-atlas';
 
-// Lookup by ISO 3166-1 alpha-2 code
 const india = getCountryByISO2('IN');
-console.log(india?.name); // "India"
-console.log(india?.currency.code); // "INR"
-console.log(india?.flag.emoji); // "🇮🇳"
+console.log(india?.name); // India
+console.log(india?.currency.code); // INR
+console.log(india?.flag.emoji); // 🇮🇳
 
-// Fuzzy search by name
 const usa = getCountryByName('united states');
-console.log(usa?.iso.alpha3); // "USA"
+console.log(usa?.iso.alpha3); // USA
 ```
 
-### Advanced Search & Filtering
+---
 
-```typescript
-import { searchCountry, getCountriesByContinent } from 'country-atlas';
+## 🔍 Search & Filtering
 
-// Search by partial name
-const results = searchCountry('uni');
-// Returns [United Arab Emirates, United Kingdom, United States, ...]
+```ts
+import {
+    searchCountry,
+    getCountriesByContinent,
+    getCountryByCallingCode,
+    getCountriesByCurrency,
+} from 'country-atlas';
 
-// Filter by Continent
-const asianCountries = getCountriesByContinent('Asia');
-
-// Find by Calling Code
-const usa = getCountryByCallingCode('+1');
-
-// Filter by Currency
+const matches = searchCountry('uni');
+const asia = getCountriesByContinent('Asia');
+const us = getCountryByCallingCode('+1');
 const euroZone = getCountriesByCurrency('EUR');
 ```
 
-### Field Selection (Performance)
+---
 
-```typescript
+## ⚡ Performance-Oriented Access
+
+```ts
 import { getCountry } from 'country-atlas';
 
-// Get only specific fields to reduce memory usage in critical paths
-const partialData = getCountry('FR', {
+const minimal = getCountry('FR', {
     fields: ['name', 'capital', 'currency'],
 });
 ```
 
-### 📱 Phone Number Validation (Example)
+---
 
-```typescript
-import { getCountryByISO2 } from 'country-atlas';
+## 🌍 Region-Based Imports (Tree-Shaking)
 
-function validatePhonePrefix(phoneNumber: string, isoCode: string) {
-    const country = getCountryByISO2(isoCode);
-    if (!country?.callingCode) return false;
-
-    // Simple check: does the number start with the country's calling code?
-    return phoneNumber.startsWith(country.callingCode);
-}
-
-console.log(validatePhonePrefix('+919876543210', 'IN')); // true
-```
-
-### Region-Specific Imports (Tree-Shaking)
-
-If you only need data for a specific region, import specifically to reduce bundle size:
-
-```typescript
+```ts
 import { asia } from 'country-atlas';
-
 console.log(asia.length); // 50+ countries
 ```
 
-## 💻 CLI Usage
+---
 
-The package comes with a built-in zero-dependency CLI.
+## 🖥️ CLI Usage
 
 ```bash
-# Lookup country by ISO code
 npx atlas lookup IN
-
-# Search countries by name
 npx atlas search "United States"
-
-# List countries in a region
 npx atlas region Asia
 ```
 
-## 🧩 Data Schema
+---
 
-Each country object strictly follows the `Country` interface:
+## 🧱 Data Model (Simplified)
 
-```typescript
+```ts
 interface Country {
-    name: string; // Common name
-    officialName: string; // Official full name
+    name: string;
+    officialName: string;
     iso: {
-        alpha2: string; // "US"
-        alpha3: string; // "USA"
-        numeric: string; // "840"
+        alpha2: string;
+        alpha3: string;
+        numeric: string;
     };
     geo: {
-        region: string; // "Americas"
-        continent: string; // "North America"
+        continent: string;
+        region: string;
         latlng: [number, number];
-        // ...
+        bounds?: [number, number, number, number];
+        placeId?: string;
     };
     currency: {
-        code: string; // "USD"
+        code: string;
         name: string;
-        symbol: string; // "$"
+        symbol: string;
     };
     flag: {
-        emoji: string; // "🇺🇸"
-        svg: string; // Inline optimized SVG string
+        emoji: string;
+        svg: string;
     };
-    // ... languages, timezones, calling codes, TLDs
 }
 ```
 
-## 🛠️ Data Sources
+---
 
-This package normalizes data from the following authoritative projects:
+## 🧪 Testing & Quality
 
-- **ISO 3166-1**: Country codes.
-- **mledoze/countries**: Primary dataset foundation.
-- **lipis/flag-icons**: High-quality SVG flags.
-- **Unicode CLDR**: Locale data.
+Tested with **Vitest** to ensure:
 
-## 🧪 Testing
-
-This library is rigorously tested with `Vitest` to ensure:
-
-- No missing required fields.
-- Unique ISO codes.
-- Valid SVG flag content.
-- Correct API behavior.
+- All required fields exist
+- ISO codes are unique
+- SVG flags are valid and optimized
+- API methods behave correctly
 
 ```bash
 npm test
 ```
 
+---
+
+## 📚 Data Sources
+
+- **ISO 3166-1** – Country codes
+- **Unicode CLDR** – Locale and formatting data
+- **mledoze/countries** – Primary metadata source
+- **lipis/flag-icons** – High-quality SVG flags
+
+---
+
 ## 📄 License
 
-MIT © [Prathin Sajith](https://github.com/prathinsajith)
+ISC © [Prathin Sajith](https://github.com/prathinsajith)
