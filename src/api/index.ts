@@ -1,5 +1,6 @@
 import { countries } from '../data';
 import { Country } from '../types';
+import { CountryNotFoundError } from '../errors';
 
 /**
  * Returns all countries in the dataset.
@@ -107,4 +108,128 @@ export function getCountry(
     });
 
     return result;
+}
+
+/**
+ * Get multiple countries by their ISO2 codes in a single call
+ * @param codes Array of ISO 3166-1 alpha-2 codes
+ * @returns Array of found countries (missing codes are skipped)
+ */
+export function getCountriesByISO2Codes(codes: string[]): Country[] {
+    return codes.map((code) => getCountryByISO2(code)).filter((c): c is Country => c !== undefined);
+}
+
+/**
+ * Get multiple countries by their ISO3 codes in a single call
+ * @param codes Array of ISO 3166-1 alpha-3 codes
+ * @returns Array of found countries (missing codes are skipped)
+ */
+export function getCountriesByISO3Codes(codes: string[]): Country[] {
+    return codes.map((code) => getCountryByISO3(code)).filter((c): c is Country => c !== undefined);
+}
+
+/**
+ * Advanced search with multiple criteria
+ * @param criteria Search criteria object
+ * @returns Array of countries matching all criteria
+ */
+export function searchCountries(criteria: {
+    continent?: string;
+    region?: string;
+    currency?: string;
+    language?: string;
+    landlocked?: boolean;
+    unMember?: boolean;
+    name?: string;
+}): Country[] {
+    return countries.filter((country) => {
+        // Continent filter
+        if (
+            criteria.continent &&
+            country.geo.continent.toLowerCase() !== criteria.continent.toLowerCase()
+        ) {
+            return false;
+        }
+
+        // Region filter
+        if (
+            criteria.region &&
+            country.geo.region?.toLowerCase() !== criteria.region.toLowerCase()
+        ) {
+            return false;
+        }
+
+        // Currency filter
+        if (criteria.currency && country.currency?.code !== criteria.currency.toUpperCase()) {
+            return false;
+        }
+
+        // Language filter
+        if (
+            criteria.language &&
+            !country.languages?.some((l) => l.toLowerCase() === criteria.language!.toLowerCase())
+        ) {
+            return false;
+        }
+
+        // Landlocked filter
+        if (criteria.landlocked !== undefined && country.geo.landlocked !== criteria.landlocked) {
+            return false;
+        }
+
+        // UN Member filter
+        if (criteria.unMember !== undefined && country.unMember !== criteria.unMember) {
+            return false;
+        }
+
+        // Name filter (partial match)
+        if (
+            criteria.name &&
+            !country.name.toLowerCase().includes(criteria.name.toLowerCase()) &&
+            !country.officialName.toLowerCase().includes(criteria.name.toLowerCase())
+        ) {
+            return false;
+        }
+
+        return true;
+    });
+}
+
+/**
+ * Get country by ISO2 code or throw CountryNotFoundError
+ * @param code ISO 3166-1 alpha-2 code
+ * @throws {CountryNotFoundError} If country is not found
+ */
+export function getCountryByISO2OrThrow(code: string): Country {
+    const country = getCountryByISO2(code);
+    if (!country) {
+        throw new CountryNotFoundError(code, 'iso2');
+    }
+    return country;
+}
+
+/**
+ * Get country by ISO3 code or throw CountryNotFoundError
+ * @param code ISO 3166-1 alpha-3 code
+ * @throws {CountryNotFoundError} If country is not found
+ */
+export function getCountryByISO3OrThrow(code: string): Country {
+    const country = getCountryByISO3(code);
+    if (!country) {
+        throw new CountryNotFoundError(code, 'iso3');
+    }
+    return country;
+}
+
+/**
+ * Get country by name or throw CountryNotFoundError
+ * @param name Country name (common or official)
+ * @throws {CountryNotFoundError} If country is not found
+ */
+export function getCountryByNameOrThrow(name: string): Country {
+    const country = getCountryByName(name);
+    if (!country) {
+        throw new CountryNotFoundError(name, 'name');
+    }
+    return country;
 }

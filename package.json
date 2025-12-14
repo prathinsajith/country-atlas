@@ -1,6 +1,6 @@
 {
   "name": "country-atlas",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A lightweight, production-ready, type-safe country data library providing ISO standards, currencies, flags, timezones, calling codes, and map-ready geographic metadata for 250+ countries.",
   "publishConfig": {
     "access": "public"
@@ -22,12 +22,17 @@
     "dist"
   ],
   "scripts": {
-    "build": "tsup",
+    "build": "tsup && tsc -p tsconfig.build.json",
     "test": "vitest run",
     "lint": "eslint .",
     "format": "prettier --write .",
     "size": "npm pack --dry-run",
-    "prepublishOnly": "npm run build && npm run test && npm run size"
+    "prepublishOnly": "npm run build && npm run test && npm run size",
+    "fetch:data": "tsx scripts/fetch.ts",
+    "fetch:flags": "tsx scripts/fetch-flags.ts",
+    "optimize:flags": "tsx scripts/optimize-flags.ts",
+    "normalize": "tsx scripts/normalize.ts",
+    "setup": "npm run fetch:data && npm run fetch:flags && npm run optimize:flags && npm run normalize"
   },
   "keywords": [
     "country",
