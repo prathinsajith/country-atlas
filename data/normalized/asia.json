@@ -27,6 +27,20 @@
             "areaKm2": 652230,
             "borders": ["IRN", "PAK", "TKM", "UZB", "TJK", "CHN"]
         },
+        "nativeNames": {
+            "prs": {
+                "official": "جمهوری اسلامی افغانستان",
+                "common": "افغانستان"
+            },
+            "pus": {
+                "official": "د افغانستان اسلامي جمهوریت",
+                "common": "افغانستان"
+            },
+            "tuk": {
+                "official": "Owganystan Yslam Respublikasy",
+                "common": "Owganystan"
+            }
+        },
         "languages": ["Dari", "Pashto", "Turkmen"],
         "currency": {
             "code": "AFN",
@@ -71,6 +85,12 @@
             "landlocked": false,
             "areaKm2": 83600,
             "borders": ["OMN", "SAU"]
+        },
+        "nativeNames": {
+            "ara": {
+                "official": "الإمارات العربية المتحدة",
+                "common": "الإمارات"
+            }
         },
         "languages": ["Arabic"],
         "currency": {
@@ -117,6 +137,12 @@
             "areaKm2": 29743,
             "borders": ["AZE", "GEO", "IRN", "TUR"]
         },
+        "nativeNames": {
+            "hye": {
+                "official": "Հայաստանի Հանրապետություն",
+                "common": "Հայաստան"
+            }
+        },
         "languages": ["Armenian"],
         "currency": {
             "code": "AMD",
@@ -161,6 +187,16 @@
             "landlocked": true,
             "areaKm2": 86600,
             "borders": ["ARM", "GEO", "IRN", "RUS", "TUR"]
+        },
+        "nativeNames": {
+            "aze": {
+                "official": "Azərbaycan Respublikası",
+                "common": "Azərbaycan"
+            },
+            "rus": {
+                "official": "Азербайджанская Республика",
+                "common": "Азербайджан"
+            }
         },
         "languages": ["Azerbaijani", "Russian"],
         "currency": {
@@ -207,6 +243,12 @@
             "areaKm2": 147570,
             "borders": ["MMR", "IND"]
         },
+        "nativeNames": {
+            "ben": {
+                "official": "বাংলাদেশ গণপ্রজাতন্ত্রী",
+                "common": "বাংলাদেশ"
+            }
+        },
         "languages": ["Bengali"],
         "currency": {
             "code": "BDT",
@@ -250,6 +292,12 @@
             "continent": "Asia",
             "landlocked": false,
             "areaKm2": 765
+        },
+        "nativeNames": {
+            "ara": {
+                "official": "مملكة البحرين",
+                "common": "البحرين"
+            }
         },
         "languages": ["Arabic"],
         "currency": {
@@ -296,6 +344,12 @@
             "areaKm2": 5765,
             "borders": ["MYS"]
         },
+        "nativeNames": {
+            "msa": {
+                "official": "Nation of Brunei, Abode Damai",
+                "common": "Negara Brunei Darussalam"
+            }
+        },
         "languages": ["Malay"],
         "currency": {
             "code": "BND",
@@ -340,6 +394,12 @@
             "landlocked": true,
             "areaKm2": 38394,
             "borders": ["CHN", "IND"]
+        },
+        "nativeNames": {
+            "dzo": {
+                "official": "འབྲུག་རྒྱལ་ཁབ་",
+                "common": "འབྲུག་ཡུལ་"
+            }
         },
         "languages": ["Dzongkha"],
         "currency": {
@@ -403,6 +463,12 @@
                 "VNM"
             ]
         },
+        "nativeNames": {
+            "zho": {
+                "official": "中华人民共和国",
+                "common": "中国"
+            }
+        },
         "languages": ["Chinese"],
         "currency": {
             "code": "CNY",
@@ -447,6 +513,12 @@
             "landlocked": false,
             "areaKm2": 69700,
             "borders": ["ARM", "AZE", "RUS", "TUR"]
+        },
+        "nativeNames": {
+            "kat": {
+                "official": "საქართველო",
+                "common": "საქართველო"
+            }
         },
         "languages": ["Georgian"],
         "currency": {
@@ -493,6 +565,16 @@
             "areaKm2": 1104,
             "borders": ["CHN"]
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Hong Kong Special Administrative Region of the People's Republic of China",
+                "common": "Hong Kong"
+            },
+            "zho": {
+                "official": "中华人民共和国香港特别行政区",
+                "common": "香港"
+            }
+        },
         "languages": ["English", "Chinese"],
         "currency": {
             "code": "HKD",
@@ -537,6 +619,12 @@
             "landlocked": false,
             "areaKm2": 1904569,
             "borders": ["TLS", "MYS", "PNG"]
+        },
+        "nativeNames": {
+            "ind": {
+                "official": "Republik Indonesia",
+                "common": "Indonesia"
+            }
         },
         "languages": ["Indonesian"],
         "currency": {
@@ -583,6 +671,20 @@
             "areaKm2": 3287590,
             "borders": ["BGD", "BTN", "MMR", "CHN", "NPL", "PAK"]
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Republic of India",
+                "common": "India"
+            },
+            "hin": {
+                "official": "भारत गणराज्य",
+                "common": "भारत"
+            },
+            "tam": {
+                "official": "இந்தியக் குடியரசு",
+                "common": "இந்தியா"
+            }
+        },
         "languages": ["English", "Hindi", "Tamil"],
         "currency": {
             "code": "INR",
@@ -627,6 +729,12 @@
             "landlocked": false,
             "areaKm2": 1648195,
             "borders": ["AFG", "ARM", "AZE", "IRQ", "PAK", "TUR", "TKM"]
+        },
+        "nativeNames": {
+            "fas": {
+                "official": "جمهوری اسلامی ایران",
+                "common": "ایران"
+            }
         },
         "languages": ["Persian (Farsi)"],
         "currency": {
@@ -673,6 +781,20 @@
             "areaKm2": 438317,
             "borders": ["IRN", "JOR", "KWT", "SAU", "SYR", "TUR"]
         },
+        "nativeNames": {
+            "ara": {
+                "official": "جمهورية العراق",
+                "common": "العراق"
+            },
+            "arc": {
+                "official": "ܩܘܼܛܢܵܐ ܐܝܼܪܲܩ",
+                "common": "ܩܘܼܛܢܵܐ"
+            },
+            "ckb": {
+                "official": "کۆماری عێراق",
+                "common": "کۆماری"
+            }
+        },
         "languages": ["Arabic", "Aramaic", "Sorani"],
         "currency": {
             "code": "IQD",
@@ -717,6 +839,16 @@
             "landlocked": false,
             "areaKm2": 20770,
             "borders": ["EGY", "JOR", "LBN", "PSE", "SYR"]
+        },
+        "nativeNames": {
+            "ara": {
+                "official": "دولة إسرائيل",
+                "common": "إسرائيل"
+            },
+            "heb": {
+                "official": "מדינת ישראל",
+                "common": "ישראל"
+            }
         },
         "languages": ["Arabic", "Hebrew"],
         "currency": {
@@ -763,6 +895,12 @@
             "areaKm2": 89342,
             "borders": ["IRQ", "ISR", "PSE", "SAU", "SYR"]
         },
+        "nativeNames": {
+            "ara": {
+                "official": "المملكة الأردنية الهاشمية",
+                "common": "الأردن"
+            }
+        },
         "languages": ["Arabic"],
         "currency": {
             "code": "JOD",
@@ -806,6 +944,12 @@
             "continent": "Asia",
             "landlocked": false,
             "areaKm2": 377930
+        },
+        "nativeNames": {
+            "jpn": {
+                "official": "日本",
+                "common": "日本"
+            }
         },
         "languages": ["Japanese"],
         "currency": {
@@ -852,6 +996,16 @@
             "areaKm2": 2724900,
             "borders": ["CHN", "KGZ", "RUS", "TKM", "UZB"]
         },
+        "nativeNames": {
+            "kaz": {
+                "official": "Қазақстан Республикасы",
+                "common": "Қазақстан"
+            },
+            "rus": {
+                "official": "Республика Казахстан",
+                "common": "Казахстан"
+            }
+        },
         "languages": ["Kazakh", "Russian"],
         "currency": {
             "code": "KZT",
@@ -896,6 +1050,16 @@
             "landlocked": true,
             "areaKm2": 199951,
             "borders": ["CHN", "KAZ", "TJK", "UZB"]
+        },
+        "nativeNames": {
+            "kir": {
+                "official": "Кыргыз Республикасы",
+                "common": "Кыргызстан"
+            },
+            "rus": {
+                "official": "Кыргызская Республика",
+                "common": "Киргизия"
+            }
         },
         "languages": ["Kyrgyz", "Russian"],
         "currency": {
@@ -942,6 +1106,12 @@
             "areaKm2": 181035,
             "borders": ["LAO", "THA", "VNM"]
         },
+        "nativeNames": {
+            "khm": {
+                "official": "ព្រះរាជាណាចក្រកម្ពុជា",
+                "common": "Kâmpŭchéa"
+            }
+        },
         "languages": ["Khmer"],
         "currency": {
             "code": "KHR",
@@ -986,6 +1156,12 @@
             "landlocked": false,
             "areaKm2": 100210,
             "borders": ["PRK"]
+        },
+        "nativeNames": {
+            "kor": {
+                "official": "대한민국",
+                "common": "한국"
+            }
         },
         "languages": ["Korean"],
         "currency": {
@@ -1032,6 +1208,12 @@
             "areaKm2": 17818,
             "borders": ["IRQ", "SAU"]
         },
+        "nativeNames": {
+            "ara": {
+                "official": "دولة الكويت",
+                "common": "الكويت"
+            }
+        },
         "languages": ["Arabic"],
         "currency": {
             "code": "KWD",
@@ -1076,6 +1258,12 @@
             "landlocked": true,
             "areaKm2": 236800,
             "borders": ["MMR", "KHM", "CHN", "THA", "VNM"]
+        },
+        "nativeNames": {
+            "lao": {
+                "official": "ສາທາລະນະ ຊາທິປະໄຕ ຄົນລາວ ຂອງ",
+                "common": "ສປປລາວ"
+            }
         },
         "languages": ["Lao"],
         "currency": {
@@ -1122,6 +1310,16 @@
             "areaKm2": 10452,
             "borders": ["ISR", "SYR"]
         },
+        "nativeNames": {
+            "ara": {
+                "official": "الجمهورية اللبنانية",
+                "common": "لبنان"
+            },
+            "fra": {
+                "official": "République libanaise",
+                "common": "Liban"
+            }
+        },
         "languages": ["Arabic", "French"],
         "currency": {
             "code": "LBP",
@@ -1167,6 +1365,16 @@
             "areaKm2": 65610,
             "borders": ["IND"]
         },
+        "nativeNames": {
+            "sin": {
+                "official": "ශ්‍රී ලංකා ප්‍රජාතාන්ත්‍රික සමාජවාදී ජනරජය",
+                "common": "ශ්‍රී ලංකාව"
+            },
+            "tam": {
+                "official": "இலங்கை சனநாயக சோசலிசக் குடியரசு",
+                "common": "இலங்கை"
+            }
+        },
         "languages": ["Sinhala", "Tamil"],
         "currency": {
             "code": "LKR",
@@ -1211,6 +1419,16 @@
             "areaKm2": 30,
             "borders": ["CHN"]
         },
+        "nativeNames": {
+            "por": {
+                "official": "Região Administrativa Especial de Macau da República Popular da China",
+                "common": "Macau"
+            },
+            "zho": {
+                "official": "中华人民共和国澳门特别行政区",
+                "common": "澳门"
+            }
+        },
         "languages": ["Portuguese", "Chinese"],
         "currency": {
             "code": "MOP",
@@ -1254,6 +1472,12 @@
             "continent": "Asia",
             "landlocked": false,
             "areaKm2": 300
+        },
+        "nativeNames": {
+            "div": {
+                "official": "ދިވެހިރާއްޖޭގެ ޖުމްހޫރިއްޔާ",
+                "common": "ދިވެހިރާއްޖޭގެ"
+            }
         },
         "languages": ["Maldivian"],
         "currency": {
@@ -1300,6 +1524,12 @@
             "areaKm2": 676578,
             "borders": ["BGD", "CHN", "IND", "LAO", "THA"]
         },
+        "nativeNames": {
+            "mya": {
+                "official": "ပြည်ထောင်စု သမ္မတ မြန်မာနိုင်ငံတော်",
+                "common": "မြန်မာ"
+            }
+        },
         "languages": ["Burmese"],
         "currency": {
             "code": "MMK",
@@ -1344,6 +1574,12 @@
             "landlocked": true,
             "areaKm2": 1564110,
             "borders": ["CHN", "RUS"]
+        },
+        "nativeNames": {
+            "mon": {
+                "official": "Монгол улс",
+                "common": "Монгол улс"
+            }
         },
         "languages": ["Mongolian"],
         "currency": {
@@ -1390,6 +1626,16 @@
             "areaKm2": 330803,
             "borders": ["BRN", "IDN", "THA"]
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Malaysia",
+                "common": "Malaysia"
+            },
+            "msa": {
+                "official": "مليسيا",
+                "common": "مليسيا"
+            }
+        },
         "languages": ["English", "Malay"],
         "currency": {
             "code": "MYR",
@@ -1434,6 +1680,12 @@
             "landlocked": true,
             "areaKm2": 147181,
             "borders": ["CHN", "IND"]
+        },
+        "nativeNames": {
+            "nep": {
+                "official": "नेपाल संघीय लोकतान्त्रिक गणतन्त्र",
+                "common": "नेपाल"
+            }
         },
         "languages": ["Nepali"],
         "currency": {
@@ -1480,6 +1732,12 @@
             "areaKm2": 309500,
             "borders": ["SAU", "ARE", "YEM"]
         },
+        "nativeNames": {
+            "ara": {
+                "official": "سلطنة عمان",
+                "common": "عمان"
+            }
+        },
         "languages": ["Arabic"],
         "currency": {
             "code": "OMR",
@@ -1525,6 +1783,16 @@
             "areaKm2": 881912,
             "borders": ["AFG", "CHN", "IND", "IRN"]
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Islamic Republic of Pakistan",
+                "common": "Pakistan"
+            },
+            "urd": {
+                "official": "اسلامی جمہوریۂ پاكستان",
+                "common": "پاكستان"
+            }
+        },
         "languages": ["English", "Urdu"],
         "currency": {
             "code": "PKR",
@@ -1568,6 +1836,16 @@
             "continent": "Asia",
             "landlocked": false,
             "areaKm2": 342353
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Republic of the Philippines",
+                "common": "Philippines"
+            },
+            "fil": {
+                "official": "Republic of the Philippines",
+                "common": "Pilipinas"
+            }
         },
         "languages": ["English", "Filipino"],
         "currency": {
@@ -1614,6 +1892,12 @@
             "areaKm2": 120538,
             "borders": ["CHN", "KOR", "RUS"]
         },
+        "nativeNames": {
+            "kor": {
+                "official": "조선민주주의인민공화국",
+                "common": "조선"
+            }
+        },
         "languages": ["Korean"],
         "currency": {
             "code": "KPW",
@@ -1658,6 +1942,12 @@
             "landlocked": false,
             "areaKm2": 6220,
             "borders": ["ISR", "EGY", "JOR"]
+        },
+        "nativeNames": {
+            "ara": {
+                "official": "دولة فلسطين",
+                "common": "فلسطين"
+            }
         },
         "languages": ["Arabic"],
         "currency": {
@@ -1704,6 +1994,12 @@
             "areaKm2": 11586,
             "borders": ["SAU"]
         },
+        "nativeNames": {
+            "ara": {
+                "official": "دولة قطر",
+                "common": "قطر"
+            }
+        },
         "languages": ["Arabic"],
         "currency": {
             "code": "QAR",
@@ -1749,6 +2045,12 @@
             "areaKm2": 2149690,
             "borders": ["IRQ", "JOR", "KWT", "OMN", "QAT", "ARE", "YEM"]
         },
+        "nativeNames": {
+            "ara": {
+                "official": "المملكة العربية السعودية",
+                "common": "السعودية"
+            }
+        },
         "languages": ["Arabic"],
         "currency": {
             "code": "SAR",
@@ -1792,6 +2094,24 @@
             "continent": "Asia",
             "landlocked": false,
             "areaKm2": 710
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Republic of Singapore",
+                "common": "Singapore"
+            },
+            "msa": {
+                "official": "Republik Singapura",
+                "common": "Singapura"
+            },
+            "tam": {
+                "official": "சிங்கப்பூர் குடியரசு",
+                "common": "சிங்கப்பூர்"
+            },
+            "zho": {
+                "official": "新加坡共和国",
+                "common": "新加坡"
+            }
         },
         "languages": ["English", "Malay", "Tamil", "Chinese"],
         "currency": {
@@ -1838,6 +2158,12 @@
             "areaKm2": 185180,
             "borders": ["IRQ", "ISR", "JOR", "LBN", "TUR"]
         },
+        "nativeNames": {
+            "ara": {
+                "official": "الجمهورية العربية السورية",
+                "common": "سوريا"
+            }
+        },
         "languages": ["Arabic"],
         "currency": {
             "code": "SYP",
@@ -1882,6 +2208,12 @@
             "landlocked": false,
             "areaKm2": 513120,
             "borders": ["MMR", "KHM", "LAO", "MYS"]
+        },
+        "nativeNames": {
+            "tha": {
+                "official": "ราชอาณาจักรไทย",
+                "common": "ประเทศไทย"
+            }
         },
         "languages": ["Thai"],
         "currency": {
@@ -1928,6 +2260,16 @@
             "areaKm2": 143100,
             "borders": ["AFG", "CHN", "KGZ", "UZB"]
         },
+        "nativeNames": {
+            "rus": {
+                "official": "Республика Таджикистан",
+                "common": "Таджикистан"
+            },
+            "tgk": {
+                "official": "Ҷумҳурии Тоҷикистон",
+                "common": "Тоҷикистон"
+            }
+        },
         "languages": ["Russian", "Tajik"],
         "currency": {
             "code": "TJS",
@@ -1972,6 +2314,16 @@
             "landlocked": true,
             "areaKm2": 488100,
             "borders": ["AFG", "IRN", "KAZ", "UZB"]
+        },
+        "nativeNames": {
+            "rus": {
+                "official": "Туркменистан",
+                "common": "Туркмения"
+            },
+            "tuk": {
+                "official": "Türkmenistan",
+                "common": "Türkmenistan"
+            }
         },
         "languages": ["Russian", "Turkmen"],
         "currency": {
@@ -2018,6 +2370,16 @@
             "areaKm2": 14874,
             "borders": ["IDN"]
         },
+        "nativeNames": {
+            "por": {
+                "official": "República Democrática de Timor-Leste",
+                "common": "Timor-Leste"
+            },
+            "tet": {
+                "official": "Repúblika Demokrátika Timór-Leste",
+                "common": "Timór-Leste"
+            }
+        },
         "languages": ["Portuguese", "Tetum"],
         "currency": {
             "code": "USD",
@@ -2063,6 +2425,12 @@
             "areaKm2": 783562,
             "borders": ["ARM", "AZE", "BGR", "GEO", "GRC", "IRN", "IRQ", "SYR"]
         },
+        "nativeNames": {
+            "tur": {
+                "official": "Türkiye Cumhuriyeti",
+                "common": "Türkiye"
+            }
+        },
         "languages": ["Turkish"],
         "currency": {
             "code": "TRY",
@@ -2106,6 +2474,12 @@
             "continent": "Asia",
             "landlocked": false,
             "areaKm2": 36193
+        },
+        "nativeNames": {
+            "zho": {
+                "official": "中華民國",
+                "common": "台灣"
+            }
         },
         "languages": ["Chinese"],
         "currency": {
@@ -2152,6 +2526,16 @@
             "areaKm2": 447400,
             "borders": ["AFG", "KAZ", "KGZ", "TJK", "TKM"]
         },
+        "nativeNames": {
+            "rus": {
+                "official": "Республика Узбекистан",
+                "common": "Узбекистан"
+            },
+            "uzb": {
+                "official": "O'zbekiston Respublikasi",
+                "common": "O‘zbekiston"
+            }
+        },
         "languages": ["Russian", "Uzbek"],
         "currency": {
             "code": "UZS",
@@ -2197,6 +2581,12 @@
             "areaKm2": 331212,
             "borders": ["KHM", "CHN", "LAO"]
         },
+        "nativeNames": {
+            "vie": {
+                "official": "Cộng hòa xã hội chủ nghĩa Việt Nam",
+                "common": "Việt Nam"
+            }
+        },
         "languages": ["Vietnamese"],
         "currency": {
             "code": "VND",
@@ -2241,6 +2631,12 @@
             "landlocked": false,
             "areaKm2": 527968,
             "borders": ["OMN", "SAU"]
+        },
+        "nativeNames": {
+            "ara": {
+                "official": "الجمهورية اليمنية",
+                "common": "اليمن"
+            }
         },
         "languages": ["Arabic"],
         "currency": {

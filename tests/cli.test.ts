@@ -65,9 +65,9 @@ describe('CLI Tests', () => {
             expect(result.exitCode).toBe(1);
         });
 
-        it('should fail when no ISO code provided', async () => {
+        it('should fail when no query provided', async () => {
             const result = await runCLI(['lookup']);
-            expect(result.stderr).toContain('Please provide an ISO code');
+            expect(result.stderr).toContain('Please provide a search query');
             expect(result.exitCode).toBe(1);
         });
     });
@@ -76,6 +76,7 @@ describe('CLI Tests', () => {
         it('should search for countries by partial name', async () => {
             const result = await runCLI(['search', 'united']);
             expect(result.stdout).toContain('United');
+            expect(result.stdout).toContain('Flag | Name'); // Table header check
             expect(result.exitCode).toBe(0);
         });
 
@@ -93,7 +94,7 @@ describe('CLI Tests', () => {
 
         it('should fail when no search query provided', async () => {
             const result = await runCLI(['search']);
-            expect(result.stderr).toContain('Please provide a search query');
+            expect(result.stderr).toContain('Please provide a query');
             expect(result.exitCode).toBe(1);
         });
     });
@@ -101,33 +102,42 @@ describe('CLI Tests', () => {
     describe('region command', () => {
         it('should list countries in Asia', async () => {
             const result = await runCLI(['region', 'Asia']);
-            expect(result.stdout).toContain('Countries in Asia');
             expect(result.stdout).toContain('India');
+            expect(result.stdout).toContain('Flag | Name'); // Table header
             expect(result.exitCode).toBe(0);
         });
 
         it('should list countries in Europe', async () => {
             const result = await runCLI(['region', 'Europe']);
-            expect(result.stdout).toContain('Countries in Europe');
+            expect(result.stdout).toContain('Flag | Name');
             expect(result.exitCode).toBe(0);
         });
 
         it('should handle case insensitive region names', async () => {
             const result = await runCLI(['region', 'africa']);
-            expect(result.stdout).toContain('Countries in africa');
+            expect(result.stdout).toContain('Flag | Name');
             expect(result.exitCode).toBe(0);
         });
 
         it('should show message for invalid region', async () => {
             const result = await runCLI(['region', 'InvalidRegion']);
-            expect(result.stdout).toContain('No countries found in region');
+            expect(result.stdout).toContain('No countries found');
             expect(result.exitCode).toBe(0);
         });
 
         it('should fail when no region provided', async () => {
             const result = await runCLI(['region']);
-            expect(result.stderr).toContain('Please provide a region name');
+            expect(result.stderr).toContain('Please provide a continent');
             expect(result.exitCode).toBe(1);
+        });
+    });
+
+    describe('borders command', () => {
+        it('should list bordering countries', async () => {
+            const result = await runCLI(['borders', 'india']);
+            expect(result.stdout).toContain('Pakistan');
+            expect(result.stdout).toContain('China');
+            expect(result.exitCode).toBe(0);
         });
     });
 

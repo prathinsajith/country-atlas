@@ -1,111 +1,126 @@
 {
-  "name": "country-atlas",
-  "version": "1.0.4",
-  "description": "A lightweight, production-ready, type-safe country data library providing ISO standards, currencies, flags, timezones, calling codes, and map-ready geographic metadata for 250+ countries.",
-  "publishConfig": {
-    "access": "public"
-  },
-  "bin": {
-    "atlas": "dist/cli.js"
-  },
-  "main": "./dist/index.js",
-  "module": "./dist/index.mjs",
-  "types": "./dist/index.d.ts",
-  "exports": {
-    ".": {
-      "types": "./dist/index.d.ts",
-      "import": "./dist/index.mjs",
-      "require": "./dist/index.js"
+    "name": "country-atlas",
+    "version": "1.0.6",
+    "description": "A lightweight, production-ready, type-safe country data library providing ISO standards, currencies, flags, timezones, calling codes, and map-ready geographic metadata for 250+ countries.",
+    "publishConfig": {
+        "access": "public"
+    },
+    "bin": {
+        "atlas": "dist/cli.js"
+    },
+    "main": "./dist/index.js",
+    "module": "./dist/index.mjs",
+    "types": "./dist/index.d.ts",
+    "exports": {
+        ".": {
+            "types": "./dist/index.d.ts",
+            "import": "./dist/index.mjs",
+            "require": "./dist/index.js"
+        }
+    },
+    "files": [
+        "dist"
+    ],
+    "sideEffects": false,
+    "scripts": {
+        "build": "tsup && tsc -p tsconfig.build.json",
+        "test": "vitest run",
+        "test:unit": "vitest run --exclude tests/cli.test.ts",
+        "test:cli": "vitest run tests/cli.test.ts",
+        "test:watch": "vitest",
+        "lint": "eslint .",
+        "format": "prettier --write .",
+        "size": "npm pack --dry-run",
+        "prepublishOnly": "npm run build && npm run test && npm run size",
+        "fetch:data": "tsx scripts/fetch.ts",
+        "fetch:flags": "tsx scripts/fetch-flags.ts",
+        "optimize:flags": "tsx scripts/optimize-flags.ts",
+        "normalize": "tsx scripts/normalize.ts",
+        "setup": "npm run fetch:data && npm run fetch:flags && npm run optimize:flags && npm run normalize",
+        "prepare": "husky"
+    },
+    "keywords": [
+        "country",
+        "countries",
+        "country-info",
+        "country-data",
+        "country-metadata",
+        "country-registry",
+        "country-atlas",
+        "country-codes",
+        "country-list",
+        "iso",
+        "iso3166",
+        "iso4217",
+        "iso639",
+        "iso-alpha2",
+        "iso-alpha3",
+        "currency",
+        "flags",
+        "svg-flags",
+        "emoji-flags",
+        "geography",
+        "geo",
+        "geodata",
+        "map-data",
+        "map-ready",
+        "latitude",
+        "longitude",
+        "bounds",
+        "timezone",
+        "timezones",
+        "iana-timezone",
+        "calling-code",
+        "phone-prefix",
+        "i18n",
+        "intl",
+        "localization",
+        "locale",
+        "date-format",
+        "week-start",
+        "postal-code",
+        "typescript",
+        "nodejs",
+        "browser",
+        "esm",
+        "tree-shakable",
+        "zero-dependencies",
+        "world-data"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/prathinsajith/country-atlas.git"
+    },
+    "bugs": {
+        "url": "https://github.com/prathinsajith/country-atlas/issues"
+    },
+    "homepage": "https://github.com/prathinsajith/country-atlas#readme",
+    "author": "Prathin Sajith",
+    "license": "ISC",
+    "engines": {
+        "node": ">=18"
+    },
+    "devDependencies": {
+        "@types/node": "^25.0.1",
+        "eslint": "^9.39.2",
+        "eslint-config-prettier": "^10.1.8",
+        "globals": "^16.5.0",
+        "husky": "^9.1.7",
+        "lint-staged": "^16.2.7",
+        "prettier": "^3.7.4",
+        "svgo": "^4.0.0",
+        "tsup": "^8.5.1",
+        "tsx": "^4.21.0",
+        "typescript": "^5.9.3",
+        "typescript-eslint": "^8.49.0",
+        "vitest": "^4.0.15"
+    },
+    "lint-staged": {
+        "*.{ts,js,json,md}": [
+            "prettier --write"
+        ],
+        "src/**/*.ts": [
+            "eslint --fix"
+        ]
     }
-  },
-  "files": [
-    "dist"
-  ],
-  "scripts": {
-    "build": "tsup && tsc -p tsconfig.build.json",
-    "test": "vitest run",
-    "lint": "eslint .",
-    "format": "prettier --write .",
-    "size": "npm pack --dry-run",
-    "prepublishOnly": "npm run build && npm run test && npm run size",
-    "fetch:data": "tsx scripts/fetch.ts",
-    "fetch:flags": "tsx scripts/fetch-flags.ts",
-    "optimize:flags": "tsx scripts/optimize-flags.ts",
-    "normalize": "tsx scripts/normalize.ts",
-    "setup": "npm run fetch:data && npm run fetch:flags && npm run optimize:flags && npm run normalize"
-  },
-  "keywords": [
-    "country",
-    "countries",
-    "country-info",
-    "country-data",
-    "country-metadata",
-    "country-registry",
-    "country-atlas",
-    "country-codes",
-    "country-list",
-    "iso",
-    "iso3166",
-    "iso4217",
-    "iso639",
-    "iso-alpha2",
-    "iso-alpha3",
-    "currency",
-    "flags",
-    "svg-flags",
-    "emoji-flags",
-    "geography",
-    "geo",
-    "geodata",
-    "map-data",
-    "map-ready",
-    "latitude",
-    "longitude",
-    "bounds",
-    "timezone",
-    "timezones",
-    "iana-timezone",
-    "calling-code",
-    "phone-prefix",
-    "i18n",
-    "intl",
-    "localization",
-    "locale",
-    "date-format",
-    "week-start",
-    "postal-code",
-    "typescript",
-    "nodejs",
-    "browser",
-    "esm",
-    "tree-shakable",
-    "zero-dependencies",
-    "world-data"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/prathinsajith/country-atlas.git"
-  },
-  "bugs": {
-    "url": "https://github.com/prathinsajith/country-atlas/issues"
-  },
-  "homepage": "https://github.com/prathinsajith/country-atlas#readme",
-  "author": "Prathin Sajith",
-  "license": "ISC",
-  "engines": {
-    "node": ">=18"
-  },
-  "devDependencies": {
-    "@types/node": "^25.0.1",
-    "eslint": "^9.39.2",
-    "eslint-config-prettier": "^10.1.8",
-    "globals": "^16.5.0",
-    "prettier": "^3.7.4",
-    "svgo": "^4.0.0",
-    "tsup": "^8.5.1",
-    "tsx": "^4.21.0",
-    "typescript": "^5.9.3",
-    "typescript-eslint": "^8.49.0",
-    "vitest": "^4.0.15"
-  }
 }

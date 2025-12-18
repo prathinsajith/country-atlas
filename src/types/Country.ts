@@ -2,6 +2,8 @@ import { Currency } from './Currency';
 import { GeoData } from './Geo';
 import { Flag } from './Flag';
 
+export type Continent = 'Asia' | 'Europe' | 'Africa' | 'Americas' | 'Oceania' | 'Antarctic';
+
 export interface ISO {
     alpha2: string;
     alpha3: string;
@@ -34,8 +36,8 @@ export interface Country {
     officialName: string;
     capital?: string[];
     iso: ISO;
-    geo: GeoData;
-    nativeNames?: Record<string, { official: string; common: string }>; // "nativeNames": {} in prompt. Standard is often Record<langCode, {official, common}>
+    geo: Omit<GeoData, 'continent'> & { continent: Continent };
+    nativeNames?: Record<string, { official: string; common: string }>;
     languages?: string[];
 
     currency?: Currency;

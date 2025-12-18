@@ -26,6 +26,12 @@
             "landlocked": false,
             "areaKm2": 1580
         },
+        "nativeNames": {
+            "swe": {
+                "official": "Landskapet Åland",
+                "common": "Åland"
+            }
+        },
         "languages": ["Swedish"],
         "currency": {
             "code": "EUR",
@@ -70,6 +76,12 @@
             "landlocked": false,
             "areaKm2": 28748,
             "borders": ["MNE", "GRC", "MKD", "UNK"]
+        },
+        "nativeNames": {
+            "sqi": {
+                "official": "Republika e Shqipërisë",
+                "common": "Shqipëria"
+            }
         },
         "languages": ["Albanian"],
         "currency": {
@@ -116,6 +128,12 @@
             "areaKm2": 468,
             "borders": ["FRA", "ESP"]
         },
+        "nativeNames": {
+            "cat": {
+                "official": "Principat d'Andorra",
+                "common": "Andorra"
+            }
+        },
         "languages": ["Catalan"],
         "currency": {
             "code": "EUR",
@@ -160,6 +178,12 @@
             "landlocked": true,
             "areaKm2": 83871,
             "borders": ["CZE", "DEU", "HUN", "ITA", "LIE", "SVK", "SVN", "CHE"]
+        },
+        "nativeNames": {
+            "bar": {
+                "official": "Republik Österreich",
+                "common": "Österreich"
+            }
         },
         "languages": ["Austro-Bavarian German"],
         "currency": {
@@ -206,6 +230,20 @@
             "areaKm2": 30528,
             "borders": ["FRA", "DEU", "LUX", "NLD"]
         },
+        "nativeNames": {
+            "deu": {
+                "official": "Königreich Belgien",
+                "common": "Belgien"
+            },
+            "fra": {
+                "official": "Royaume de Belgique",
+                "common": "Belgique"
+            },
+            "nld": {
+                "official": "Koninkrijk België",
+                "common": "België"
+            }
+        },
         "languages": ["German", "French", "Dutch"],
         "currency": {
             "code": "EUR",
@@ -250,6 +288,12 @@
             "landlocked": false,
             "areaKm2": 110879,
             "borders": ["GRC", "MKD", "ROU", "SRB", "TUR"]
+        },
+        "nativeNames": {
+            "bul": {
+                "official": "Република България",
+                "common": "България"
+            }
         },
         "languages": ["Bulgarian"],
         "currency": {
@@ -296,6 +340,20 @@
             "areaKm2": 51209,
             "borders": ["HRV", "MNE", "SRB"]
         },
+        "nativeNames": {
+            "bos": {
+                "official": "Bosna i Hercegovina",
+                "common": "Bosna i Hercegovina"
+            },
+            "hrv": {
+                "official": "Bosna i Hercegovina",
+                "common": "Bosna i Hercegovina"
+            },
+            "srp": {
+                "official": "Боснa и Херцеговина",
+                "common": "Боснa и Херцеговина"
+            }
+        },
         "languages": ["Bosnian", "Croatian", "Serbian"],
         "currency": {
             "code": "BAM",
@@ -340,6 +398,16 @@
             "landlocked": true,
             "areaKm2": 207600,
             "borders": ["LVA", "LTU", "POL", "RUS", "UKR"]
+        },
+        "nativeNames": {
+            "bel": {
+                "official": "Рэспубліка Беларусь",
+                "common": "Белару́сь"
+            },
+            "rus": {
+                "official": "Республика Беларусь",
+                "common": "Беларусь"
+            }
         },
         "languages": ["Belarusian", "Russian"],
         "currency": {
@@ -386,6 +454,24 @@
             "areaKm2": 41284,
             "borders": ["AUT", "FRA", "ITA", "LIE", "DEU"]
         },
+        "nativeNames": {
+            "fra": {
+                "official": "Confédération suisse",
+                "common": "Suisse"
+            },
+            "gsw": {
+                "official": "Schweizerische Eidgenossenschaft",
+                "common": "Schweiz"
+            },
+            "ita": {
+                "official": "Confederazione Svizzera",
+                "common": "Svizzera"
+            },
+            "roh": {
+                "official": "Confederaziun svizra",
+                "common": "Svizra"
+            }
+        },
         "languages": ["French", "Swiss German", "Italian", "Romansh"],
         "currency": {
             "code": "CHF",
@@ -429,6 +515,16 @@
             "continent": "Europe",
             "landlocked": false,
             "areaKm2": 9251
+        },
+        "nativeNames": {
+            "ell": {
+                "official": "Δημοκρατία της Κύπρος",
+                "common": "Κύπρος"
+            },
+            "tur": {
+                "official": "Kıbrıs Cumhuriyeti",
+                "common": "Kıbrıs"
+            }
         },
         "languages": ["Greek", "Turkish"],
         "currency": {
@@ -475,6 +571,16 @@
             "areaKm2": 78865,
             "borders": ["AUT", "DEU", "POL", "SVK"]
         },
+        "nativeNames": {
+            "ces": {
+                "official": "Česká republika",
+                "common": "Česko"
+            },
+            "slk": {
+                "official": "Česká republika",
+                "common": "Česko"
+            }
+        },
         "languages": ["Czech", "Slovak"],
         "currency": {
             "code": "CZK",
@@ -519,6 +625,12 @@
             "landlocked": false,
             "areaKm2": 357114,
             "borders": ["AUT", "BEL", "CZE", "DNK", "FRA", "LUX", "NLD", "POL", "CHE"]
+        },
+        "nativeNames": {
+            "deu": {
+                "official": "Bundesrepublik Deutschland",
+                "common": "Deutschland"
+            }
         },
         "languages": ["German"],
         "currency": {
@@ -565,6 +677,12 @@
             "areaKm2": 43094,
             "borders": ["DEU"]
         },
+        "nativeNames": {
+            "dan": {
+                "official": "Kongeriget Danmark",
+                "common": "Danmark"
+            }
+        },
         "languages": ["Danish"],
         "currency": {
             "code": "DKK",
@@ -609,6 +727,12 @@
             "landlocked": false,
             "areaKm2": 505992,
             "borders": ["AND", "FRA", "GIB", "PRT", "MAR"]
+        },
+        "nativeNames": {
+            "spa": {
+                "official": "Reino de España",
+                "common": "España"
+            }
         },
         "languages": ["Spanish"],
         "currency": {
@@ -655,6 +779,12 @@
             "areaKm2": 45227,
             "borders": ["LVA", "RUS"]
         },
+        "nativeNames": {
+            "est": {
+                "official": "Eesti Vabariik",
+                "common": "Eesti"
+            }
+        },
         "languages": ["Estonian"],
         "currency": {
             "code": "EUR",
@@ -699,6 +829,16 @@
             "landlocked": false,
             "areaKm2": 338424,
             "borders": ["NOR", "SWE", "RUS"]
+        },
+        "nativeNames": {
+            "fin": {
+                "official": "Suomen tasavalta",
+                "common": "Suomi"
+            },
+            "swe": {
+                "official": "Republiken Finland",
+                "common": "Finland"
+            }
         },
         "languages": ["Finnish", "Swedish"],
         "currency": {
@@ -745,6 +885,12 @@
             "areaKm2": 551695,
             "borders": ["AND", "BEL", "DEU", "ITA", "LUX", "MCO", "ESP", "CHE"]
         },
+        "nativeNames": {
+            "fra": {
+                "official": "République française",
+                "common": "France"
+            }
+        },
         "languages": ["French"],
         "currency": {
             "code": "EUR",
@@ -788,6 +934,16 @@
             "continent": "Europe",
             "landlocked": false,
             "areaKm2": 1393
+        },
+        "nativeNames": {
+            "dan": {
+                "official": "Færøerne",
+                "common": "Færøerne"
+            },
+            "fao": {
+                "official": "Føroyar",
+                "common": "Føroyar"
+            }
         },
         "languages": ["Danish", "Faroese"],
         "currency": {
@@ -834,6 +990,12 @@
             "areaKm2": 242900,
             "borders": ["IRL"]
         },
+        "nativeNames": {
+            "eng": {
+                "official": "United Kingdom of Great Britain and Northern Ireland",
+                "common": "United Kingdom"
+            }
+        },
         "languages": ["English"],
         "currency": {
             "code": "GBP",
@@ -877,6 +1039,20 @@
             "continent": "Europe",
             "landlocked": false,
             "areaKm2": 78
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Bailiwick of Guernsey",
+                "common": "Guernsey"
+            },
+            "fra": {
+                "official": "Bailliage de Guernesey",
+                "common": "Guernesey"
+            },
+            "nfr": {
+                "official": "Dgèrnésiais",
+                "common": "Dgèrnésiais"
+            }
         },
         "languages": ["English", "French", "Guernésiais"],
         "currency": {
@@ -923,6 +1099,12 @@
             "areaKm2": 6,
             "borders": ["ESP"]
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Gibraltar",
+                "common": "Gibraltar"
+            }
+        },
         "languages": ["English"],
         "currency": {
             "code": "GIP",
@@ -967,6 +1149,12 @@
             "landlocked": false,
             "areaKm2": 131990,
             "borders": ["ALB", "BGR", "TUR", "MKD"]
+        },
+        "nativeNames": {
+            "ell": {
+                "official": "Ελληνική Δημοκρατία",
+                "common": "Ελλάδα"
+            }
         },
         "languages": ["Greek"],
         "currency": {
@@ -1013,6 +1201,12 @@
             "areaKm2": 56594,
             "borders": ["BIH", "HUN", "MNE", "SRB", "SVN"]
         },
+        "nativeNames": {
+            "hrv": {
+                "official": "Republika Hrvatska",
+                "common": "Hrvatska"
+            }
+        },
         "languages": ["Croatian"],
         "currency": {
             "code": "EUR",
@@ -1058,6 +1252,12 @@
             "areaKm2": 93028,
             "borders": ["AUT", "HRV", "ROU", "SRB", "SVK", "SVN", "UKR"]
         },
+        "nativeNames": {
+            "hun": {
+                "official": "Magyarország",
+                "common": "Magyarország"
+            }
+        },
         "languages": ["Hungarian"],
         "currency": {
             "code": "HUF",
@@ -1101,6 +1301,16 @@
             "continent": "Europe",
             "landlocked": false,
             "areaKm2": 572
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Isle of Man",
+                "common": "Isle of Man"
+            },
+            "glv": {
+                "official": "Ellan Vannin or Mannin",
+                "common": "Mannin"
+            }
         },
         "languages": ["English", "Manx"],
         "currency": {
@@ -1147,6 +1357,16 @@
             "areaKm2": 70273,
             "borders": ["GBR"]
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Republic of Ireland",
+                "common": "Ireland"
+            },
+            "gle": {
+                "official": "Poblacht na hÉireann",
+                "common": "Éire"
+            }
+        },
         "languages": ["English", "Irish"],
         "currency": {
             "code": "EUR",
@@ -1190,6 +1410,12 @@
             "continent": "Europe",
             "landlocked": false,
             "areaKm2": 103000
+        },
+        "nativeNames": {
+            "isl": {
+                "official": "Ísland",
+                "common": "Ísland"
+            }
         },
         "languages": ["Icelandic"],
         "currency": {
@@ -1236,6 +1462,12 @@
             "areaKm2": 301336,
             "borders": ["AUT", "FRA", "SMR", "SVN", "CHE", "VAT"]
         },
+        "nativeNames": {
+            "ita": {
+                "official": "Repubblica italiana",
+                "common": "Italia"
+            }
+        },
         "languages": ["Italian"],
         "currency": {
             "code": "EUR",
@@ -1280,6 +1512,20 @@
             "landlocked": false,
             "areaKm2": 116
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Bailiwick of Jersey",
+                "common": "Jersey"
+            },
+            "fra": {
+                "official": "Bailliage de Jersey",
+                "common": "Jersey"
+            },
+            "nrf": {
+                "official": "Bailliage dé Jèrri",
+                "common": "Jèrri"
+            }
+        },
         "languages": ["English", "French", "Jèrriais"],
         "currency": {
             "code": "GBP",
@@ -1323,6 +1569,16 @@
             "landlocked": true,
             "areaKm2": 10908,
             "borders": ["ALB", "MKD", "MNE", "SRB"]
+        },
+        "nativeNames": {
+            "sqi": {
+                "official": "Republika e Kosovës",
+                "common": "Kosova"
+            },
+            "srp": {
+                "official": "Република Косово",
+                "common": "Косово"
+            }
         },
         "languages": ["Albanian", "Serbian"],
         "currency": {
@@ -1369,6 +1625,12 @@
             "areaKm2": 160,
             "borders": ["AUT", "CHE"]
         },
+        "nativeNames": {
+            "deu": {
+                "official": "Fürstentum Liechtenstein",
+                "common": "Liechtenstein"
+            }
+        },
         "languages": ["German"],
         "currency": {
             "code": "CHF",
@@ -1413,6 +1675,12 @@
             "landlocked": false,
             "areaKm2": 65300,
             "borders": ["BLR", "LVA", "POL", "RUS"]
+        },
+        "nativeNames": {
+            "lit": {
+                "official": "Lietuvos Respublikos",
+                "common": "Lietuva"
+            }
         },
         "languages": ["Lithuanian"],
         "currency": {
@@ -1459,6 +1727,20 @@
             "areaKm2": 2586,
             "borders": ["BEL", "FRA", "DEU"]
         },
+        "nativeNames": {
+            "deu": {
+                "official": "Großherzogtum Luxemburg",
+                "common": "Luxemburg"
+            },
+            "fra": {
+                "official": "Grand-Duché de Luxembourg",
+                "common": "Luxembourg"
+            },
+            "ltz": {
+                "official": "Groussherzogtum Lëtzebuerg",
+                "common": "Lëtzebuerg"
+            }
+        },
         "languages": ["German", "French", "Luxembourgish"],
         "currency": {
             "code": "EUR",
@@ -1503,6 +1785,12 @@
             "landlocked": false,
             "areaKm2": 64559,
             "borders": ["BLR", "EST", "LTU", "RUS"]
+        },
+        "nativeNames": {
+            "lav": {
+                "official": "Latvijas Republikas",
+                "common": "Latvija"
+            }
         },
         "languages": ["Latvian"],
         "currency": {
@@ -1549,6 +1837,12 @@
             "areaKm2": 2.02,
             "borders": ["FRA"]
         },
+        "nativeNames": {
+            "fra": {
+                "official": "Principauté de Monaco",
+                "common": "Monaco"
+            }
+        },
         "languages": ["French"],
         "currency": {
             "code": "EUR",
@@ -1593,6 +1887,12 @@
             "landlocked": true,
             "areaKm2": 33846,
             "borders": ["ROU", "UKR"]
+        },
+        "nativeNames": {
+            "ron": {
+                "official": "Republica Moldova",
+                "common": "Moldova"
+            }
         },
         "languages": ["Moldavian"],
         "currency": {
@@ -1639,6 +1939,12 @@
             "areaKm2": 25713,
             "borders": ["ALB", "BGR", "GRC", "UNK", "SRB"]
         },
+        "nativeNames": {
+            "mkd": {
+                "official": "Република Северна Македонија",
+                "common": "Македонија"
+            }
+        },
         "languages": ["Macedonian"],
         "currency": {
             "code": "MKD",
@@ -1682,6 +1988,16 @@
             "continent": "Europe",
             "landlocked": false,
             "areaKm2": 316
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Republic of Malta",
+                "common": "Malta"
+            },
+            "mlt": {
+                "official": "Repubblika ta ' Malta",
+                "common": "Malta"
+            }
         },
         "languages": ["English", "Maltese"],
         "currency": {
@@ -1728,6 +2044,12 @@
             "areaKm2": 13812,
             "borders": ["ALB", "BIH", "HRV", "UNK", "SRB"]
         },
+        "nativeNames": {
+            "cnr": {
+                "official": "Црна Гора",
+                "common": "Црна Гора"
+            }
+        },
         "languages": ["Montenegrin"],
         "currency": {
             "code": "EUR",
@@ -1772,6 +2094,12 @@
             "landlocked": false,
             "areaKm2": 41850,
             "borders": ["BEL", "DEU"]
+        },
+        "nativeNames": {
+            "nld": {
+                "official": "Koninkrijk der Nederlanden",
+                "common": "Nederland"
+            }
         },
         "languages": ["Dutch"],
         "currency": {
@@ -1818,6 +2146,20 @@
             "areaKm2": 323802,
             "borders": ["FIN", "SWE", "RUS"]
         },
+        "nativeNames": {
+            "nno": {
+                "official": "Kongeriket Noreg",
+                "common": "Noreg"
+            },
+            "nob": {
+                "official": "Kongeriket Norge",
+                "common": "Norge"
+            },
+            "smi": {
+                "official": "Norgga gonagasriika",
+                "common": "Norgga"
+            }
+        },
         "languages": ["Norwegian Nynorsk", "Norwegian Bokmål", "Sami"],
         "currency": {
             "code": "NOK",
@@ -1862,6 +2204,12 @@
             "landlocked": false,
             "areaKm2": 312679,
             "borders": ["BLR", "CZE", "DEU", "LTU", "RUS", "SVK", "UKR"]
+        },
+        "nativeNames": {
+            "pol": {
+                "official": "Rzeczpospolita Polska",
+                "common": "Polska"
+            }
         },
         "languages": ["Polish"],
         "currency": {
@@ -1908,6 +2256,12 @@
             "areaKm2": 92090,
             "borders": ["ESP"]
         },
+        "nativeNames": {
+            "por": {
+                "official": "República português",
+                "common": "Portugal"
+            }
+        },
         "languages": ["Portuguese"],
         "currency": {
             "code": "EUR",
@@ -1952,6 +2306,12 @@
             "landlocked": false,
             "areaKm2": 238391,
             "borders": ["BGR", "HUN", "MDA", "SRB", "UKR"]
+        },
+        "nativeNames": {
+            "ron": {
+                "official": "România",
+                "common": "România"
+            }
         },
         "languages": ["Romanian"],
         "currency": {
@@ -2013,6 +2373,12 @@
                 "UKR"
             ]
         },
+        "nativeNames": {
+            "rus": {
+                "official": "Российская Федерация",
+                "common": "Россия"
+            }
+        },
         "languages": ["Russian"],
         "currency": {
             "code": "RUB",
@@ -2056,6 +2422,12 @@
             "continent": "Europe",
             "landlocked": false,
             "areaKm2": -1
+        },
+        "nativeNames": {
+            "nor": {
+                "official": "Svalbard og Jan Mayen",
+                "common": "Svalbard og Jan Mayen"
+            }
         },
         "languages": ["Norwegian"],
         "currency": {
@@ -2102,6 +2474,12 @@
             "areaKm2": 61,
             "borders": ["ITA"]
         },
+        "nativeNames": {
+            "ita": {
+                "official": "Serenissima Repubblica di San Marino",
+                "common": "San Marino"
+            }
+        },
         "languages": ["Italian"],
         "currency": {
             "code": "EUR",
@@ -2146,6 +2524,12 @@
             "landlocked": true,
             "areaKm2": 88361,
             "borders": ["BIH", "BGR", "HRV", "HUN", "UNK", "MKD", "MNE", "ROU"]
+        },
+        "nativeNames": {
+            "srp": {
+                "official": "Република Србија",
+                "common": "Србија"
+            }
         },
         "languages": ["Serbian"],
         "currency": {
@@ -2192,6 +2576,12 @@
             "areaKm2": 49037,
             "borders": ["AUT", "CZE", "HUN", "POL", "UKR"]
         },
+        "nativeNames": {
+            "slk": {
+                "official": "Slovenská republika",
+                "common": "Slovensko"
+            }
+        },
         "languages": ["Slovak"],
         "currency": {
             "code": "EUR",
@@ -2236,6 +2626,12 @@
             "landlocked": false,
             "areaKm2": 20273,
             "borders": ["AUT", "HRV", "ITA", "HUN"]
+        },
+        "nativeNames": {
+            "slv": {
+                "official": "Republika Slovenija",
+                "common": "Slovenija"
+            }
         },
         "languages": ["Slovene"],
         "currency": {
@@ -2282,6 +2678,12 @@
             "areaKm2": 450295,
             "borders": ["FIN", "NOR"]
         },
+        "nativeNames": {
+            "swe": {
+                "official": "Konungariket Sverige",
+                "common": "Sverige"
+            }
+        },
         "languages": ["Swedish"],
         "currency": {
             "code": "SEK",
@@ -2327,6 +2729,12 @@
             "areaKm2": 603500,
             "borders": ["BLR", "HUN", "MDA", "POL", "ROU", "RUS", "SVK"]
         },
+        "nativeNames": {
+            "ukr": {
+                "official": "Україна",
+                "common": "Україна"
+            }
+        },
         "languages": ["Ukrainian"],
         "currency": {
             "code": "UAH",
@@ -2371,6 +2779,16 @@
             "landlocked": true,
             "areaKm2": 0.44,
             "borders": ["ITA"]
+        },
+        "nativeNames": {
+            "ita": {
+                "official": "Stato della Città del Vaticano",
+                "common": "Vaticano"
+            },
+            "lat": {
+                "official": "Status Civitatis Vaticanæ",
+                "common": "Vaticanæ"
+            }
         },
         "languages": ["Italian", "Latin"],
         "currency": {

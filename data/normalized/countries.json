@@ -26,6 +26,16 @@
             "landlocked": false,
             "areaKm2": 180
         },
+        "nativeNames": {
+            "nld": {
+                "official": "Aruba",
+                "common": "Aruba"
+            },
+            "pap": {
+                "official": "Aruba",
+                "common": "Aruba"
+            }
+        },
         "languages": ["Dutch", "Papiamento"],
         "currency": {
             "code": "AWG",
@@ -70,6 +80,20 @@
             "landlocked": true,
             "areaKm2": 652230,
             "borders": ["IRN", "PAK", "TKM", "UZB", "TJK", "CHN"]
+        },
+        "nativeNames": {
+            "prs": {
+                "official": "جمهوری اسلامی افغانستان",
+                "common": "افغانستان"
+            },
+            "pus": {
+                "official": "د افغانستان اسلامي جمهوریت",
+                "common": "افغانستان"
+            },
+            "tuk": {
+                "official": "Owganystan Yslam Respublikasy",
+                "common": "Owganystan"
+            }
         },
         "languages": ["Dari", "Pashto", "Turkmen"],
         "currency": {
@@ -116,6 +140,12 @@
             "areaKm2": 1246700,
             "borders": ["COG", "COD", "ZMB", "NAM"]
         },
+        "nativeNames": {
+            "por": {
+                "official": "República de Angola",
+                "common": "Angola"
+            }
+        },
         "languages": ["Portuguese"],
         "currency": {
             "code": "AOA",
@@ -160,6 +190,12 @@
             "landlocked": false,
             "areaKm2": 91
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Anguilla",
+                "common": "Anguilla"
+            }
+        },
         "languages": ["English"],
         "currency": {
             "code": "XCD",
@@ -203,6 +239,12 @@
             "continent": "Europe",
             "landlocked": false,
             "areaKm2": 1580
+        },
+        "nativeNames": {
+            "swe": {
+                "official": "Landskapet Åland",
+                "common": "Åland"
+            }
         },
         "languages": ["Swedish"],
         "currency": {
@@ -249,6 +291,12 @@
             "areaKm2": 28748,
             "borders": ["MNE", "GRC", "MKD", "UNK"]
         },
+        "nativeNames": {
+            "sqi": {
+                "official": "Republika e Shqipërisë",
+                "common": "Shqipëria"
+            }
+        },
         "languages": ["Albanian"],
         "currency": {
             "code": "ALL",
@@ -293,6 +341,12 @@
             "landlocked": true,
             "areaKm2": 468,
             "borders": ["FRA", "ESP"]
+        },
+        "nativeNames": {
+            "cat": {
+                "official": "Principat d'Andorra",
+                "common": "Andorra"
+            }
         },
         "languages": ["Catalan"],
         "currency": {
@@ -339,6 +393,12 @@
             "areaKm2": 83600,
             "borders": ["OMN", "SAU"]
         },
+        "nativeNames": {
+            "ara": {
+                "official": "الإمارات العربية المتحدة",
+                "common": "الإمارات"
+            }
+        },
         "languages": ["Arabic"],
         "currency": {
             "code": "AED",
@@ -383,6 +443,16 @@
             "landlocked": false,
             "areaKm2": 2780400,
             "borders": ["BOL", "BRA", "CHL", "PRY", "URY"]
+        },
+        "nativeNames": {
+            "grn": {
+                "official": "Argentine Republic",
+                "common": "Argentina"
+            },
+            "spa": {
+                "official": "República Argentina",
+                "common": "Argentina"
+            }
         },
         "languages": ["Guaraní", "Spanish"],
         "currency": {
@@ -429,6 +499,12 @@
             "areaKm2": 29743,
             "borders": ["AZE", "GEO", "IRN", "TUR"]
         },
+        "nativeNames": {
+            "hye": {
+                "official": "Հայաստանի Հանրապետություն",
+                "common": "Հայաստան"
+            }
+        },
         "languages": ["Armenian"],
         "currency": {
             "code": "AMD",
@@ -472,6 +548,16 @@
             "continent": "Oceania",
             "landlocked": false,
             "areaKm2": 199
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "American Samoa",
+                "common": "American Samoa"
+            },
+            "smo": {
+                "official": "Sāmoa Amelika",
+                "common": "Sāmoa Amelika"
+            }
         },
         "languages": ["English", "Samoan"],
         "currency": {
@@ -553,6 +639,12 @@
             "landlocked": false,
             "areaKm2": 7747
         },
+        "nativeNames": {
+            "fra": {
+                "official": "Territoire des Terres australes et antarctiques françaises",
+                "common": "Terres australes et antarctiques françaises"
+            }
+        },
         "languages": ["French"],
         "currency": {
             "code": "EUR",
@@ -597,6 +689,12 @@
             "landlocked": false,
             "areaKm2": 442
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Antigua and Barbuda",
+                "common": "Antigua and Barbuda"
+            }
+        },
         "languages": ["English"],
         "currency": {
             "code": "XCD",
@@ -640,6 +738,12 @@
             "continent": "Oceania",
             "landlocked": false,
             "areaKm2": 7692024
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Commonwealth of Australia",
+                "common": "Australia"
+            }
         },
         "languages": ["English"],
         "currency": {
@@ -686,6 +790,12 @@
             "areaKm2": 83871,
             "borders": ["CZE", "DEU", "HUN", "ITA", "LIE", "SVK", "SVN", "CHE"]
         },
+        "nativeNames": {
+            "bar": {
+                "official": "Republik Österreich",
+                "common": "Österreich"
+            }
+        },
         "languages": ["Austro-Bavarian German"],
         "currency": {
             "code": "EUR",
@@ -730,6 +840,16 @@
             "landlocked": true,
             "areaKm2": 86600,
             "borders": ["ARM", "GEO", "IRN", "RUS", "TUR"]
+        },
+        "nativeNames": {
+            "aze": {
+                "official": "Azərbaycan Respublikası",
+                "common": "Azərbaycan"
+            },
+            "rus": {
+                "official": "Азербайджанская Республика",
+                "common": "Азербайджан"
+            }
         },
         "languages": ["Azerbaijani", "Russian"],
         "currency": {
@@ -776,6 +896,16 @@
             "areaKm2": 27834,
             "borders": ["COD", "RWA", "TZA"]
         },
+        "nativeNames": {
+            "fra": {
+                "official": "République du Burundi",
+                "common": "Burundi"
+            },
+            "run": {
+                "official": "Republika y'Uburundi ",
+                "common": "Uburundi"
+            }
+        },
         "languages": ["French", "Kirundi"],
         "currency": {
             "code": "BIF",
@@ -820,6 +950,20 @@
             "landlocked": false,
             "areaKm2": 30528,
             "borders": ["FRA", "DEU", "LUX", "NLD"]
+        },
+        "nativeNames": {
+            "deu": {
+                "official": "Königreich Belgien",
+                "common": "Belgien"
+            },
+            "fra": {
+                "official": "Royaume de Belgique",
+                "common": "Belgique"
+            },
+            "nld": {
+                "official": "Koninkrijk België",
+                "common": "België"
+            }
         },
         "languages": ["German", "French", "Dutch"],
         "currency": {
@@ -866,6 +1010,12 @@
             "areaKm2": 112622,
             "borders": ["BFA", "NER", "NGA", "TGO"]
         },
+        "nativeNames": {
+            "fra": {
+                "official": "République du Bénin",
+                "common": "Bénin"
+            }
+        },
         "languages": ["French"],
         "currency": {
             "code": "XOF",
@@ -910,6 +1060,12 @@
             "landlocked": true,
             "areaKm2": 272967,
             "borders": ["BEN", "CIV", "GHA", "MLI", "NER", "TGO"]
+        },
+        "nativeNames": {
+            "fra": {
+                "official": "République du Burkina",
+                "common": "Burkina Faso"
+            }
         },
         "languages": ["French"],
         "currency": {
@@ -956,6 +1112,12 @@
             "areaKm2": 147570,
             "borders": ["MMR", "IND"]
         },
+        "nativeNames": {
+            "ben": {
+                "official": "বাংলাদেশ গণপ্রজাতন্ত্রী",
+                "common": "বাংলাদেশ"
+            }
+        },
         "languages": ["Bengali"],
         "currency": {
             "code": "BDT",
@@ -1001,6 +1163,12 @@
             "areaKm2": 110879,
             "borders": ["GRC", "MKD", "ROU", "SRB", "TUR"]
         },
+        "nativeNames": {
+            "bul": {
+                "official": "Република България",
+                "common": "България"
+            }
+        },
         "languages": ["Bulgarian"],
         "currency": {
             "code": "BGN",
@@ -1045,6 +1213,12 @@
             "landlocked": false,
             "areaKm2": 765
         },
+        "nativeNames": {
+            "ara": {
+                "official": "مملكة البحرين",
+                "common": "البحرين"
+            }
+        },
         "languages": ["Arabic"],
         "currency": {
             "code": "BHD",
@@ -1088,6 +1262,12 @@
             "continent": "Americas",
             "landlocked": false,
             "areaKm2": 13943
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Commonwealth of the Bahamas",
+                "common": "Bahamas"
+            }
         },
         "languages": ["English"],
         "currency": {
@@ -1134,6 +1314,20 @@
             "areaKm2": 51209,
             "borders": ["HRV", "MNE", "SRB"]
         },
+        "nativeNames": {
+            "bos": {
+                "official": "Bosna i Hercegovina",
+                "common": "Bosna i Hercegovina"
+            },
+            "hrv": {
+                "official": "Bosna i Hercegovina",
+                "common": "Bosna i Hercegovina"
+            },
+            "srp": {
+                "official": "Боснa и Херцеговина",
+                "common": "Боснa и Херцеговина"
+            }
+        },
         "languages": ["Bosnian", "Croatian", "Serbian"],
         "currency": {
             "code": "BAM",
@@ -1178,6 +1372,12 @@
             "landlocked": false,
             "areaKm2": 21
         },
+        "nativeNames": {
+            "fra": {
+                "official": "Collectivité de Saint-Barthélemy",
+                "common": "Saint-Barthélemy"
+            }
+        },
         "languages": ["French"],
         "currency": {
             "code": "EUR",
@@ -1221,6 +1421,12 @@
             "continent": "Africa",
             "landlocked": false,
             "areaKm2": 394
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Saint Helena, Ascension and Tristan da Cunha",
+                "common": "Saint Helena, Ascension and Tristan da Cunha"
+            }
         },
         "languages": ["English"],
         "currency": {
@@ -1267,6 +1473,16 @@
             "areaKm2": 207600,
             "borders": ["LVA", "LTU", "POL", "RUS", "UKR"]
         },
+        "nativeNames": {
+            "bel": {
+                "official": "Рэспубліка Беларусь",
+                "common": "Белару́сь"
+            },
+            "rus": {
+                "official": "Республика Беларусь",
+                "common": "Беларусь"
+            }
+        },
         "languages": ["Belarusian", "Russian"],
         "currency": {
             "code": "BYN",
@@ -1312,6 +1528,20 @@
             "areaKm2": 22966,
             "borders": ["GTM", "MEX"]
         },
+        "nativeNames": {
+            "bjz": {
+                "official": "Belize",
+                "common": "Belize"
+            },
+            "eng": {
+                "official": "Belize",
+                "common": "Belize"
+            },
+            "spa": {
+                "official": "Belice",
+                "common": "Belice"
+            }
+        },
         "languages": ["Belizean Creole", "English", "Spanish"],
         "currency": {
             "code": "BZD",
@@ -1355,6 +1585,12 @@
             "continent": "Americas",
             "landlocked": false,
             "areaKm2": 54
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Bermuda",
+                "common": "Bermuda"
+            }
         },
         "languages": ["English"],
         "currency": {
@@ -1401,6 +1637,24 @@
             "areaKm2": 1098581,
             "borders": ["ARG", "BRA", "CHL", "PRY", "PER"]
         },
+        "nativeNames": {
+            "aym": {
+                "official": "Wuliwya Suyu",
+                "common": "Wuliwya"
+            },
+            "grn": {
+                "official": "Tetã Volívia",
+                "common": "Volívia"
+            },
+            "que": {
+                "official": "Buliwya Mamallaqta",
+                "common": "Buliwya"
+            },
+            "spa": {
+                "official": "Estado Plurinacional de Bolivia",
+                "common": "Bolivia"
+            }
+        },
         "languages": ["Aymara", "Guaraní", "Quechua", "Spanish"],
         "currency": {
             "code": "BOB",
@@ -1444,6 +1698,16 @@
             "continent": "Americas",
             "landlocked": false,
             "areaKm2": 328
+        },
+        "nativeNames": {
+            "nld": {
+                "official": "Bonaire, Sint Eustatius en Saba",
+                "common": "Caribisch Nederland"
+            },
+            "pap": {
+                "official": "Boneiru, Sint Eustatius y Saba",
+                "common": "Boneiru, Sint Eustatius y Saba"
+            }
         },
         "languages": ["English", "Dutch", "Papiamento"],
         "currency": {
@@ -1489,6 +1753,12 @@
             "areaKm2": 8515767,
             "borders": ["ARG", "BOL", "COL", "GUF", "GUY", "PRY", "PER", "SUR", "URY", "VEN"]
         },
+        "nativeNames": {
+            "por": {
+                "official": "República Federativa do Brasil",
+                "common": "Brasil"
+            }
+        },
         "languages": ["Portuguese"],
         "currency": {
             "code": "BRL",
@@ -1532,6 +1802,12 @@
             "continent": "Americas",
             "landlocked": false,
             "areaKm2": 430
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Barbados",
+                "common": "Barbados"
+            }
         },
         "languages": ["English"],
         "currency": {
@@ -1578,6 +1854,12 @@
             "areaKm2": 5765,
             "borders": ["MYS"]
         },
+        "nativeNames": {
+            "msa": {
+                "official": "Nation of Brunei, Abode Damai",
+                "common": "Negara Brunei Darussalam"
+            }
+        },
         "languages": ["Malay"],
         "currency": {
             "code": "BND",
@@ -1623,6 +1905,12 @@
             "areaKm2": 38394,
             "borders": ["CHN", "IND"]
         },
+        "nativeNames": {
+            "dzo": {
+                "official": "འབྲུག་རྒྱལ་ཁབ་",
+                "common": "འབྲུག་ཡུལ་"
+            }
+        },
         "languages": ["Dzongkha"],
         "currency": {
             "code": "BTN",
@@ -1666,6 +1954,12 @@
             "landlocked": false,
             "areaKm2": 49
         },
+        "nativeNames": {
+            "nor": {
+                "official": "Bouvetøya",
+                "common": "Bouvetøya"
+            }
+        },
         "languages": ["Norwegian"],
         "callingCode": "+47",
         "flag": {
@@ -1705,6 +1999,16 @@
             "landlocked": true,
             "areaKm2": 582000,
             "borders": ["NAM", "ZAF", "ZMB", "ZWE"]
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Republic of Botswana",
+                "common": "Botswana"
+            },
+            "tsn": {
+                "official": "Lefatshe la Botswana",
+                "common": "Botswana"
+            }
         },
         "languages": ["English", "Tswana"],
         "currency": {
@@ -1751,6 +2055,16 @@
             "areaKm2": 622984,
             "borders": ["CMR", "TCD", "COD", "COG", "SSD", "SDN"]
         },
+        "nativeNames": {
+            "fra": {
+                "official": "République centrafricaine",
+                "common": "République centrafricaine"
+            },
+            "sag": {
+                "official": "Ködörösêse tî Bêafrîka",
+                "common": "Bêafrîka"
+            }
+        },
         "languages": ["French", "Sango"],
         "currency": {
             "code": "XAF",
@@ -1796,6 +2110,16 @@
             "areaKm2": 9984670,
             "borders": ["USA"]
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Canada",
+                "common": "Canada"
+            },
+            "fra": {
+                "official": "Canada",
+                "common": "Canada"
+            }
+        },
         "languages": ["English", "French"],
         "currency": {
             "code": "CAD",
@@ -1839,6 +2163,12 @@
             "continent": "Oceania",
             "landlocked": false,
             "areaKm2": 14
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Territory of the Cocos (Keeling) Islands",
+                "common": "Cocos (Keeling) Islands"
+            }
         },
         "languages": ["English"],
         "currency": {
@@ -1885,6 +2215,24 @@
             "areaKm2": 41284,
             "borders": ["AUT", "FRA", "ITA", "LIE", "DEU"]
         },
+        "nativeNames": {
+            "fra": {
+                "official": "Confédération suisse",
+                "common": "Suisse"
+            },
+            "gsw": {
+                "official": "Schweizerische Eidgenossenschaft",
+                "common": "Schweiz"
+            },
+            "ita": {
+                "official": "Confederazione Svizzera",
+                "common": "Svizzera"
+            },
+            "roh": {
+                "official": "Confederaziun svizra",
+                "common": "Svizra"
+            }
+        },
         "languages": ["French", "Swiss German", "Italian", "Romansh"],
         "currency": {
             "code": "CHF",
@@ -1929,6 +2277,12 @@
             "landlocked": false,
             "areaKm2": 756102,
             "borders": ["ARG", "BOL", "PER"]
+        },
+        "nativeNames": {
+            "spa": {
+                "official": "República de Chile",
+                "common": "Chile"
+            }
         },
         "languages": ["Spanish"],
         "currency": {
@@ -1992,6 +2346,12 @@
                 "VNM"
             ]
         },
+        "nativeNames": {
+            "zho": {
+                "official": "中华人民共和国",
+                "common": "中国"
+            }
+        },
         "languages": ["Chinese"],
         "currency": {
             "code": "CNY",
@@ -2036,6 +2396,12 @@
             "landlocked": false,
             "areaKm2": 322463,
             "borders": ["BFA", "GHA", "GIN", "LBR", "MLI"]
+        },
+        "nativeNames": {
+            "fra": {
+                "official": "République de Côte d'Ivoire",
+                "common": "Côte d'Ivoire"
+            }
         },
         "languages": ["French"],
         "currency": {
@@ -2082,6 +2448,16 @@
             "areaKm2": 475442,
             "borders": ["CAF", "TCD", "COG", "GNQ", "GAB", "NGA"]
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Republic of Cameroon",
+                "common": "Cameroon"
+            },
+            "fra": {
+                "official": "République du Cameroun",
+                "common": "Cameroun"
+            }
+        },
         "languages": ["English", "French"],
         "currency": {
             "code": "XAF",
@@ -2126,6 +2502,28 @@
             "landlocked": false,
             "areaKm2": 2344858,
             "borders": ["AGO", "BDI", "CAF", "COG", "RWA", "SSD", "TZA", "UGA", "ZMB"]
+        },
+        "nativeNames": {
+            "fra": {
+                "official": "République démocratique du Congo",
+                "common": "RD Congo"
+            },
+            "kon": {
+                "official": "Repubilika ya Kongo Demokratiki",
+                "common": "Repubilika ya Kongo Demokratiki"
+            },
+            "lin": {
+                "official": "Republiki ya Kongó Demokratiki",
+                "common": "Republiki ya Kongó Demokratiki"
+            },
+            "lua": {
+                "official": "Ditunga dia Kongu wa Mungalaata",
+                "common": "Ditunga dia Kongu wa Mungalaata"
+            },
+            "swa": {
+                "official": "Jamhuri ya Kidemokrasia ya Kongo",
+                "common": "Jamhuri ya Kidemokrasia ya Kongo"
+            }
         },
         "languages": ["French", "Kikongo", "Lingala", "Tshiluba", "Swahili"],
         "currency": {
@@ -2172,6 +2570,20 @@
             "areaKm2": 342000,
             "borders": ["AGO", "CMR", "CAF", "COD", "GAB"]
         },
+        "nativeNames": {
+            "fra": {
+                "official": "République du Congo",
+                "common": "République du Congo"
+            },
+            "kon": {
+                "official": "Repubilika ya Kongo",
+                "common": "Repubilika ya Kongo"
+            },
+            "lin": {
+                "official": "Republíki ya Kongó",
+                "common": "Republíki ya Kongó"
+            }
+        },
         "languages": ["French", "Kikongo", "Lingala"],
         "currency": {
             "code": "XAF",
@@ -2215,6 +2627,16 @@
             "continent": "Oceania",
             "landlocked": false,
             "areaKm2": 236
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Cook Islands",
+                "common": "Cook Islands"
+            },
+            "rar": {
+                "official": "Kūki 'Āirani",
+                "common": "Kūki 'Āirani"
+            }
         },
         "languages": ["English", "Cook Islands Māori"],
         "currency": {
@@ -2261,6 +2683,12 @@
             "areaKm2": 1141748,
             "borders": ["BRA", "ECU", "PAN", "PER", "VEN"]
         },
+        "nativeNames": {
+            "spa": {
+                "official": "República de Colombia",
+                "common": "Colombia"
+            }
+        },
         "languages": ["Spanish"],
         "currency": {
             "code": "COP",
@@ -2305,6 +2733,20 @@
             "landlocked": false,
             "areaKm2": 1862
         },
+        "nativeNames": {
+            "ara": {
+                "official": "الاتحاد القمري",
+                "common": "جزر القمر"
+            },
+            "fra": {
+                "official": "Union des Comores",
+                "common": "Comores"
+            },
+            "zdj": {
+                "official": "Udzima wa Komori",
+                "common": "Komori"
+            }
+        },
         "languages": ["Arabic", "French", "Comorian"],
         "currency": {
             "code": "KMF",
@@ -2348,6 +2790,12 @@
             "continent": "Africa",
             "landlocked": false,
             "areaKm2": 4033
+        },
+        "nativeNames": {
+            "por": {
+                "official": "República de Cabo Verde",
+                "common": "Cabo Verde"
+            }
         },
         "languages": ["Portuguese"],
         "currency": {
@@ -2394,6 +2842,12 @@
             "areaKm2": 51100,
             "borders": ["NIC", "PAN"]
         },
+        "nativeNames": {
+            "spa": {
+                "official": "República de Costa Rica",
+                "common": "Costa Rica"
+            }
+        },
         "languages": ["Spanish"],
         "currency": {
             "code": "CRC",
@@ -2437,6 +2891,12 @@
             "continent": "Americas",
             "landlocked": false,
             "areaKm2": 109884
+        },
+        "nativeNames": {
+            "spa": {
+                "official": "República de Cuba",
+                "common": "Cuba"
+            }
         },
         "languages": ["Spanish"],
         "currency": {
@@ -2482,6 +2942,20 @@
             "landlocked": false,
             "areaKm2": 444
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Country of Curaçao",
+                "common": "Curaçao"
+            },
+            "nld": {
+                "official": "Land Curaçao",
+                "common": "Curaçao"
+            },
+            "pap": {
+                "official": "Pais Kòrsou",
+                "common": "Pais Kòrsou"
+            }
+        },
         "languages": ["English", "Dutch", "Papiamento"],
         "currency": {
             "code": "ANG",
@@ -2525,6 +2999,12 @@
             "continent": "Oceania",
             "landlocked": false,
             "areaKm2": 135
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Territory of Christmas Island",
+                "common": "Christmas Island"
+            }
         },
         "languages": ["English"],
         "currency": {
@@ -2570,6 +3050,12 @@
             "landlocked": false,
             "areaKm2": 264
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Cayman Islands",
+                "common": "Cayman Islands"
+            }
+        },
         "languages": ["English"],
         "currency": {
             "code": "KYD",
@@ -2613,6 +3099,16 @@
             "continent": "Europe",
             "landlocked": false,
             "areaKm2": 9251
+        },
+        "nativeNames": {
+            "ell": {
+                "official": "Δημοκρατία της Κύπρος",
+                "common": "Κύπρος"
+            },
+            "tur": {
+                "official": "Kıbrıs Cumhuriyeti",
+                "common": "Kıbrıs"
+            }
         },
         "languages": ["Greek", "Turkish"],
         "currency": {
@@ -2659,6 +3155,16 @@
             "areaKm2": 78865,
             "borders": ["AUT", "DEU", "POL", "SVK"]
         },
+        "nativeNames": {
+            "ces": {
+                "official": "Česká republika",
+                "common": "Česko"
+            },
+            "slk": {
+                "official": "Česká republika",
+                "common": "Česko"
+            }
+        },
         "languages": ["Czech", "Slovak"],
         "currency": {
             "code": "CZK",
@@ -2703,6 +3209,12 @@
             "landlocked": false,
             "areaKm2": 357114,
             "borders": ["AUT", "BEL", "CZE", "DNK", "FRA", "LUX", "NLD", "POL", "CHE"]
+        },
+        "nativeNames": {
+            "deu": {
+                "official": "Bundesrepublik Deutschland",
+                "common": "Deutschland"
+            }
         },
         "languages": ["German"],
         "currency": {
@@ -2749,6 +3261,16 @@
             "areaKm2": 23200,
             "borders": ["ERI", "ETH", "SOM"]
         },
+        "nativeNames": {
+            "ara": {
+                "official": "جمهورية جيبوتي",
+                "common": "جيبوتي"
+            },
+            "fra": {
+                "official": "République de Djibouti",
+                "common": "Djibouti"
+            }
+        },
         "languages": ["Arabic", "French"],
         "currency": {
             "code": "DJF",
@@ -2792,6 +3314,12 @@
             "continent": "Americas",
             "landlocked": false,
             "areaKm2": 751
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Commonwealth of Dominica",
+                "common": "Dominica"
+            }
         },
         "languages": ["English"],
         "currency": {
@@ -2838,6 +3366,12 @@
             "areaKm2": 43094,
             "borders": ["DEU"]
         },
+        "nativeNames": {
+            "dan": {
+                "official": "Kongeriget Danmark",
+                "common": "Danmark"
+            }
+        },
         "languages": ["Danish"],
         "currency": {
             "code": "DKK",
@@ -2882,6 +3416,12 @@
             "landlocked": false,
             "areaKm2": 48671,
             "borders": ["HTI"]
+        },
+        "nativeNames": {
+            "spa": {
+                "official": "República Dominicana",
+                "common": "República Dominicana"
+            }
         },
         "languages": ["Spanish"],
         "currency": {
@@ -2928,6 +3468,12 @@
             "areaKm2": 2381741,
             "borders": ["TUN", "LBY", "NER", "ESH", "MRT", "MLI", "MAR"]
         },
+        "nativeNames": {
+            "ara": {
+                "official": "الجمهورية الديمقراطية الشعبية الجزائرية",
+                "common": "الجزائر"
+            }
+        },
         "languages": ["Arabic"],
         "currency": {
             "code": "DZD",
@@ -2972,6 +3518,12 @@
             "landlocked": false,
             "areaKm2": 276841,
             "borders": ["COL", "PER"]
+        },
+        "nativeNames": {
+            "spa": {
+                "official": "República del Ecuador",
+                "common": "Ecuador"
+            }
         },
         "languages": ["Spanish"],
         "currency": {
@@ -3018,6 +3570,12 @@
             "areaKm2": 1002450,
             "borders": ["ISR", "LBY", "PSE", "SDN"]
         },
+        "nativeNames": {
+            "ara": {
+                "official": "جمهورية مصر العربية",
+                "common": "مصر"
+            }
+        },
         "languages": ["Arabic"],
         "currency": {
             "code": "EGP",
@@ -3062,6 +3620,20 @@
             "landlocked": false,
             "areaKm2": 117600,
             "borders": ["DJI", "ETH", "SDN"]
+        },
+        "nativeNames": {
+            "ara": {
+                "official": "دولة إريتريا",
+                "common": "إريتريا"
+            },
+            "eng": {
+                "official": "State of Eritrea",
+                "common": "Eritrea"
+            },
+            "tir": {
+                "official": "ሃገረ ኤርትራ",
+                "common": "ኤርትራ"
+            }
         },
         "languages": ["Arabic", "English", "Tigrinya"],
         "currency": {
@@ -3108,6 +3680,20 @@
             "areaKm2": 266000,
             "borders": ["DZA", "MRT", "MAR"]
         },
+        "nativeNames": {
+            "ber": {
+                "official": "Sahrawi Arab Democratic Republic",
+                "common": "Western Sahara"
+            },
+            "mey": {
+                "official": "الجمهورية العربية الصحراوية الديمقراطية",
+                "common": "الصحراء الغربية"
+            },
+            "spa": {
+                "official": "República Árabe Saharaui Democrática",
+                "common": "Sahara Occidental"
+            }
+        },
         "languages": ["Berber", "Hassaniya", "Spanish"],
         "currency": {
             "code": "DZD",
@@ -3152,6 +3738,12 @@
             "landlocked": false,
             "areaKm2": 505992,
             "borders": ["AND", "FRA", "GIB", "PRT", "MAR"]
+        },
+        "nativeNames": {
+            "spa": {
+                "official": "Reino de España",
+                "common": "España"
+            }
         },
         "languages": ["Spanish"],
         "currency": {
@@ -3198,6 +3790,12 @@
             "areaKm2": 45227,
             "borders": ["LVA", "RUS"]
         },
+        "nativeNames": {
+            "est": {
+                "official": "Eesti Vabariik",
+                "common": "Eesti"
+            }
+        },
         "languages": ["Estonian"],
         "currency": {
             "code": "EUR",
@@ -3242,6 +3840,12 @@
             "landlocked": true,
             "areaKm2": 1104300,
             "borders": ["DJI", "ERI", "KEN", "SOM", "SSD", "SDN"]
+        },
+        "nativeNames": {
+            "amh": {
+                "official": "የኢትዮጵያ ፌዴራላዊ ዲሞክራሲያዊ ሪፐብሊክ",
+                "common": "ኢትዮጵያ"
+            }
         },
         "languages": ["Amharic"],
         "currency": {
@@ -3288,6 +3892,16 @@
             "areaKm2": 338424,
             "borders": ["NOR", "SWE", "RUS"]
         },
+        "nativeNames": {
+            "fin": {
+                "official": "Suomen tasavalta",
+                "common": "Suomi"
+            },
+            "swe": {
+                "official": "Republiken Finland",
+                "common": "Finland"
+            }
+        },
         "languages": ["Finnish", "Swedish"],
         "currency": {
             "code": "EUR",
@@ -3332,6 +3946,20 @@
             "landlocked": false,
             "areaKm2": 18272
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Republic of Fiji",
+                "common": "Fiji"
+            },
+            "fij": {
+                "official": "Matanitu Tugalala o Viti",
+                "common": "Viti"
+            },
+            "hif": {
+                "official": "रिपब्लिक ऑफ फीजी",
+                "common": "फिजी"
+            }
+        },
         "languages": ["English", "Fijian", "Fiji Hindi"],
         "currency": {
             "code": "FJD",
@@ -3375,6 +4003,12 @@
             "continent": "Americas",
             "landlocked": false,
             "areaKm2": 12173
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Falkland Islands",
+                "common": "Falkland Islands"
+            }
         },
         "languages": ["English"],
         "currency": {
@@ -3421,6 +4055,12 @@
             "areaKm2": 551695,
             "borders": ["AND", "BEL", "DEU", "ITA", "LUX", "MCO", "ESP", "CHE"]
         },
+        "nativeNames": {
+            "fra": {
+                "official": "République française",
+                "common": "France"
+            }
+        },
         "languages": ["French"],
         "currency": {
             "code": "EUR",
@@ -3464,6 +4104,16 @@
             "continent": "Europe",
             "landlocked": false,
             "areaKm2": 1393
+        },
+        "nativeNames": {
+            "dan": {
+                "official": "Færøerne",
+                "common": "Færøerne"
+            },
+            "fao": {
+                "official": "Føroyar",
+                "common": "Føroyar"
+            }
         },
         "languages": ["Danish", "Faroese"],
         "currency": {
@@ -3509,6 +4159,12 @@
             "landlocked": false,
             "areaKm2": 702
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Federated States of Micronesia",
+                "common": "Micronesia"
+            }
+        },
         "languages": ["English"],
         "callingCode": "+691",
         "flag": {
@@ -3548,6 +4204,12 @@
             "landlocked": false,
             "areaKm2": 267668,
             "borders": ["CMR", "COG", "GNQ"]
+        },
+        "nativeNames": {
+            "fra": {
+                "official": "République gabonaise",
+                "common": "Gabon"
+            }
         },
         "languages": ["French"],
         "currency": {
@@ -3594,6 +4256,12 @@
             "areaKm2": 242900,
             "borders": ["IRL"]
         },
+        "nativeNames": {
+            "eng": {
+                "official": "United Kingdom of Great Britain and Northern Ireland",
+                "common": "United Kingdom"
+            }
+        },
         "languages": ["English"],
         "currency": {
             "code": "GBP",
@@ -3639,6 +4307,12 @@
             "areaKm2": 69700,
             "borders": ["ARM", "AZE", "RUS", "TUR"]
         },
+        "nativeNames": {
+            "kat": {
+                "official": "საქართველო",
+                "common": "საქართველო"
+            }
+        },
         "languages": ["Georgian"],
         "currency": {
             "code": "GEL",
@@ -3682,6 +4356,20 @@
             "continent": "Europe",
             "landlocked": false,
             "areaKm2": 78
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Bailiwick of Guernsey",
+                "common": "Guernsey"
+            },
+            "fra": {
+                "official": "Bailliage de Guernesey",
+                "common": "Guernesey"
+            },
+            "nfr": {
+                "official": "Dgèrnésiais",
+                "common": "Dgèrnésiais"
+            }
         },
         "languages": ["English", "French", "Guernésiais"],
         "currency": {
@@ -3728,6 +4416,12 @@
             "areaKm2": 238533,
             "borders": ["BFA", "CIV", "TGO"]
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Republic of Ghana",
+                "common": "Ghana"
+            }
+        },
         "languages": ["English"],
         "currency": {
             "code": "GHS",
@@ -3772,6 +4466,12 @@
             "landlocked": false,
             "areaKm2": 6,
             "borders": ["ESP"]
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Gibraltar",
+                "common": "Gibraltar"
+            }
         },
         "languages": ["English"],
         "currency": {
@@ -3818,6 +4518,12 @@
             "areaKm2": 245857,
             "borders": ["CIV", "GNB", "LBR", "MLI", "SEN", "SLE"]
         },
+        "nativeNames": {
+            "fra": {
+                "official": "République de Guinée",
+                "common": "Guinée"
+            }
+        },
         "languages": ["French"],
         "currency": {
             "code": "GNF",
@@ -3861,6 +4567,12 @@
             "continent": "Americas",
             "landlocked": false,
             "areaKm2": 1628
+        },
+        "nativeNames": {
+            "fra": {
+                "official": "Guadeloupe",
+                "common": "Guadeloupe"
+            }
         },
         "languages": ["French"],
         "currency": {
@@ -3907,6 +4619,12 @@
             "areaKm2": 10689,
             "borders": ["SEN"]
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Republic of the Gambia",
+                "common": "Gambia"
+            }
+        },
         "languages": ["English"],
         "currency": {
             "code": "GMD",
@@ -3951,6 +4669,16 @@
             "landlocked": false,
             "areaKm2": 36125,
             "borders": ["GIN", "SEN"]
+        },
+        "nativeNames": {
+            "por": {
+                "official": "República da Guiné-Bissau",
+                "common": "Guiné-Bissau"
+            },
+            "pov": {
+                "official": "República da Guiné-Bissau",
+                "common": "Guiné-Bissau"
+            }
         },
         "languages": ["Portuguese", "Upper Guinea Creole"],
         "currency": {
@@ -3997,6 +4725,20 @@
             "areaKm2": 28051,
             "borders": ["CMR", "GAB"]
         },
+        "nativeNames": {
+            "fra": {
+                "official": "République de la Guinée Équatoriale",
+                "common": "Guinée équatoriale"
+            },
+            "por": {
+                "official": "República da Guiné Equatorial",
+                "common": "Guiné Equatorial"
+            },
+            "spa": {
+                "official": "República de Guinea Ecuatorial",
+                "common": "Guinea Ecuatorial"
+            }
+        },
         "languages": ["French", "Portuguese", "Spanish"],
         "currency": {
             "code": "XAF",
@@ -4042,6 +4784,12 @@
             "areaKm2": 131990,
             "borders": ["ALB", "BGR", "TUR", "MKD"]
         },
+        "nativeNames": {
+            "ell": {
+                "official": "Ελληνική Δημοκρατία",
+                "common": "Ελλάδα"
+            }
+        },
         "languages": ["Greek"],
         "currency": {
             "code": "EUR",
@@ -4086,6 +4834,12 @@
             "landlocked": false,
             "areaKm2": 344
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Grenada",
+                "common": "Grenada"
+            }
+        },
         "languages": ["English"],
         "currency": {
             "code": "XCD",
@@ -4129,6 +4883,12 @@
             "continent": "Americas",
             "landlocked": false,
             "areaKm2": 2166086
+        },
+        "nativeNames": {
+            "kal": {
+                "official": "Kalaallit Nunaat",
+                "common": "Kalaallit Nunaat"
+            }
         },
         "languages": ["Greenlandic"],
         "currency": {
@@ -4175,6 +4935,12 @@
             "areaKm2": 108889,
             "borders": ["BLZ", "SLV", "HND", "MEX"]
         },
+        "nativeNames": {
+            "spa": {
+                "official": "República de Guatemala",
+                "common": "Guatemala"
+            }
+        },
         "languages": ["Spanish"],
         "currency": {
             "code": "GTQ",
@@ -4220,6 +4986,12 @@
             "areaKm2": 83534,
             "borders": ["BRA", "SUR"]
         },
+        "nativeNames": {
+            "fra": {
+                "official": "Guyane",
+                "common": "Guyane française"
+            }
+        },
         "languages": ["French"],
         "currency": {
             "code": "EUR",
@@ -4263,6 +5035,20 @@
             "continent": "Oceania",
             "landlocked": false,
             "areaKm2": 549
+        },
+        "nativeNames": {
+            "cha": {
+                "official": "Guåhån",
+                "common": "Guåhån"
+            },
+            "eng": {
+                "official": "Guam",
+                "common": "Guam"
+            },
+            "spa": {
+                "official": "Guam",
+                "common": "Guam"
+            }
         },
         "languages": ["Chamorro", "English", "Spanish"],
         "currency": {
@@ -4309,6 +5095,12 @@
             "areaKm2": 214969,
             "borders": ["BRA", "SUR", "VEN"]
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Co-operative Republic of Guyana",
+                "common": "Guyana"
+            }
+        },
         "languages": ["English"],
         "currency": {
             "code": "GYD",
@@ -4354,6 +5146,16 @@
             "areaKm2": 1104,
             "borders": ["CHN"]
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Hong Kong Special Administrative Region of the People's Republic of China",
+                "common": "Hong Kong"
+            },
+            "zho": {
+                "official": "中华人民共和国香港特别行政区",
+                "common": "香港"
+            }
+        },
         "languages": ["English", "Chinese"],
         "currency": {
             "code": "HKD",
@@ -4397,6 +5199,12 @@
             "landlocked": false,
             "areaKm2": 412
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Heard Island and McDonald Islands",
+                "common": "Heard Island and McDonald Islands"
+            }
+        },
         "languages": ["English"],
         "flag": {
             "emoji": "🇭🇲",
@@ -4435,6 +5243,12 @@
             "landlocked": false,
             "areaKm2": 112492,
             "borders": ["GTM", "SLV", "NIC"]
+        },
+        "nativeNames": {
+            "spa": {
+                "official": "República de Honduras",
+                "common": "Honduras"
+            }
         },
         "languages": ["Spanish"],
         "currency": {
@@ -4481,6 +5295,12 @@
             "areaKm2": 56594,
             "borders": ["BIH", "HUN", "MNE", "SRB", "SVN"]
         },
+        "nativeNames": {
+            "hrv": {
+                "official": "Republika Hrvatska",
+                "common": "Hrvatska"
+            }
+        },
         "languages": ["Croatian"],
         "currency": {
             "code": "EUR",
@@ -4525,6 +5345,16 @@
             "landlocked": false,
             "areaKm2": 27750,
             "borders": ["DOM"]
+        },
+        "nativeNames": {
+            "fra": {
+                "official": "République d'Haïti",
+                "common": "Haïti"
+            },
+            "hat": {
+                "official": "Repiblik Ayiti",
+                "common": "Ayiti"
+            }
         },
         "languages": ["French", "Haitian Creole"],
         "currency": {
@@ -4571,6 +5401,12 @@
             "areaKm2": 93028,
             "borders": ["AUT", "HRV", "ROU", "SRB", "SVK", "SVN", "UKR"]
         },
+        "nativeNames": {
+            "hun": {
+                "official": "Magyarország",
+                "common": "Magyarország"
+            }
+        },
         "languages": ["Hungarian"],
         "currency": {
             "code": "HUF",
@@ -4616,6 +5452,12 @@
             "areaKm2": 1904569,
             "borders": ["TLS", "MYS", "PNG"]
         },
+        "nativeNames": {
+            "ind": {
+                "official": "Republik Indonesia",
+                "common": "Indonesia"
+            }
+        },
         "languages": ["Indonesian"],
         "currency": {
             "code": "IDR",
@@ -4659,6 +5501,16 @@
             "continent": "Europe",
             "landlocked": false,
             "areaKm2": 572
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Isle of Man",
+                "common": "Isle of Man"
+            },
+            "glv": {
+                "official": "Ellan Vannin or Mannin",
+                "common": "Mannin"
+            }
         },
         "languages": ["English", "Manx"],
         "currency": {
@@ -4705,6 +5557,20 @@
             "areaKm2": 3287590,
             "borders": ["BGD", "BTN", "MMR", "CHN", "NPL", "PAK"]
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Republic of India",
+                "common": "India"
+            },
+            "hin": {
+                "official": "भारत गणराज्य",
+                "common": "भारत"
+            },
+            "tam": {
+                "official": "இந்தியக் குடியரசு",
+                "common": "இந்தியா"
+            }
+        },
         "languages": ["English", "Hindi", "Tamil"],
         "currency": {
             "code": "INR",
@@ -4748,6 +5614,12 @@
             "continent": "Africa",
             "landlocked": false,
             "areaKm2": 60
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "British Indian Ocean Territory",
+                "common": "British Indian Ocean Territory"
+            }
         },
         "languages": ["English"],
         "currency": {
@@ -4794,6 +5666,16 @@
             "areaKm2": 70273,
             "borders": ["GBR"]
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Republic of Ireland",
+                "common": "Ireland"
+            },
+            "gle": {
+                "official": "Poblacht na hÉireann",
+                "common": "Éire"
+            }
+        },
         "languages": ["English", "Irish"],
         "currency": {
             "code": "EUR",
@@ -4838,6 +5720,12 @@
             "landlocked": false,
             "areaKm2": 1648195,
             "borders": ["AFG", "ARM", "AZE", "IRQ", "PAK", "TUR", "TKM"]
+        },
+        "nativeNames": {
+            "fas": {
+                "official": "جمهوری اسلامی ایران",
+                "common": "ایران"
+            }
         },
         "languages": ["Persian (Farsi)"],
         "currency": {
@@ -4884,6 +5772,20 @@
             "areaKm2": 438317,
             "borders": ["IRN", "JOR", "KWT", "SAU", "SYR", "TUR"]
         },
+        "nativeNames": {
+            "ara": {
+                "official": "جمهورية العراق",
+                "common": "العراق"
+            },
+            "arc": {
+                "official": "ܩܘܼܛܢܵܐ ܐܝܼܪܲܩ",
+                "common": "ܩܘܼܛܢܵܐ"
+            },
+            "ckb": {
+                "official": "کۆماری عێراق",
+                "common": "کۆماری"
+            }
+        },
         "languages": ["Arabic", "Aramaic", "Sorani"],
         "currency": {
             "code": "IQD",
@@ -4927,6 +5829,12 @@
             "continent": "Europe",
             "landlocked": false,
             "areaKm2": 103000
+        },
+        "nativeNames": {
+            "isl": {
+                "official": "Ísland",
+                "common": "Ísland"
+            }
         },
         "languages": ["Icelandic"],
         "currency": {
@@ -4973,6 +5881,16 @@
             "areaKm2": 20770,
             "borders": ["EGY", "JOR", "LBN", "PSE", "SYR"]
         },
+        "nativeNames": {
+            "ara": {
+                "official": "دولة إسرائيل",
+                "common": "إسرائيل"
+            },
+            "heb": {
+                "official": "מדינת ישראל",
+                "common": "ישראל"
+            }
+        },
         "languages": ["Arabic", "Hebrew"],
         "currency": {
             "code": "ILS",
@@ -5018,6 +5936,12 @@
             "areaKm2": 301336,
             "borders": ["AUT", "FRA", "SMR", "SVN", "CHE", "VAT"]
         },
+        "nativeNames": {
+            "ita": {
+                "official": "Repubblica italiana",
+                "common": "Italia"
+            }
+        },
         "languages": ["Italian"],
         "currency": {
             "code": "EUR",
@@ -5062,6 +5986,16 @@
             "landlocked": false,
             "areaKm2": 10991
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Jamaica",
+                "common": "Jamaica"
+            },
+            "jam": {
+                "official": "Jamaica",
+                "common": "Jamaica"
+            }
+        },
         "languages": ["English", "Jamaican Patois"],
         "currency": {
             "code": "JMD",
@@ -5105,6 +6039,20 @@
             "continent": "Europe",
             "landlocked": false,
             "areaKm2": 116
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Bailiwick of Jersey",
+                "common": "Jersey"
+            },
+            "fra": {
+                "official": "Bailliage de Jersey",
+                "common": "Jersey"
+            },
+            "nrf": {
+                "official": "Bailliage dé Jèrri",
+                "common": "Jèrri"
+            }
         },
         "languages": ["English", "French", "Jèrriais"],
         "currency": {
@@ -5151,6 +6099,12 @@
             "areaKm2": 89342,
             "borders": ["IRQ", "ISR", "PSE", "SAU", "SYR"]
         },
+        "nativeNames": {
+            "ara": {
+                "official": "المملكة الأردنية الهاشمية",
+                "common": "الأردن"
+            }
+        },
         "languages": ["Arabic"],
         "currency": {
             "code": "JOD",
@@ -5194,6 +6148,12 @@
             "continent": "Asia",
             "landlocked": false,
             "areaKm2": 377930
+        },
+        "nativeNames": {
+            "jpn": {
+                "official": "日本",
+                "common": "日本"
+            }
         },
         "languages": ["Japanese"],
         "currency": {
@@ -5240,6 +6200,16 @@
             "areaKm2": 2724900,
             "borders": ["CHN", "KGZ", "RUS", "TKM", "UZB"]
         },
+        "nativeNames": {
+            "kaz": {
+                "official": "Қазақстан Республикасы",
+                "common": "Қазақстан"
+            },
+            "rus": {
+                "official": "Республика Казахстан",
+                "common": "Казахстан"
+            }
+        },
         "languages": ["Kazakh", "Russian"],
         "currency": {
             "code": "KZT",
@@ -5284,6 +6254,16 @@
             "landlocked": false,
             "areaKm2": 580367,
             "borders": ["ETH", "SOM", "SSD", "TZA", "UGA"]
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Republic of Kenya",
+                "common": "Kenya"
+            },
+            "swa": {
+                "official": "Republic of Kenya",
+                "common": "Kenya"
+            }
         },
         "languages": ["English", "Swahili"],
         "currency": {
@@ -5330,6 +6310,16 @@
             "areaKm2": 199951,
             "borders": ["CHN", "KAZ", "TJK", "UZB"]
         },
+        "nativeNames": {
+            "kir": {
+                "official": "Кыргыз Республикасы",
+                "common": "Кыргызстан"
+            },
+            "rus": {
+                "official": "Кыргызская Республика",
+                "common": "Киргизия"
+            }
+        },
         "languages": ["Kyrgyz", "Russian"],
         "currency": {
             "code": "KGS",
@@ -5375,6 +6365,12 @@
             "areaKm2": 181035,
             "borders": ["LAO", "THA", "VNM"]
         },
+        "nativeNames": {
+            "khm": {
+                "official": "ព្រះរាជាណាចក្រកម្ពុជា",
+                "common": "Kâmpŭchéa"
+            }
+        },
         "languages": ["Khmer"],
         "currency": {
             "code": "KHR",
@@ -5419,6 +6415,16 @@
             "landlocked": false,
             "areaKm2": 811
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Independent and Sovereign Republic of Kiribati",
+                "common": "Kiribati"
+            },
+            "gil": {
+                "official": "Ribaberiki Kiribati",
+                "common": "Kiribati"
+            }
+        },
         "languages": ["English", "Gilbertese"],
         "currency": {
             "code": "AUD",
@@ -5462,6 +6468,12 @@
             "continent": "Americas",
             "landlocked": false,
             "areaKm2": 261
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Federation of Saint Christopher and Nevis",
+                "common": "Saint Kitts and Nevis"
+            }
         },
         "languages": ["English"],
         "currency": {
@@ -5508,6 +6520,12 @@
             "areaKm2": 100210,
             "borders": ["PRK"]
         },
+        "nativeNames": {
+            "kor": {
+                "official": "대한민국",
+                "common": "한국"
+            }
+        },
         "languages": ["Korean"],
         "currency": {
             "code": "KRW",
@@ -5551,6 +6569,16 @@
             "landlocked": true,
             "areaKm2": 10908,
             "borders": ["ALB", "MKD", "MNE", "SRB"]
+        },
+        "nativeNames": {
+            "sqi": {
+                "official": "Republika e Kosovës",
+                "common": "Kosova"
+            },
+            "srp": {
+                "official": "Република Косово",
+                "common": "Косово"
+            }
         },
         "languages": ["Albanian", "Serbian"],
         "currency": {
@@ -5597,6 +6625,12 @@
             "areaKm2": 17818,
             "borders": ["IRQ", "SAU"]
         },
+        "nativeNames": {
+            "ara": {
+                "official": "دولة الكويت",
+                "common": "الكويت"
+            }
+        },
         "languages": ["Arabic"],
         "currency": {
             "code": "KWD",
@@ -5641,6 +6675,12 @@
             "landlocked": true,
             "areaKm2": 236800,
             "borders": ["MMR", "KHM", "CHN", "THA", "VNM"]
+        },
+        "nativeNames": {
+            "lao": {
+                "official": "ສາທາລະນະ ຊາທິປະໄຕ ຄົນລາວ ຂອງ",
+                "common": "ສປປລາວ"
+            }
         },
         "languages": ["Lao"],
         "currency": {
@@ -5687,6 +6727,16 @@
             "areaKm2": 10452,
             "borders": ["ISR", "SYR"]
         },
+        "nativeNames": {
+            "ara": {
+                "official": "الجمهورية اللبنانية",
+                "common": "لبنان"
+            },
+            "fra": {
+                "official": "République libanaise",
+                "common": "Liban"
+            }
+        },
         "languages": ["Arabic", "French"],
         "currency": {
             "code": "LBP",
@@ -5731,6 +6781,12 @@
             "landlocked": false,
             "areaKm2": 111369,
             "borders": ["GIN", "CIV", "SLE"]
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Republic of Liberia",
+                "common": "Liberia"
+            }
         },
         "languages": ["English"],
         "currency": {
@@ -5777,6 +6833,12 @@
             "areaKm2": 1759540,
             "borders": ["DZA", "TCD", "EGY", "NER", "SDN", "TUN"]
         },
+        "nativeNames": {
+            "ara": {
+                "official": "دولة ليبيا",
+                "common": "ليبيا"
+            }
+        },
         "languages": ["Arabic"],
         "currency": {
             "code": "LYD",
@@ -5820,6 +6882,12 @@
             "continent": "Americas",
             "landlocked": false,
             "areaKm2": 616
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Saint Lucia",
+                "common": "Saint Lucia"
+            }
         },
         "languages": ["English"],
         "currency": {
@@ -5866,6 +6934,12 @@
             "areaKm2": 160,
             "borders": ["AUT", "CHE"]
         },
+        "nativeNames": {
+            "deu": {
+                "official": "Fürstentum Liechtenstein",
+                "common": "Liechtenstein"
+            }
+        },
         "languages": ["German"],
         "currency": {
             "code": "CHF",
@@ -5910,6 +6984,16 @@
             "landlocked": false,
             "areaKm2": 65610,
             "borders": ["IND"]
+        },
+        "nativeNames": {
+            "sin": {
+                "official": "ශ්‍රී ලංකා ප්‍රජාතාන්ත්‍රික සමාජවාදී ජනරජය",
+                "common": "ශ්‍රී ලංකාව"
+            },
+            "tam": {
+                "official": "இலங்கை சனநாயக சோசலிசக் குடியரசு",
+                "common": "இலங்கை"
+            }
         },
         "languages": ["Sinhala", "Tamil"],
         "currency": {
@@ -5956,6 +7040,16 @@
             "areaKm2": 30355,
             "borders": ["ZAF"]
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Kingdom of Lesotho",
+                "common": "Lesotho"
+            },
+            "sot": {
+                "official": "Kingdom of Lesotho",
+                "common": "Lesotho"
+            }
+        },
         "languages": ["English", "Sotho"],
         "currency": {
             "code": "LSL",
@@ -6000,6 +7094,12 @@
             "landlocked": false,
             "areaKm2": 65300,
             "borders": ["BLR", "LVA", "POL", "RUS"]
+        },
+        "nativeNames": {
+            "lit": {
+                "official": "Lietuvos Respublikos",
+                "common": "Lietuva"
+            }
         },
         "languages": ["Lithuanian"],
         "currency": {
@@ -6046,6 +7146,20 @@
             "areaKm2": 2586,
             "borders": ["BEL", "FRA", "DEU"]
         },
+        "nativeNames": {
+            "deu": {
+                "official": "Großherzogtum Luxemburg",
+                "common": "Luxemburg"
+            },
+            "fra": {
+                "official": "Grand-Duché de Luxembourg",
+                "common": "Luxembourg"
+            },
+            "ltz": {
+                "official": "Groussherzogtum Lëtzebuerg",
+                "common": "Lëtzebuerg"
+            }
+        },
         "languages": ["German", "French", "Luxembourgish"],
         "currency": {
             "code": "EUR",
@@ -6091,6 +7205,12 @@
             "areaKm2": 64559,
             "borders": ["BLR", "EST", "LTU", "RUS"]
         },
+        "nativeNames": {
+            "lav": {
+                "official": "Latvijas Republikas",
+                "common": "Latvija"
+            }
+        },
         "languages": ["Latvian"],
         "currency": {
             "code": "EUR",
@@ -6134,6 +7254,16 @@
             "landlocked": false,
             "areaKm2": 30,
             "borders": ["CHN"]
+        },
+        "nativeNames": {
+            "por": {
+                "official": "Região Administrativa Especial de Macau da República Popular da China",
+                "common": "Macau"
+            },
+            "zho": {
+                "official": "中华人民共和国澳门特别行政区",
+                "common": "澳门"
+            }
         },
         "languages": ["Portuguese", "Chinese"],
         "currency": {
@@ -6180,6 +7310,12 @@
             "areaKm2": 53,
             "borders": ["SXM"]
         },
+        "nativeNames": {
+            "fra": {
+                "official": "Saint-Martin",
+                "common": "Saint-Martin"
+            }
+        },
         "languages": ["French"],
         "currency": {
             "code": "EUR",
@@ -6224,6 +7360,16 @@
             "landlocked": false,
             "areaKm2": 446550,
             "borders": ["DZA", "ESH", "ESP"]
+        },
+        "nativeNames": {
+            "ara": {
+                "official": "المملكة المغربية",
+                "common": "المغرب"
+            },
+            "ber": {
+                "official": "ⵜⴰⴳⵍⴷⵉⵜ ⵏ ⵍⵎⵖⵔⵉⴱ",
+                "common": "ⵍⵎⴰⵖⵔⵉⴱ"
+            }
         },
         "languages": ["Arabic", "Berber"],
         "currency": {
@@ -6270,6 +7416,12 @@
             "areaKm2": 2.02,
             "borders": ["FRA"]
         },
+        "nativeNames": {
+            "fra": {
+                "official": "Principauté de Monaco",
+                "common": "Monaco"
+            }
+        },
         "languages": ["French"],
         "currency": {
             "code": "EUR",
@@ -6315,6 +7467,12 @@
             "areaKm2": 33846,
             "borders": ["ROU", "UKR"]
         },
+        "nativeNames": {
+            "ron": {
+                "official": "Republica Moldova",
+                "common": "Moldova"
+            }
+        },
         "languages": ["Moldavian"],
         "currency": {
             "code": "MDL",
@@ -6359,6 +7517,16 @@
             "landlocked": false,
             "areaKm2": 587041
         },
+        "nativeNames": {
+            "fra": {
+                "official": "République de Madagascar",
+                "common": "Madagascar"
+            },
+            "mlg": {
+                "official": "Repoblikan'i Madagasikara",
+                "common": "Madagasikara"
+            }
+        },
         "languages": ["French", "Malagasy"],
         "currency": {
             "code": "MGA",
@@ -6402,6 +7570,12 @@
             "continent": "Asia",
             "landlocked": false,
             "areaKm2": 300
+        },
+        "nativeNames": {
+            "div": {
+                "official": "ދިވެހިރާއްޖޭގެ ޖުމްހޫރިއްޔާ",
+                "common": "ދިވެހިރާއްޖޭގެ"
+            }
         },
         "languages": ["Maldivian"],
         "currency": {
@@ -6448,6 +7622,12 @@
             "areaKm2": 1964375,
             "borders": ["BLZ", "GTM", "USA"]
         },
+        "nativeNames": {
+            "spa": {
+                "official": "Estados Unidos Mexicanos",
+                "common": "México"
+            }
+        },
         "languages": ["Spanish"],
         "currency": {
             "code": "MXN",
@@ -6491,6 +7671,16 @@
             "continent": "Oceania",
             "landlocked": false,
             "areaKm2": 181
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Republic of the Marshall Islands",
+                "common": "Marshall Islands"
+            },
+            "mah": {
+                "official": "Republic of the Marshall Islands",
+                "common": "M̧ajeļ"
+            }
         },
         "languages": ["English", "Marshallese"],
         "currency": {
@@ -6537,6 +7727,12 @@
             "areaKm2": 25713,
             "borders": ["ALB", "BGR", "GRC", "UNK", "SRB"]
         },
+        "nativeNames": {
+            "mkd": {
+                "official": "Република Северна Македонија",
+                "common": "Македонија"
+            }
+        },
         "languages": ["Macedonian"],
         "currency": {
             "code": "MKD",
@@ -6582,6 +7778,12 @@
             "areaKm2": 1240192,
             "borders": ["DZA", "BFA", "GIN", "CIV", "MRT", "NER", "SEN"]
         },
+        "nativeNames": {
+            "fra": {
+                "official": "République du Mali",
+                "common": "Mali"
+            }
+        },
         "languages": ["French"],
         "currency": {
             "code": "XOF",
@@ -6625,6 +7827,16 @@
             "continent": "Europe",
             "landlocked": false,
             "areaKm2": 316
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Republic of Malta",
+                "common": "Malta"
+            },
+            "mlt": {
+                "official": "Repubblika ta ' Malta",
+                "common": "Malta"
+            }
         },
         "languages": ["English", "Maltese"],
         "currency": {
@@ -6671,6 +7883,12 @@
             "areaKm2": 676578,
             "borders": ["BGD", "CHN", "IND", "LAO", "THA"]
         },
+        "nativeNames": {
+            "mya": {
+                "official": "ပြည်ထောင်စု သမ္မတ မြန်မာနိုင်ငံတော်",
+                "common": "မြန်မာ"
+            }
+        },
         "languages": ["Burmese"],
         "currency": {
             "code": "MMK",
@@ -6715,6 +7933,12 @@
             "landlocked": false,
             "areaKm2": 13812,
             "borders": ["ALB", "BIH", "HRV", "UNK", "SRB"]
+        },
+        "nativeNames": {
+            "cnr": {
+                "official": "Црна Гора",
+                "common": "Црна Гора"
+            }
         },
         "languages": ["Montenegrin"],
         "currency": {
@@ -6761,6 +7985,12 @@
             "areaKm2": 1564110,
             "borders": ["CHN", "RUS"]
         },
+        "nativeNames": {
+            "mon": {
+                "official": "Монгол улс",
+                "common": "Монгол улс"
+            }
+        },
         "languages": ["Mongolian"],
         "currency": {
             "code": "MNT",
@@ -6804,6 +8034,20 @@
             "continent": "Oceania",
             "landlocked": false,
             "areaKm2": 464
+        },
+        "nativeNames": {
+            "cal": {
+                "official": "Commonwealth of the Northern Mariana Islands",
+                "common": "Northern Mariana Islands"
+            },
+            "cha": {
+                "official": "Sankattan Siha Na Islas Mariånas",
+                "common": "Na Islas Mariånas"
+            },
+            "eng": {
+                "official": "Commonwealth of the Northern Mariana Islands",
+                "common": "Northern Mariana Islands"
+            }
         },
         "languages": ["Carolinian", "Chamorro", "English"],
         "currency": {
@@ -6850,6 +8094,12 @@
             "areaKm2": 801590,
             "borders": ["MWI", "ZAF", "SWZ", "TZA", "ZMB", "ZWE"]
         },
+        "nativeNames": {
+            "por": {
+                "official": "República de Moçambique",
+                "common": "Moçambique"
+            }
+        },
         "languages": ["Portuguese"],
         "currency": {
             "code": "MZN",
@@ -6895,6 +8145,12 @@
             "areaKm2": 1030700,
             "borders": ["DZA", "MLI", "SEN", "ESH"]
         },
+        "nativeNames": {
+            "ara": {
+                "official": "الجمهورية الإسلامية الموريتانية",
+                "common": "موريتانيا"
+            }
+        },
         "languages": ["Arabic"],
         "currency": {
             "code": "MRU",
@@ -6938,6 +8194,12 @@
             "continent": "Americas",
             "landlocked": false,
             "areaKm2": 102
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Montserrat",
+                "common": "Montserrat"
+            }
         },
         "languages": ["English"],
         "currency": {
@@ -6983,6 +8245,12 @@
             "landlocked": false,
             "areaKm2": 1128
         },
+        "nativeNames": {
+            "fra": {
+                "official": "Martinique",
+                "common": "Martinique"
+            }
+        },
         "languages": ["French"],
         "currency": {
             "code": "EUR",
@@ -7026,6 +8294,20 @@
             "continent": "Africa",
             "landlocked": false,
             "areaKm2": 2040
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Republic of Mauritius",
+                "common": "Mauritius"
+            },
+            "fra": {
+                "official": "République de Maurice",
+                "common": "Maurice"
+            },
+            "mfe": {
+                "official": "Republik Moris",
+                "common": "Moris"
+            }
         },
         "languages": ["English", "French", "Mauritian Creole"],
         "currency": {
@@ -7072,6 +8354,16 @@
             "areaKm2": 118484,
             "borders": ["MOZ", "TZA", "ZMB"]
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Republic of Malawi",
+                "common": "Malawi"
+            },
+            "nya": {
+                "official": "Chalo cha Malawi, Dziko la Malaŵi",
+                "common": "Malaŵi"
+            }
+        },
         "languages": ["English", "Chewa"],
         "currency": {
             "code": "MWK",
@@ -7117,6 +8409,16 @@
             "areaKm2": 330803,
             "borders": ["BRN", "IDN", "THA"]
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Malaysia",
+                "common": "Malaysia"
+            },
+            "msa": {
+                "official": "مليسيا",
+                "common": "مليسيا"
+            }
+        },
         "languages": ["English", "Malay"],
         "currency": {
             "code": "MYR",
@@ -7160,6 +8462,12 @@
             "continent": "Africa",
             "landlocked": false,
             "areaKm2": 374
+        },
+        "nativeNames": {
+            "fra": {
+                "official": "Département de Mayotte",
+                "common": "Mayotte"
+            }
         },
         "languages": ["French"],
         "currency": {
@@ -7205,6 +8513,44 @@
             "landlocked": false,
             "areaKm2": 825615,
             "borders": ["AGO", "BWA", "ZAF", "ZMB"]
+        },
+        "nativeNames": {
+            "afr": {
+                "official": "Republiek van Namibië",
+                "common": "Namibië"
+            },
+            "deu": {
+                "official": "Republik Namibia",
+                "common": "Namibia"
+            },
+            "eng": {
+                "official": "Republic of Namibia",
+                "common": "Namibia"
+            },
+            "her": {
+                "official": "Republic of Namibia",
+                "common": "Namibia"
+            },
+            "hgm": {
+                "official": "Republic of Namibia",
+                "common": "Namibia"
+            },
+            "kwn": {
+                "official": "Republic of Namibia",
+                "common": "Namibia"
+            },
+            "loz": {
+                "official": "Republic of Namibia",
+                "common": "Namibia"
+            },
+            "ndo": {
+                "official": "Republic of Namibia",
+                "common": "Namibia"
+            },
+            "tsn": {
+                "official": "Lefatshe la Namibia",
+                "common": "Namibia"
+            }
         },
         "languages": [
             "Afrikaans",
@@ -7260,6 +8606,12 @@
             "landlocked": false,
             "areaKm2": 18575
         },
+        "nativeNames": {
+            "fra": {
+                "official": "Nouvelle-Calédonie",
+                "common": "Nouvelle-Calédonie"
+            }
+        },
         "languages": ["French"],
         "currency": {
             "code": "XPF",
@@ -7305,6 +8657,12 @@
             "areaKm2": 1267000,
             "borders": ["DZA", "BEN", "BFA", "TCD", "LBY", "MLI", "NGA"]
         },
+        "nativeNames": {
+            "fra": {
+                "official": "République du Niger",
+                "common": "Niger"
+            }
+        },
         "languages": ["French"],
         "currency": {
             "code": "XOF",
@@ -7348,6 +8706,16 @@
             "continent": "Oceania",
             "landlocked": false,
             "areaKm2": 36
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Territory of Norfolk Island",
+                "common": "Norfolk Island"
+            },
+            "pih": {
+                "official": "Teratri of Norf'k Ailen",
+                "common": "Norf'k Ailen"
+            }
         },
         "languages": ["English", "Norfuk"],
         "currency": {
@@ -7394,6 +8762,12 @@
             "areaKm2": 923768,
             "borders": ["BEN", "CMR", "TCD", "NER"]
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Federal Republic of Nigeria",
+                "common": "Nigeria"
+            }
+        },
         "languages": ["English"],
         "currency": {
             "code": "NGN",
@@ -7439,6 +8813,12 @@
             "areaKm2": 130373,
             "borders": ["CRI", "HND"]
         },
+        "nativeNames": {
+            "spa": {
+                "official": "República de Nicaragua",
+                "common": "Nicaragua"
+            }
+        },
         "languages": ["Spanish"],
         "currency": {
             "code": "NIO",
@@ -7482,6 +8862,16 @@
             "continent": "Oceania",
             "landlocked": false,
             "areaKm2": 260
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Niue",
+                "common": "Niue"
+            },
+            "niu": {
+                "official": "Niuē",
+                "common": "Niuē"
+            }
         },
         "languages": ["English", "Niuean"],
         "currency": {
@@ -7528,6 +8918,12 @@
             "areaKm2": 41850,
             "borders": ["BEL", "DEU"]
         },
+        "nativeNames": {
+            "nld": {
+                "official": "Koninkrijk der Nederlanden",
+                "common": "Nederland"
+            }
+        },
         "languages": ["Dutch"],
         "currency": {
             "code": "EUR",
@@ -7572,6 +8968,20 @@
             "landlocked": false,
             "areaKm2": 323802,
             "borders": ["FIN", "SWE", "RUS"]
+        },
+        "nativeNames": {
+            "nno": {
+                "official": "Kongeriket Noreg",
+                "common": "Noreg"
+            },
+            "nob": {
+                "official": "Kongeriket Norge",
+                "common": "Norge"
+            },
+            "smi": {
+                "official": "Norgga gonagasriika",
+                "common": "Norgga"
+            }
         },
         "languages": ["Norwegian Nynorsk", "Norwegian Bokmål", "Sami"],
         "currency": {
@@ -7618,6 +9028,12 @@
             "areaKm2": 147181,
             "borders": ["CHN", "IND"]
         },
+        "nativeNames": {
+            "nep": {
+                "official": "नेपाल संघीय लोकतान्त्रिक गणतन्त्र",
+                "common": "नेपाल"
+            }
+        },
         "languages": ["Nepali"],
         "currency": {
             "code": "NPR",
@@ -7662,6 +9078,16 @@
             "landlocked": false,
             "areaKm2": 21
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Republic of Nauru",
+                "common": "Nauru"
+            },
+            "nau": {
+                "official": "Republic of Nauru",
+                "common": "Nauru"
+            }
+        },
         "languages": ["English", "Nauru"],
         "currency": {
             "code": "AUD",
@@ -7705,6 +9131,20 @@
             "continent": "Oceania",
             "landlocked": false,
             "areaKm2": 270467
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "New Zealand",
+                "common": "New Zealand"
+            },
+            "mri": {
+                "official": "Aotearoa",
+                "common": "Aotearoa"
+            },
+            "nzs": {
+                "official": "New Zealand",
+                "common": "New Zealand"
+            }
         },
         "languages": ["English", "Māori", "New Zealand Sign Language"],
         "currency": {
@@ -7751,6 +9191,12 @@
             "areaKm2": 309500,
             "borders": ["SAU", "ARE", "YEM"]
         },
+        "nativeNames": {
+            "ara": {
+                "official": "سلطنة عمان",
+                "common": "عمان"
+            }
+        },
         "languages": ["Arabic"],
         "currency": {
             "code": "OMR",
@@ -7795,6 +9241,16 @@
             "landlocked": false,
             "areaKm2": 881912,
             "borders": ["AFG", "CHN", "IND", "IRN"]
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Islamic Republic of Pakistan",
+                "common": "Pakistan"
+            },
+            "urd": {
+                "official": "اسلامی جمہوریۂ پاكستان",
+                "common": "پاكستان"
+            }
         },
         "languages": ["English", "Urdu"],
         "currency": {
@@ -7841,6 +9297,12 @@
             "areaKm2": 75417,
             "borders": ["COL", "CRI"]
         },
+        "nativeNames": {
+            "spa": {
+                "official": "República de Panamá",
+                "common": "Panamá"
+            }
+        },
         "languages": ["Spanish"],
         "currency": {
             "code": "PAB",
@@ -7884,6 +9346,12 @@
             "continent": "Oceania",
             "landlocked": false,
             "areaKm2": 47
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Pitcairn Group of Islands",
+                "common": "Pitcairn Islands"
+            }
         },
         "languages": ["English"],
         "currency": {
@@ -7930,6 +9398,20 @@
             "areaKm2": 1285216,
             "borders": ["BOL", "BRA", "CHL", "COL", "ECU"]
         },
+        "nativeNames": {
+            "aym": {
+                "official": "Piruw Suyu",
+                "common": "Piruw"
+            },
+            "que": {
+                "official": "Piruw Ripuwlika",
+                "common": "Piruw"
+            },
+            "spa": {
+                "official": "República del Perú",
+                "common": "Perú"
+            }
+        },
         "languages": ["Aymara", "Quechua", "Spanish"],
         "currency": {
             "code": "PEN",
@@ -7974,6 +9456,16 @@
             "landlocked": false,
             "areaKm2": 342353
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Republic of the Philippines",
+                "common": "Philippines"
+            },
+            "fil": {
+                "official": "Republic of the Philippines",
+                "common": "Pilipinas"
+            }
+        },
         "languages": ["English", "Filipino"],
         "currency": {
             "code": "PHP",
@@ -8017,6 +9509,16 @@
             "continent": "Oceania",
             "landlocked": false,
             "areaKm2": 459
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Republic of Palau",
+                "common": "Palau"
+            },
+            "pau": {
+                "official": "Beluu er a Belau",
+                "common": "Belau"
+            }
         },
         "languages": ["English", "Palauan"],
         "currency": {
@@ -8063,6 +9565,20 @@
             "areaKm2": 462840,
             "borders": ["IDN"]
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Independent State of Papua New Guinea",
+                "common": "Papua New Guinea"
+            },
+            "hmo": {
+                "official": "Independen Stet bilong Papua Niugini",
+                "common": "Papua Niu Gini"
+            },
+            "tpi": {
+                "official": "Independen Stet bilong Papua Niugini",
+                "common": "Papua Niugini"
+            }
+        },
         "languages": ["English", "Hiri Motu", "Tok Pisin"],
         "currency": {
             "code": "PGK",
@@ -8108,6 +9624,12 @@
             "areaKm2": 312679,
             "borders": ["BLR", "CZE", "DEU", "LTU", "RUS", "SVK", "UKR"]
         },
+        "nativeNames": {
+            "pol": {
+                "official": "Rzeczpospolita Polska",
+                "common": "Polska"
+            }
+        },
         "languages": ["Polish"],
         "currency": {
             "code": "PLN",
@@ -8151,6 +9673,16 @@
             "continent": "Americas",
             "landlocked": false,
             "areaKm2": 8870
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Commonwealth of Puerto Rico",
+                "common": "Puerto Rico"
+            },
+            "spa": {
+                "official": "Estado Libre Asociado de Puerto Rico",
+                "common": "Puerto Rico"
+            }
         },
         "languages": ["English", "Spanish"],
         "currency": {
@@ -8197,6 +9729,12 @@
             "areaKm2": 120538,
             "borders": ["CHN", "KOR", "RUS"]
         },
+        "nativeNames": {
+            "kor": {
+                "official": "조선민주주의인민공화국",
+                "common": "조선"
+            }
+        },
         "languages": ["Korean"],
         "currency": {
             "code": "KPW",
@@ -8241,6 +9779,12 @@
             "landlocked": false,
             "areaKm2": 92090,
             "borders": ["ESP"]
+        },
+        "nativeNames": {
+            "por": {
+                "official": "República português",
+                "common": "Portugal"
+            }
         },
         "languages": ["Portuguese"],
         "currency": {
@@ -8287,6 +9831,16 @@
             "areaKm2": 406752,
             "borders": ["ARG", "BOL", "BRA"]
         },
+        "nativeNames": {
+            "grn": {
+                "official": "Tetã Paraguái",
+                "common": "Paraguái"
+            },
+            "spa": {
+                "official": "República de Paraguay",
+                "common": "Paraguay"
+            }
+        },
         "languages": ["Guaraní", "Spanish"],
         "currency": {
             "code": "PYG",
@@ -8332,6 +9886,12 @@
             "areaKm2": 6220,
             "borders": ["ISR", "EGY", "JOR"]
         },
+        "nativeNames": {
+            "ara": {
+                "official": "دولة فلسطين",
+                "common": "فلسطين"
+            }
+        },
         "languages": ["Arabic"],
         "currency": {
             "code": "EGP",
@@ -8375,6 +9935,12 @@
             "continent": "Oceania",
             "landlocked": false,
             "areaKm2": 4167
+        },
+        "nativeNames": {
+            "fra": {
+                "official": "Polynésie française",
+                "common": "Polynésie française"
+            }
         },
         "languages": ["French"],
         "currency": {
@@ -8421,6 +9987,12 @@
             "areaKm2": 11586,
             "borders": ["SAU"]
         },
+        "nativeNames": {
+            "ara": {
+                "official": "دولة قطر",
+                "common": "قطر"
+            }
+        },
         "languages": ["Arabic"],
         "currency": {
             "code": "QAR",
@@ -8464,6 +10036,12 @@
             "continent": "Africa",
             "landlocked": false,
             "areaKm2": 2511
+        },
+        "nativeNames": {
+            "fra": {
+                "official": "Ile de la Réunion",
+                "common": "La Réunion"
+            }
         },
         "languages": ["French"],
         "currency": {
@@ -8509,6 +10087,12 @@
             "landlocked": false,
             "areaKm2": 238391,
             "borders": ["BGR", "HUN", "MDA", "SRB", "UKR"]
+        },
+        "nativeNames": {
+            "ron": {
+                "official": "România",
+                "common": "România"
+            }
         },
         "languages": ["Romanian"],
         "currency": {
@@ -8570,6 +10154,12 @@
                 "UKR"
             ]
         },
+        "nativeNames": {
+            "rus": {
+                "official": "Российская Федерация",
+                "common": "Россия"
+            }
+        },
         "languages": ["Russian"],
         "currency": {
             "code": "RUB",
@@ -8614,6 +10204,20 @@
             "landlocked": true,
             "areaKm2": 26338,
             "borders": ["BDI", "COD", "TZA", "UGA"]
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Republic of Rwanda",
+                "common": "Rwanda"
+            },
+            "fra": {
+                "official": "République rwandaise",
+                "common": "Rwanda"
+            },
+            "kin": {
+                "official": "Repubulika y'u Rwanda",
+                "common": "Rwanda"
+            }
         },
         "languages": ["English", "French", "Kinyarwanda"],
         "currency": {
@@ -8660,6 +10264,12 @@
             "areaKm2": 2149690,
             "borders": ["IRQ", "JOR", "KWT", "OMN", "QAT", "ARE", "YEM"]
         },
+        "nativeNames": {
+            "ara": {
+                "official": "المملكة العربية السعودية",
+                "common": "السعودية"
+            }
+        },
         "languages": ["Arabic"],
         "currency": {
             "code": "SAR",
@@ -8704,6 +10314,16 @@
             "landlocked": false,
             "areaKm2": 1886068,
             "borders": ["CAF", "TCD", "EGY", "ERI", "ETH", "LBY", "SSD"]
+        },
+        "nativeNames": {
+            "ara": {
+                "official": "جمهورية السودان",
+                "common": "السودان"
+            },
+            "eng": {
+                "official": "Republic of the Sudan",
+                "common": "Sudan"
+            }
         },
         "languages": ["Arabic", "English"],
         "currency": {
@@ -8750,6 +10370,12 @@
             "areaKm2": 196722,
             "borders": ["GMB", "GIN", "GNB", "MLI", "MRT"]
         },
+        "nativeNames": {
+            "fra": {
+                "official": "République du Sénégal",
+                "common": "Sénégal"
+            }
+        },
         "languages": ["French"],
         "currency": {
             "code": "XOF",
@@ -8793,6 +10419,24 @@
             "continent": "Asia",
             "landlocked": false,
             "areaKm2": 710
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Republic of Singapore",
+                "common": "Singapore"
+            },
+            "msa": {
+                "official": "Republik Singapura",
+                "common": "Singapura"
+            },
+            "tam": {
+                "official": "சிங்கப்பூர் குடியரசு",
+                "common": "சிங்கப்பூர்"
+            },
+            "zho": {
+                "official": "新加坡共和国",
+                "common": "新加坡"
+            }
         },
         "languages": ["English", "Malay", "Tamil", "Chinese"],
         "currency": {
@@ -8838,6 +10482,12 @@
             "landlocked": false,
             "areaKm2": 3903
         },
+        "nativeNames": {
+            "eng": {
+                "official": "South Georgia and the South Sandwich Islands",
+                "common": "South Georgia"
+            }
+        },
         "languages": ["English"],
         "currency": {
             "code": "SHP",
@@ -8882,6 +10532,12 @@
             "landlocked": false,
             "areaKm2": -1
         },
+        "nativeNames": {
+            "nor": {
+                "official": "Svalbard og Jan Mayen",
+                "common": "Svalbard og Jan Mayen"
+            }
+        },
         "languages": ["Norwegian"],
         "currency": {
             "code": "NOK",
@@ -8925,6 +10581,12 @@
             "continent": "Oceania",
             "landlocked": false,
             "areaKm2": 28896
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Solomon Islands",
+                "common": "Solomon Islands"
+            }
         },
         "languages": ["English"],
         "currency": {
@@ -8971,6 +10633,12 @@
             "areaKm2": 71740,
             "borders": ["GIN", "LBR"]
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Republic of Sierra Leone",
+                "common": "Sierra Leone"
+            }
+        },
         "languages": ["English"],
         "currency": {
             "code": "SLL",
@@ -9015,6 +10683,12 @@
             "landlocked": false,
             "areaKm2": 21041,
             "borders": ["GTM", "HND"]
+        },
+        "nativeNames": {
+            "spa": {
+                "official": "República de El Salvador",
+                "common": "El Salvador"
+            }
         },
         "languages": ["Spanish"],
         "currency": {
@@ -9061,6 +10735,12 @@
             "areaKm2": 61,
             "borders": ["ITA"]
         },
+        "nativeNames": {
+            "ita": {
+                "official": "Serenissima Repubblica di San Marino",
+                "common": "San Marino"
+            }
+        },
         "languages": ["Italian"],
         "currency": {
             "code": "EUR",
@@ -9106,6 +10786,16 @@
             "areaKm2": 637657,
             "borders": ["DJI", "ETH", "KEN"]
         },
+        "nativeNames": {
+            "ara": {
+                "official": "جمهورية الصومال الفيدرالية",
+                "common": "الصومال"
+            },
+            "som": {
+                "official": "Jamhuuriyadda Federaalka Soomaaliya",
+                "common": "Soomaaliya"
+            }
+        },
         "languages": ["Arabic", "Somali"],
         "currency": {
             "code": "SOS",
@@ -9149,6 +10839,12 @@
             "continent": "Americas",
             "landlocked": false,
             "areaKm2": 242
+        },
+        "nativeNames": {
+            "fra": {
+                "official": "Collectivité territoriale de Saint-Pierre-et-Miquelon",
+                "common": "Saint-Pierre-et-Miquelon"
+            }
         },
         "languages": ["French"],
         "currency": {
@@ -9195,6 +10891,12 @@
             "areaKm2": 88361,
             "borders": ["BIH", "BGR", "HRV", "HUN", "UNK", "MKD", "MNE", "ROU"]
         },
+        "nativeNames": {
+            "srp": {
+                "official": "Република Србија",
+                "common": "Србија"
+            }
+        },
         "languages": ["Serbian"],
         "currency": {
             "code": "RSD",
@@ -9240,6 +10942,12 @@
             "areaKm2": 619745,
             "borders": ["CAF", "COD", "ETH", "KEN", "SDN", "UGA"]
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Republic of South Sudan",
+                "common": "South Sudan"
+            }
+        },
         "languages": ["English"],
         "currency": {
             "code": "SSP",
@@ -9283,6 +10991,12 @@
             "continent": "Africa",
             "landlocked": false,
             "areaKm2": 964
+        },
+        "nativeNames": {
+            "por": {
+                "official": "República Democrática do São Tomé e Príncipe",
+                "common": "São Tomé e Príncipe"
+            }
         },
         "languages": ["Portuguese"],
         "currency": {
@@ -9329,6 +11043,12 @@
             "areaKm2": 163820,
             "borders": ["BRA", "GUF", "GUY"]
         },
+        "nativeNames": {
+            "nld": {
+                "official": "Republiek Suriname",
+                "common": "Suriname"
+            }
+        },
         "languages": ["Dutch"],
         "currency": {
             "code": "SRD",
@@ -9373,6 +11093,12 @@
             "landlocked": true,
             "areaKm2": 49037,
             "borders": ["AUT", "CZE", "HUN", "POL", "UKR"]
+        },
+        "nativeNames": {
+            "slk": {
+                "official": "Slovenská republika",
+                "common": "Slovensko"
+            }
         },
         "languages": ["Slovak"],
         "currency": {
@@ -9419,6 +11145,12 @@
             "areaKm2": 20273,
             "borders": ["AUT", "HRV", "ITA", "HUN"]
         },
+        "nativeNames": {
+            "slv": {
+                "official": "Republika Slovenija",
+                "common": "Slovenija"
+            }
+        },
         "languages": ["Slovene"],
         "currency": {
             "code": "EUR",
@@ -9463,6 +11195,12 @@
             "landlocked": false,
             "areaKm2": 450295,
             "borders": ["FIN", "NOR"]
+        },
+        "nativeNames": {
+            "swe": {
+                "official": "Konungariket Sverige",
+                "common": "Sverige"
+            }
         },
         "languages": ["Swedish"],
         "currency": {
@@ -9509,6 +11247,16 @@
             "areaKm2": 17364,
             "borders": ["MOZ", "ZAF"]
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Kingdom of Eswatini",
+                "common": "Eswatini"
+            },
+            "ssw": {
+                "official": "Umbuso weSwatini",
+                "common": "eSwatini"
+            }
+        },
         "languages": ["English", "Swazi"],
         "currency": {
             "code": "SZL",
@@ -9554,6 +11302,20 @@
             "areaKm2": 34,
             "borders": ["MAF"]
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Sint Maarten",
+                "common": "Sint Maarten"
+            },
+            "fra": {
+                "official": "Saint-Martin",
+                "common": "Saint-Martin"
+            },
+            "nld": {
+                "official": "Sint Maarten",
+                "common": "Sint Maarten"
+            }
+        },
         "languages": ["English", "French", "Dutch"],
         "currency": {
             "code": "ANG",
@@ -9597,6 +11359,20 @@
             "continent": "Africa",
             "landlocked": false,
             "areaKm2": 452
+        },
+        "nativeNames": {
+            "crs": {
+                "official": "Repiblik Sesel",
+                "common": "Sesel"
+            },
+            "eng": {
+                "official": "Republic of Seychelles",
+                "common": "Seychelles"
+            },
+            "fra": {
+                "official": "République des Seychelles",
+                "common": "Seychelles"
+            }
         },
         "languages": ["Seychellois Creole", "English", "French"],
         "currency": {
@@ -9643,6 +11419,12 @@
             "areaKm2": 185180,
             "borders": ["IRQ", "ISR", "JOR", "LBN", "TUR"]
         },
+        "nativeNames": {
+            "ara": {
+                "official": "الجمهورية العربية السورية",
+                "common": "سوريا"
+            }
+        },
         "languages": ["Arabic"],
         "currency": {
             "code": "SYP",
@@ -9686,6 +11468,12 @@
             "continent": "Americas",
             "landlocked": false,
             "areaKm2": 948
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Turks and Caicos Islands",
+                "common": "Turks and Caicos Islands"
+            }
         },
         "languages": ["English"],
         "currency": {
@@ -9732,6 +11520,16 @@
             "areaKm2": 1284000,
             "borders": ["CMR", "CAF", "LBY", "NER", "NGA", "SDN"]
         },
+        "nativeNames": {
+            "ara": {
+                "official": "جمهورية تشاد",
+                "common": "تشاد"
+            },
+            "fra": {
+                "official": "République du Tchad",
+                "common": "Tchad"
+            }
+        },
         "languages": ["Arabic", "French"],
         "currency": {
             "code": "XAF",
@@ -9776,6 +11574,12 @@
             "landlocked": false,
             "areaKm2": 56785,
             "borders": ["BEN", "BFA", "GHA"]
+        },
+        "nativeNames": {
+            "fra": {
+                "official": "République togolaise",
+                "common": "Togo"
+            }
         },
         "languages": ["French"],
         "currency": {
@@ -9822,6 +11626,12 @@
             "areaKm2": 513120,
             "borders": ["MMR", "KHM", "LAO", "MYS"]
         },
+        "nativeNames": {
+            "tha": {
+                "official": "ราชอาณาจักรไทย",
+                "common": "ประเทศไทย"
+            }
+        },
         "languages": ["Thai"],
         "currency": {
             "code": "THB",
@@ -9867,6 +11677,16 @@
             "areaKm2": 143100,
             "borders": ["AFG", "CHN", "KGZ", "UZB"]
         },
+        "nativeNames": {
+            "rus": {
+                "official": "Республика Таджикистан",
+                "common": "Таджикистан"
+            },
+            "tgk": {
+                "official": "Ҷумҳурии Тоҷикистон",
+                "common": "Тоҷикистон"
+            }
+        },
         "languages": ["Russian", "Tajik"],
         "currency": {
             "code": "TJS",
@@ -9910,6 +11730,20 @@
             "continent": "Oceania",
             "landlocked": false,
             "areaKm2": 12
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Tokelau",
+                "common": "Tokelau"
+            },
+            "smo": {
+                "official": "Tokelau",
+                "common": "Tokelau"
+            },
+            "tkl": {
+                "official": "Tokelau",
+                "common": "Tokelau"
+            }
         },
         "languages": ["English", "Samoan", "Tokelauan"],
         "currency": {
@@ -9956,6 +11790,16 @@
             "areaKm2": 488100,
             "borders": ["AFG", "IRN", "KAZ", "UZB"]
         },
+        "nativeNames": {
+            "rus": {
+                "official": "Туркменистан",
+                "common": "Туркмения"
+            },
+            "tuk": {
+                "official": "Türkmenistan",
+                "common": "Türkmenistan"
+            }
+        },
         "languages": ["Russian", "Turkmen"],
         "currency": {
             "code": "TMT",
@@ -10001,6 +11845,16 @@
             "areaKm2": 14874,
             "borders": ["IDN"]
         },
+        "nativeNames": {
+            "por": {
+                "official": "República Democrática de Timor-Leste",
+                "common": "Timor-Leste"
+            },
+            "tet": {
+                "official": "Repúblika Demokrátika Timór-Leste",
+                "common": "Timór-Leste"
+            }
+        },
         "languages": ["Portuguese", "Tetum"],
         "currency": {
             "code": "USD",
@@ -10045,6 +11899,16 @@
             "landlocked": false,
             "areaKm2": 747
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Kingdom of Tonga",
+                "common": "Tonga"
+            },
+            "ton": {
+                "official": "Kingdom of Tonga",
+                "common": "Tonga"
+            }
+        },
         "languages": ["English", "Tongan"],
         "currency": {
             "code": "TOP",
@@ -10088,6 +11952,12 @@
             "continent": "Americas",
             "landlocked": false,
             "areaKm2": 5130
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Republic of Trinidad and Tobago",
+                "common": "Trinidad and Tobago"
+            }
         },
         "languages": ["English"],
         "currency": {
@@ -10134,6 +12004,12 @@
             "areaKm2": 163610,
             "borders": ["DZA", "LBY"]
         },
+        "nativeNames": {
+            "ara": {
+                "official": "الجمهورية التونسية",
+                "common": "تونس"
+            }
+        },
         "languages": ["Arabic"],
         "currency": {
             "code": "TND",
@@ -10179,6 +12055,12 @@
             "areaKm2": 783562,
             "borders": ["ARM", "AZE", "BGR", "GEO", "GRC", "IRN", "IRQ", "SYR"]
         },
+        "nativeNames": {
+            "tur": {
+                "official": "Türkiye Cumhuriyeti",
+                "common": "Türkiye"
+            }
+        },
         "languages": ["Turkish"],
         "currency": {
             "code": "TRY",
@@ -10223,6 +12105,16 @@
             "landlocked": false,
             "areaKm2": 26
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Tuvalu",
+                "common": "Tuvalu"
+            },
+            "tvl": {
+                "official": "Tuvalu",
+                "common": "Tuvalu"
+            }
+        },
         "languages": ["English", "Tuvaluan"],
         "currency": {
             "code": "AUD",
@@ -10266,6 +12158,12 @@
             "continent": "Asia",
             "landlocked": false,
             "areaKm2": 36193
+        },
+        "nativeNames": {
+            "zho": {
+                "official": "中華民國",
+                "common": "台灣"
+            }
         },
         "languages": ["Chinese"],
         "currency": {
@@ -10312,6 +12210,16 @@
             "areaKm2": 945087,
             "borders": ["BDI", "COD", "KEN", "MWI", "MOZ", "RWA", "UGA", "ZMB"]
         },
+        "nativeNames": {
+            "eng": {
+                "official": "United Republic of Tanzania",
+                "common": "Tanzania"
+            },
+            "swa": {
+                "official": "Jamhuri ya Muungano wa Tanzania",
+                "common": "Tanzania"
+            }
+        },
         "languages": ["English", "Swahili"],
         "currency": {
             "code": "TZS",
@@ -10356,6 +12264,16 @@
             "landlocked": true,
             "areaKm2": 241550,
             "borders": ["COD", "KEN", "RWA", "SSD", "TZA"]
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Republic of Uganda",
+                "common": "Uganda"
+            },
+            "swa": {
+                "official": "Republic of Uganda",
+                "common": "Uganda"
+            }
         },
         "languages": ["English", "Swahili"],
         "currency": {
@@ -10402,6 +12320,12 @@
             "areaKm2": 603500,
             "borders": ["BLR", "HUN", "MDA", "POL", "ROU", "RUS", "SVK"]
         },
+        "nativeNames": {
+            "ukr": {
+                "official": "Україна",
+                "common": "Україна"
+            }
+        },
         "languages": ["Ukrainian"],
         "currency": {
             "code": "UAH",
@@ -10444,6 +12368,12 @@
             "continent": "Americas",
             "landlocked": false,
             "areaKm2": 34.2
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "United States Minor Outlying Islands",
+                "common": "United States Minor Outlying Islands"
+            }
         },
         "languages": ["English"],
         "currency": {
@@ -10490,6 +12420,12 @@
             "areaKm2": 181034,
             "borders": ["ARG", "BRA"]
         },
+        "nativeNames": {
+            "spa": {
+                "official": "República Oriental del Uruguay",
+                "common": "Uruguay"
+            }
+        },
         "languages": ["Spanish"],
         "currency": {
             "code": "UYU",
@@ -10534,6 +12470,12 @@
             "landlocked": false,
             "areaKm2": 9372610,
             "borders": ["CAN", "MEX"]
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "United States of America",
+                "common": "United States"
+            }
         },
         "languages": ["English"],
         "currency": {
@@ -10580,6 +12522,16 @@
             "areaKm2": 447400,
             "borders": ["AFG", "KAZ", "KGZ", "TJK", "TKM"]
         },
+        "nativeNames": {
+            "rus": {
+                "official": "Республика Узбекистан",
+                "common": "Узбекистан"
+            },
+            "uzb": {
+                "official": "O'zbekiston Respublikasi",
+                "common": "O‘zbekiston"
+            }
+        },
         "languages": ["Russian", "Uzbek"],
         "currency": {
             "code": "UZS",
@@ -10625,6 +12577,16 @@
             "areaKm2": 0.44,
             "borders": ["ITA"]
         },
+        "nativeNames": {
+            "ita": {
+                "official": "Stato della Città del Vaticano",
+                "common": "Vaticano"
+            },
+            "lat": {
+                "official": "Status Civitatis Vaticanæ",
+                "common": "Vaticanæ"
+            }
+        },
         "languages": ["Italian", "Latin"],
         "currency": {
             "code": "EUR",
@@ -10668,6 +12630,12 @@
             "continent": "Americas",
             "landlocked": false,
             "areaKm2": 389
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Saint Vincent and the Grenadines",
+                "common": "Saint Vincent and the Grenadines"
+            }
         },
         "languages": ["English"],
         "currency": {
@@ -10714,6 +12682,12 @@
             "areaKm2": 916445,
             "borders": ["BRA", "COL", "GUY"]
         },
+        "nativeNames": {
+            "spa": {
+                "official": "República Bolivariana de Venezuela",
+                "common": "Venezuela"
+            }
+        },
         "languages": ["Spanish"],
         "currency": {
             "code": "VES",
@@ -10758,6 +12732,12 @@
             "landlocked": false,
             "areaKm2": 151
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Virgin Islands",
+                "common": "British Virgin Islands"
+            }
+        },
         "languages": ["English"],
         "currency": {
             "code": "USD",
@@ -10801,6 +12781,12 @@
             "continent": "Americas",
             "landlocked": false,
             "areaKm2": 347
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Virgin Islands of the United States",
+                "common": "United States Virgin Islands"
+            }
         },
         "languages": ["English"],
         "currency": {
@@ -10847,6 +12833,12 @@
             "areaKm2": 331212,
             "borders": ["KHM", "CHN", "LAO"]
         },
+        "nativeNames": {
+            "vie": {
+                "official": "Cộng hòa xã hội chủ nghĩa Việt Nam",
+                "common": "Việt Nam"
+            }
+        },
         "languages": ["Vietnamese"],
         "currency": {
             "code": "VND",
@@ -10890,6 +12882,20 @@
             "continent": "Oceania",
             "landlocked": false,
             "areaKm2": 12189
+        },
+        "nativeNames": {
+            "bis": {
+                "official": "Ripablik blong Vanuatu",
+                "common": "Vanuatu"
+            },
+            "eng": {
+                "official": "Republic of Vanuatu",
+                "common": "Vanuatu"
+            },
+            "fra": {
+                "official": "République de Vanuatu",
+                "common": "Vanuatu"
+            }
         },
         "languages": ["Bislama", "English", "French"],
         "currency": {
@@ -10935,6 +12941,12 @@
             "landlocked": false,
             "areaKm2": 142
         },
+        "nativeNames": {
+            "fra": {
+                "official": "Territoire des îles Wallis et Futuna",
+                "common": "Wallis et Futuna"
+            }
+        },
         "languages": ["French"],
         "currency": {
             "code": "XPF",
@@ -10978,6 +12990,16 @@
             "continent": "Oceania",
             "landlocked": false,
             "areaKm2": 2842
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Independent State of Samoa",
+                "common": "Samoa"
+            },
+            "smo": {
+                "official": "Malo Saʻoloto Tutoʻatasi o Sāmoa",
+                "common": "Sāmoa"
+            }
         },
         "languages": ["English", "Samoan"],
         "currency": {
@@ -11024,6 +13046,12 @@
             "areaKm2": 527968,
             "borders": ["OMN", "SAU"]
         },
+        "nativeNames": {
+            "ara": {
+                "official": "الجمهورية اليمنية",
+                "common": "اليمن"
+            }
+        },
         "languages": ["Arabic"],
         "currency": {
             "code": "YER",
@@ -11068,6 +13096,52 @@
             "landlocked": false,
             "areaKm2": 1221037,
             "borders": ["BWA", "LSO", "MOZ", "NAM", "SWZ", "ZWE"]
+        },
+        "nativeNames": {
+            "afr": {
+                "official": "Republiek van Suid-Afrika",
+                "common": "South Africa"
+            },
+            "eng": {
+                "official": "Republic of South Africa",
+                "common": "South Africa"
+            },
+            "nbl": {
+                "official": "IRiphabliki yeSewula Afrika",
+                "common": "Sewula Afrika"
+            },
+            "nso": {
+                "official": "Rephaboliki ya Afrika-Borwa ",
+                "common": "Afrika-Borwa"
+            },
+            "sot": {
+                "official": "Rephaboliki ya Afrika Borwa",
+                "common": "Afrika Borwa"
+            },
+            "ssw": {
+                "official": "IRiphabhulikhi yeNingizimu Afrika",
+                "common": "Ningizimu Afrika"
+            },
+            "tsn": {
+                "official": "Rephaboliki ya Aforika Borwa",
+                "common": "Aforika Borwa"
+            },
+            "tso": {
+                "official": "Riphabliki ra Afrika Dzonga",
+                "common": "Afrika Dzonga"
+            },
+            "ven": {
+                "official": "Riphabuḽiki ya Afurika Tshipembe",
+                "common": "Afurika Tshipembe"
+            },
+            "xho": {
+                "official": "IRiphabliki yaseMzantsi Afrika",
+                "common": "Mzantsi Afrika"
+            },
+            "zul": {
+                "official": "IRiphabliki yaseNingizimu Afrika",
+                "common": "Ningizimu Afrika"
+            }
         },
         "languages": [
             "Afrikaans",
@@ -11126,6 +13200,12 @@
             "areaKm2": 752612,
             "borders": ["AGO", "BWA", "COD", "MWI", "MOZ", "NAM", "TZA", "ZWE"]
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Republic of Zambia",
+                "common": "Zambia"
+            }
+        },
         "languages": ["English"],
         "currency": {
             "code": "ZMW",
@@ -11170,6 +13250,68 @@
             "landlocked": true,
             "areaKm2": 390757,
             "borders": ["BWA", "MOZ", "ZAF", "ZMB"]
+        },
+        "nativeNames": {
+            "bwg": {
+                "official": "Republic of Zimbabwe",
+                "common": "Zimbabwe"
+            },
+            "eng": {
+                "official": "Republic of Zimbabwe",
+                "common": "Zimbabwe"
+            },
+            "kck": {
+                "official": "Republic of Zimbabwe",
+                "common": "Zimbabwe"
+            },
+            "khi": {
+                "official": "Republic of Zimbabwe",
+                "common": "Zimbabwe"
+            },
+            "ndc": {
+                "official": "Republic of Zimbabwe",
+                "common": "Zimbabwe"
+            },
+            "nde": {
+                "official": "Republic of Zimbabwe",
+                "common": "Zimbabwe"
+            },
+            "nya": {
+                "official": "Republic of Zimbabwe",
+                "common": "Zimbabwe"
+            },
+            "sna": {
+                "official": "Republic of Zimbabwe",
+                "common": "Zimbabwe"
+            },
+            "sot": {
+                "official": "Republic of Zimbabwe",
+                "common": "Zimbabwe"
+            },
+            "toi": {
+                "official": "Republic of Zimbabwe",
+                "common": "Zimbabwe"
+            },
+            "tsn": {
+                "official": "Republic of Zimbabwe",
+                "common": "Zimbabwe"
+            },
+            "tso": {
+                "official": "Republic of Zimbabwe",
+                "common": "Zimbabwe"
+            },
+            "ven": {
+                "official": "Republic of Zimbabwe",
+                "common": "Zimbabwe"
+            },
+            "xho": {
+                "official": "Republic of Zimbabwe",
+                "common": "Zimbabwe"
+            },
+            "zib": {
+                "official": "Republic of Zimbabwe",
+                "common": "Zimbabwe"
+            }
         },
         "languages": [
             "Chibarwe",
