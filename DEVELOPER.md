@@ -268,7 +268,7 @@ When you clone this repository, the flag SVG files are **NOT** included in Git (
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/country-atlas.git
+git clone https://github.com/prathinsajith/country-atlas.git
 cd country-atlas
 
 # Install dependencies
