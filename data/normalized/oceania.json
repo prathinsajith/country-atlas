@@ -26,6 +26,16 @@
             "landlocked": false,
             "areaKm2": 199
         },
+        "nativeNames": {
+            "eng": {
+                "official": "American Samoa",
+                "common": "American Samoa"
+            },
+            "smo": {
+                "official": "Sāmoa Amelika",
+                "common": "Sāmoa Amelika"
+            }
+        },
         "languages": ["English", "Samoan"],
         "currency": {
             "code": "USD",
@@ -69,6 +79,12 @@
             "continent": "Oceania",
             "landlocked": false,
             "areaKm2": 7692024
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Commonwealth of Australia",
+                "common": "Australia"
+            }
         },
         "languages": ["English"],
         "currency": {
@@ -114,6 +130,12 @@
             "landlocked": false,
             "areaKm2": 14
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Territory of the Cocos (Keeling) Islands",
+                "common": "Cocos (Keeling) Islands"
+            }
+        },
         "languages": ["English"],
         "currency": {
             "code": "AUD",
@@ -157,6 +179,16 @@
             "continent": "Oceania",
             "landlocked": false,
             "areaKm2": 236
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Cook Islands",
+                "common": "Cook Islands"
+            },
+            "rar": {
+                "official": "Kūki 'Āirani",
+                "common": "Kūki 'Āirani"
+            }
         },
         "languages": ["English", "Cook Islands Māori"],
         "currency": {
@@ -202,6 +234,12 @@
             "landlocked": false,
             "areaKm2": 135
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Territory of Christmas Island",
+                "common": "Christmas Island"
+            }
+        },
         "languages": ["English"],
         "currency": {
             "code": "AUD",
@@ -245,6 +283,20 @@
             "continent": "Oceania",
             "landlocked": false,
             "areaKm2": 18272
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Republic of Fiji",
+                "common": "Fiji"
+            },
+            "fij": {
+                "official": "Matanitu Tugalala o Viti",
+                "common": "Viti"
+            },
+            "hif": {
+                "official": "रिपब्लिक ऑफ फीजी",
+                "common": "फिजी"
+            }
         },
         "languages": ["English", "Fijian", "Fiji Hindi"],
         "currency": {
@@ -290,6 +342,12 @@
             "landlocked": false,
             "areaKm2": 702
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Federated States of Micronesia",
+                "common": "Micronesia"
+            }
+        },
         "languages": ["English"],
         "callingCode": "+691",
         "flag": {
@@ -328,6 +386,20 @@
             "continent": "Oceania",
             "landlocked": false,
             "areaKm2": 549
+        },
+        "nativeNames": {
+            "cha": {
+                "official": "Guåhån",
+                "common": "Guåhån"
+            },
+            "eng": {
+                "official": "Guam",
+                "common": "Guam"
+            },
+            "spa": {
+                "official": "Guam",
+                "common": "Guam"
+            }
         },
         "languages": ["Chamorro", "English", "Spanish"],
         "currency": {
@@ -373,6 +445,16 @@
             "landlocked": false,
             "areaKm2": 811
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Independent and Sovereign Republic of Kiribati",
+                "common": "Kiribati"
+            },
+            "gil": {
+                "official": "Ribaberiki Kiribati",
+                "common": "Kiribati"
+            }
+        },
         "languages": ["English", "Gilbertese"],
         "currency": {
             "code": "AUD",
@@ -416,6 +498,16 @@
             "continent": "Oceania",
             "landlocked": false,
             "areaKm2": 181
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Republic of the Marshall Islands",
+                "common": "Marshall Islands"
+            },
+            "mah": {
+                "official": "Republic of the Marshall Islands",
+                "common": "M̧ajeļ"
+            }
         },
         "languages": ["English", "Marshallese"],
         "currency": {
@@ -461,6 +553,20 @@
             "landlocked": false,
             "areaKm2": 464
         },
+        "nativeNames": {
+            "cal": {
+                "official": "Commonwealth of the Northern Mariana Islands",
+                "common": "Northern Mariana Islands"
+            },
+            "cha": {
+                "official": "Sankattan Siha Na Islas Mariånas",
+                "common": "Na Islas Mariånas"
+            },
+            "eng": {
+                "official": "Commonwealth of the Northern Mariana Islands",
+                "common": "Northern Mariana Islands"
+            }
+        },
         "languages": ["Carolinian", "Chamorro", "English"],
         "currency": {
             "code": "USD",
@@ -504,6 +610,12 @@
             "continent": "Oceania",
             "landlocked": false,
             "areaKm2": 18575
+        },
+        "nativeNames": {
+            "fra": {
+                "official": "Nouvelle-Calédonie",
+                "common": "Nouvelle-Calédonie"
+            }
         },
         "languages": ["French"],
         "currency": {
@@ -549,6 +661,16 @@
             "landlocked": false,
             "areaKm2": 36
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Territory of Norfolk Island",
+                "common": "Norfolk Island"
+            },
+            "pih": {
+                "official": "Teratri of Norf'k Ailen",
+                "common": "Norf'k Ailen"
+            }
+        },
         "languages": ["English", "Norfuk"],
         "currency": {
             "code": "AUD",
@@ -592,6 +714,16 @@
             "continent": "Oceania",
             "landlocked": false,
             "areaKm2": 260
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Niue",
+                "common": "Niue"
+            },
+            "niu": {
+                "official": "Niuē",
+                "common": "Niuē"
+            }
         },
         "languages": ["English", "Niuean"],
         "currency": {
@@ -637,6 +769,16 @@
             "landlocked": false,
             "areaKm2": 21
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Republic of Nauru",
+                "common": "Nauru"
+            },
+            "nau": {
+                "official": "Republic of Nauru",
+                "common": "Nauru"
+            }
+        },
         "languages": ["English", "Nauru"],
         "currency": {
             "code": "AUD",
@@ -680,6 +822,20 @@
             "continent": "Oceania",
             "landlocked": false,
             "areaKm2": 270467
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "New Zealand",
+                "common": "New Zealand"
+            },
+            "mri": {
+                "official": "Aotearoa",
+                "common": "Aotearoa"
+            },
+            "nzs": {
+                "official": "New Zealand",
+                "common": "New Zealand"
+            }
         },
         "languages": ["English", "Māori", "New Zealand Sign Language"],
         "currency": {
@@ -725,6 +881,12 @@
             "landlocked": false,
             "areaKm2": 47
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Pitcairn Group of Islands",
+                "common": "Pitcairn Islands"
+            }
+        },
         "languages": ["English"],
         "currency": {
             "code": "NZD",
@@ -768,6 +930,16 @@
             "continent": "Oceania",
             "landlocked": false,
             "areaKm2": 459
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Republic of Palau",
+                "common": "Palau"
+            },
+            "pau": {
+                "official": "Beluu er a Belau",
+                "common": "Belau"
+            }
         },
         "languages": ["English", "Palauan"],
         "currency": {
@@ -814,6 +986,20 @@
             "areaKm2": 462840,
             "borders": ["IDN"]
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Independent State of Papua New Guinea",
+                "common": "Papua New Guinea"
+            },
+            "hmo": {
+                "official": "Independen Stet bilong Papua Niugini",
+                "common": "Papua Niu Gini"
+            },
+            "tpi": {
+                "official": "Independen Stet bilong Papua Niugini",
+                "common": "Papua Niugini"
+            }
+        },
         "languages": ["English", "Hiri Motu", "Tok Pisin"],
         "currency": {
             "code": "PGK",
@@ -857,6 +1043,12 @@
             "continent": "Oceania",
             "landlocked": false,
             "areaKm2": 4167
+        },
+        "nativeNames": {
+            "fra": {
+                "official": "Polynésie française",
+                "common": "Polynésie française"
+            }
         },
         "languages": ["French"],
         "currency": {
@@ -902,6 +1094,12 @@
             "landlocked": false,
             "areaKm2": 28896
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Solomon Islands",
+                "common": "Solomon Islands"
+            }
+        },
         "languages": ["English"],
         "currency": {
             "code": "SBD",
@@ -945,6 +1143,20 @@
             "continent": "Oceania",
             "landlocked": false,
             "areaKm2": 12
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Tokelau",
+                "common": "Tokelau"
+            },
+            "smo": {
+                "official": "Tokelau",
+                "common": "Tokelau"
+            },
+            "tkl": {
+                "official": "Tokelau",
+                "common": "Tokelau"
+            }
         },
         "languages": ["English", "Samoan", "Tokelauan"],
         "currency": {
@@ -990,6 +1202,16 @@
             "landlocked": false,
             "areaKm2": 747
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Kingdom of Tonga",
+                "common": "Tonga"
+            },
+            "ton": {
+                "official": "Kingdom of Tonga",
+                "common": "Tonga"
+            }
+        },
         "languages": ["English", "Tongan"],
         "currency": {
             "code": "TOP",
@@ -1033,6 +1255,16 @@
             "continent": "Oceania",
             "landlocked": false,
             "areaKm2": 26
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Tuvalu",
+                "common": "Tuvalu"
+            },
+            "tvl": {
+                "official": "Tuvalu",
+                "common": "Tuvalu"
+            }
         },
         "languages": ["English", "Tuvaluan"],
         "currency": {
@@ -1078,6 +1310,20 @@
             "landlocked": false,
             "areaKm2": 12189
         },
+        "nativeNames": {
+            "bis": {
+                "official": "Ripablik blong Vanuatu",
+                "common": "Vanuatu"
+            },
+            "eng": {
+                "official": "Republic of Vanuatu",
+                "common": "Vanuatu"
+            },
+            "fra": {
+                "official": "République de Vanuatu",
+                "common": "Vanuatu"
+            }
+        },
         "languages": ["Bislama", "English", "French"],
         "currency": {
             "code": "VUV",
@@ -1122,6 +1368,12 @@
             "landlocked": false,
             "areaKm2": 142
         },
+        "nativeNames": {
+            "fra": {
+                "official": "Territoire des îles Wallis et Futuna",
+                "common": "Wallis et Futuna"
+            }
+        },
         "languages": ["French"],
         "currency": {
             "code": "XPF",
@@ -1165,6 +1417,16 @@
             "continent": "Oceania",
             "landlocked": false,
             "areaKm2": 2842
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Independent State of Samoa",
+                "common": "Samoa"
+            },
+            "smo": {
+                "official": "Malo Saʻoloto Tutoʻatasi o Sāmoa",
+                "common": "Sāmoa"
+            }
         },
         "languages": ["English", "Samoan"],
         "currency": {

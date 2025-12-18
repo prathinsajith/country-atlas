@@ -4,6 +4,7 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 import type {
     Country,
+    Continent,
     GeoData,
     Currency,
     Flag,
@@ -54,7 +55,7 @@ async function normalize() {
                     west: 0,
                 },
                 region: raw.subregion || raw.region || '',
-                continent: raw.region || '',
+                continent: (raw.region as Continent) || '',
                 landlocked: raw.landlocked,
                 areaKm2: raw.area,
                 borders: raw.borders || [],
@@ -122,7 +123,7 @@ async function normalize() {
                 capital: raw.capital || [],
                 iso,
                 geo,
-                nativeNames: raw.name.nativeName || {},
+                nativeNames: raw.name.native || {},
                 languages,
                 currency,
                 callingCode: raw.idd?.root ? raw.idd.root + (raw.idd.suffixes?.[0] || '') : '',

@@ -27,6 +27,12 @@
             "areaKm2": 1246700,
             "borders": ["COG", "COD", "ZMB", "NAM"]
         },
+        "nativeNames": {
+            "por": {
+                "official": "República de Angola",
+                "common": "Angola"
+            }
+        },
         "languages": ["Portuguese"],
         "currency": {
             "code": "AOA",
@@ -71,6 +77,16 @@
             "landlocked": true,
             "areaKm2": 27834,
             "borders": ["COD", "RWA", "TZA"]
+        },
+        "nativeNames": {
+            "fra": {
+                "official": "République du Burundi",
+                "common": "Burundi"
+            },
+            "run": {
+                "official": "Republika y'Uburundi ",
+                "common": "Uburundi"
+            }
         },
         "languages": ["French", "Kirundi"],
         "currency": {
@@ -117,6 +133,12 @@
             "areaKm2": 112622,
             "borders": ["BFA", "NER", "NGA", "TGO"]
         },
+        "nativeNames": {
+            "fra": {
+                "official": "République du Bénin",
+                "common": "Bénin"
+            }
+        },
         "languages": ["French"],
         "currency": {
             "code": "XOF",
@@ -162,6 +184,12 @@
             "areaKm2": 272967,
             "borders": ["BEN", "CIV", "GHA", "MLI", "NER", "TGO"]
         },
+        "nativeNames": {
+            "fra": {
+                "official": "République du Burkina",
+                "common": "Burkina Faso"
+            }
+        },
         "languages": ["French"],
         "currency": {
             "code": "XOF",
@@ -205,6 +233,12 @@
             "continent": "Africa",
             "landlocked": false,
             "areaKm2": 394
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Saint Helena, Ascension and Tristan da Cunha",
+                "common": "Saint Helena, Ascension and Tristan da Cunha"
+            }
         },
         "languages": ["English"],
         "currency": {
@@ -251,6 +285,16 @@
             "areaKm2": 582000,
             "borders": ["NAM", "ZAF", "ZMB", "ZWE"]
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Republic of Botswana",
+                "common": "Botswana"
+            },
+            "tsn": {
+                "official": "Lefatshe la Botswana",
+                "common": "Botswana"
+            }
+        },
         "languages": ["English", "Tswana"],
         "currency": {
             "code": "BWP",
@@ -295,6 +339,16 @@
             "landlocked": true,
             "areaKm2": 622984,
             "borders": ["CMR", "TCD", "COD", "COG", "SSD", "SDN"]
+        },
+        "nativeNames": {
+            "fra": {
+                "official": "République centrafricaine",
+                "common": "République centrafricaine"
+            },
+            "sag": {
+                "official": "Ködörösêse tî Bêafrîka",
+                "common": "Bêafrîka"
+            }
         },
         "languages": ["French", "Sango"],
         "currency": {
@@ -341,6 +395,12 @@
             "areaKm2": 322463,
             "borders": ["BFA", "GHA", "GIN", "LBR", "MLI"]
         },
+        "nativeNames": {
+            "fra": {
+                "official": "République de Côte d'Ivoire",
+                "common": "Côte d'Ivoire"
+            }
+        },
         "languages": ["French"],
         "currency": {
             "code": "XOF",
@@ -385,6 +445,16 @@
             "landlocked": false,
             "areaKm2": 475442,
             "borders": ["CAF", "TCD", "COG", "GNQ", "GAB", "NGA"]
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Republic of Cameroon",
+                "common": "Cameroon"
+            },
+            "fra": {
+                "official": "République du Cameroun",
+                "common": "Cameroun"
+            }
         },
         "languages": ["English", "French"],
         "currency": {
@@ -431,6 +501,28 @@
             "areaKm2": 2344858,
             "borders": ["AGO", "BDI", "CAF", "COG", "RWA", "SSD", "TZA", "UGA", "ZMB"]
         },
+        "nativeNames": {
+            "fra": {
+                "official": "République démocratique du Congo",
+                "common": "RD Congo"
+            },
+            "kon": {
+                "official": "Repubilika ya Kongo Demokratiki",
+                "common": "Repubilika ya Kongo Demokratiki"
+            },
+            "lin": {
+                "official": "Republiki ya Kongó Demokratiki",
+                "common": "Republiki ya Kongó Demokratiki"
+            },
+            "lua": {
+                "official": "Ditunga dia Kongu wa Mungalaata",
+                "common": "Ditunga dia Kongu wa Mungalaata"
+            },
+            "swa": {
+                "official": "Jamhuri ya Kidemokrasia ya Kongo",
+                "common": "Jamhuri ya Kidemokrasia ya Kongo"
+            }
+        },
         "languages": ["French", "Kikongo", "Lingala", "Tshiluba", "Swahili"],
         "currency": {
             "code": "CDF",
@@ -476,6 +568,20 @@
             "areaKm2": 342000,
             "borders": ["AGO", "CMR", "CAF", "COD", "GAB"]
         },
+        "nativeNames": {
+            "fra": {
+                "official": "République du Congo",
+                "common": "République du Congo"
+            },
+            "kon": {
+                "official": "Repubilika ya Kongo",
+                "common": "Repubilika ya Kongo"
+            },
+            "lin": {
+                "official": "Republíki ya Kongó",
+                "common": "Republíki ya Kongó"
+            }
+        },
         "languages": ["French", "Kikongo", "Lingala"],
         "currency": {
             "code": "XAF",
@@ -520,6 +626,20 @@
             "landlocked": false,
             "areaKm2": 1862
         },
+        "nativeNames": {
+            "ara": {
+                "official": "الاتحاد القمري",
+                "common": "جزر القمر"
+            },
+            "fra": {
+                "official": "Union des Comores",
+                "common": "Comores"
+            },
+            "zdj": {
+                "official": "Udzima wa Komori",
+                "common": "Komori"
+            }
+        },
         "languages": ["Arabic", "French", "Comorian"],
         "currency": {
             "code": "KMF",
@@ -563,6 +683,12 @@
             "continent": "Africa",
             "landlocked": false,
             "areaKm2": 4033
+        },
+        "nativeNames": {
+            "por": {
+                "official": "República de Cabo Verde",
+                "common": "Cabo Verde"
+            }
         },
         "languages": ["Portuguese"],
         "currency": {
@@ -609,6 +735,16 @@
             "areaKm2": 23200,
             "borders": ["ERI", "ETH", "SOM"]
         },
+        "nativeNames": {
+            "ara": {
+                "official": "جمهورية جيبوتي",
+                "common": "جيبوتي"
+            },
+            "fra": {
+                "official": "République de Djibouti",
+                "common": "Djibouti"
+            }
+        },
         "languages": ["Arabic", "French"],
         "currency": {
             "code": "DJF",
@@ -653,6 +789,12 @@
             "landlocked": false,
             "areaKm2": 2381741,
             "borders": ["TUN", "LBY", "NER", "ESH", "MRT", "MLI", "MAR"]
+        },
+        "nativeNames": {
+            "ara": {
+                "official": "الجمهورية الديمقراطية الشعبية الجزائرية",
+                "common": "الجزائر"
+            }
         },
         "languages": ["Arabic"],
         "currency": {
@@ -699,6 +841,12 @@
             "areaKm2": 1002450,
             "borders": ["ISR", "LBY", "PSE", "SDN"]
         },
+        "nativeNames": {
+            "ara": {
+                "official": "جمهورية مصر العربية",
+                "common": "مصر"
+            }
+        },
         "languages": ["Arabic"],
         "currency": {
             "code": "EGP",
@@ -743,6 +891,20 @@
             "landlocked": false,
             "areaKm2": 117600,
             "borders": ["DJI", "ETH", "SDN"]
+        },
+        "nativeNames": {
+            "ara": {
+                "official": "دولة إريتريا",
+                "common": "إريتريا"
+            },
+            "eng": {
+                "official": "State of Eritrea",
+                "common": "Eritrea"
+            },
+            "tir": {
+                "official": "ሃገረ ኤርትራ",
+                "common": "ኤርትራ"
+            }
         },
         "languages": ["Arabic", "English", "Tigrinya"],
         "currency": {
@@ -789,6 +951,20 @@
             "areaKm2": 266000,
             "borders": ["DZA", "MRT", "MAR"]
         },
+        "nativeNames": {
+            "ber": {
+                "official": "Sahrawi Arab Democratic Republic",
+                "common": "Western Sahara"
+            },
+            "mey": {
+                "official": "الجمهورية العربية الصحراوية الديمقراطية",
+                "common": "الصحراء الغربية"
+            },
+            "spa": {
+                "official": "República Árabe Saharaui Democrática",
+                "common": "Sahara Occidental"
+            }
+        },
         "languages": ["Berber", "Hassaniya", "Spanish"],
         "currency": {
             "code": "DZD",
@@ -833,6 +1009,12 @@
             "landlocked": true,
             "areaKm2": 1104300,
             "borders": ["DJI", "ERI", "KEN", "SOM", "SSD", "SDN"]
+        },
+        "nativeNames": {
+            "amh": {
+                "official": "የኢትዮጵያ ፌዴራላዊ ዲሞክራሲያዊ ሪፐብሊክ",
+                "common": "ኢትዮጵያ"
+            }
         },
         "languages": ["Amharic"],
         "currency": {
@@ -879,6 +1061,12 @@
             "areaKm2": 267668,
             "borders": ["CMR", "COG", "GNQ"]
         },
+        "nativeNames": {
+            "fra": {
+                "official": "République gabonaise",
+                "common": "Gabon"
+            }
+        },
         "languages": ["French"],
         "currency": {
             "code": "XAF",
@@ -923,6 +1111,12 @@
             "landlocked": false,
             "areaKm2": 238533,
             "borders": ["BFA", "CIV", "TGO"]
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Republic of Ghana",
+                "common": "Ghana"
+            }
         },
         "languages": ["English"],
         "currency": {
@@ -969,6 +1163,12 @@
             "areaKm2": 245857,
             "borders": ["CIV", "GNB", "LBR", "MLI", "SEN", "SLE"]
         },
+        "nativeNames": {
+            "fra": {
+                "official": "République de Guinée",
+                "common": "Guinée"
+            }
+        },
         "languages": ["French"],
         "currency": {
             "code": "GNF",
@@ -1013,6 +1213,12 @@
             "landlocked": false,
             "areaKm2": 10689,
             "borders": ["SEN"]
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Republic of the Gambia",
+                "common": "Gambia"
+            }
         },
         "languages": ["English"],
         "currency": {
@@ -1059,6 +1265,16 @@
             "areaKm2": 36125,
             "borders": ["GIN", "SEN"]
         },
+        "nativeNames": {
+            "por": {
+                "official": "República da Guiné-Bissau",
+                "common": "Guiné-Bissau"
+            },
+            "pov": {
+                "official": "República da Guiné-Bissau",
+                "common": "Guiné-Bissau"
+            }
+        },
         "languages": ["Portuguese", "Upper Guinea Creole"],
         "currency": {
             "code": "XOF",
@@ -1104,6 +1320,20 @@
             "areaKm2": 28051,
             "borders": ["CMR", "GAB"]
         },
+        "nativeNames": {
+            "fra": {
+                "official": "République de la Guinée Équatoriale",
+                "common": "Guinée équatoriale"
+            },
+            "por": {
+                "official": "República da Guiné Equatorial",
+                "common": "Guiné Equatorial"
+            },
+            "spa": {
+                "official": "República de Guinea Ecuatorial",
+                "common": "Guinea Ecuatorial"
+            }
+        },
         "languages": ["French", "Portuguese", "Spanish"],
         "currency": {
             "code": "XAF",
@@ -1147,6 +1377,12 @@
             "continent": "Africa",
             "landlocked": false,
             "areaKm2": 60
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "British Indian Ocean Territory",
+                "common": "British Indian Ocean Territory"
+            }
         },
         "languages": ["English"],
         "currency": {
@@ -1193,6 +1429,16 @@
             "areaKm2": 580367,
             "borders": ["ETH", "SOM", "SSD", "TZA", "UGA"]
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Republic of Kenya",
+                "common": "Kenya"
+            },
+            "swa": {
+                "official": "Republic of Kenya",
+                "common": "Kenya"
+            }
+        },
         "languages": ["English", "Swahili"],
         "currency": {
             "code": "KES",
@@ -1237,6 +1483,12 @@
             "landlocked": false,
             "areaKm2": 111369,
             "borders": ["GIN", "CIV", "SLE"]
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Republic of Liberia",
+                "common": "Liberia"
+            }
         },
         "languages": ["English"],
         "currency": {
@@ -1283,6 +1535,12 @@
             "areaKm2": 1759540,
             "borders": ["DZA", "TCD", "EGY", "NER", "SDN", "TUN"]
         },
+        "nativeNames": {
+            "ara": {
+                "official": "دولة ليبيا",
+                "common": "ليبيا"
+            }
+        },
         "languages": ["Arabic"],
         "currency": {
             "code": "LYD",
@@ -1327,6 +1585,16 @@
             "landlocked": true,
             "areaKm2": 30355,
             "borders": ["ZAF"]
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Kingdom of Lesotho",
+                "common": "Lesotho"
+            },
+            "sot": {
+                "official": "Kingdom of Lesotho",
+                "common": "Lesotho"
+            }
         },
         "languages": ["English", "Sotho"],
         "currency": {
@@ -1373,6 +1641,16 @@
             "areaKm2": 446550,
             "borders": ["DZA", "ESH", "ESP"]
         },
+        "nativeNames": {
+            "ara": {
+                "official": "المملكة المغربية",
+                "common": "المغرب"
+            },
+            "ber": {
+                "official": "ⵜⴰⴳⵍⴷⵉⵜ ⵏ ⵍⵎⵖⵔⵉⴱ",
+                "common": "ⵍⵎⴰⵖⵔⵉⴱ"
+            }
+        },
         "languages": ["Arabic", "Berber"],
         "currency": {
             "code": "MAD",
@@ -1416,6 +1694,16 @@
             "continent": "Africa",
             "landlocked": false,
             "areaKm2": 587041
+        },
+        "nativeNames": {
+            "fra": {
+                "official": "République de Madagascar",
+                "common": "Madagascar"
+            },
+            "mlg": {
+                "official": "Repoblikan'i Madagasikara",
+                "common": "Madagasikara"
+            }
         },
         "languages": ["French", "Malagasy"],
         "currency": {
@@ -1462,6 +1750,12 @@
             "areaKm2": 1240192,
             "borders": ["DZA", "BFA", "GIN", "CIV", "MRT", "NER", "SEN"]
         },
+        "nativeNames": {
+            "fra": {
+                "official": "République du Mali",
+                "common": "Mali"
+            }
+        },
         "languages": ["French"],
         "currency": {
             "code": "XOF",
@@ -1506,6 +1800,12 @@
             "landlocked": false,
             "areaKm2": 801590,
             "borders": ["MWI", "ZAF", "SWZ", "TZA", "ZMB", "ZWE"]
+        },
+        "nativeNames": {
+            "por": {
+                "official": "República de Moçambique",
+                "common": "Moçambique"
+            }
         },
         "languages": ["Portuguese"],
         "currency": {
@@ -1552,6 +1852,12 @@
             "areaKm2": 1030700,
             "borders": ["DZA", "MLI", "SEN", "ESH"]
         },
+        "nativeNames": {
+            "ara": {
+                "official": "الجمهورية الإسلامية الموريتانية",
+                "common": "موريتانيا"
+            }
+        },
         "languages": ["Arabic"],
         "currency": {
             "code": "MRU",
@@ -1595,6 +1901,20 @@
             "continent": "Africa",
             "landlocked": false,
             "areaKm2": 2040
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Republic of Mauritius",
+                "common": "Mauritius"
+            },
+            "fra": {
+                "official": "République de Maurice",
+                "common": "Maurice"
+            },
+            "mfe": {
+                "official": "Republik Moris",
+                "common": "Moris"
+            }
         },
         "languages": ["English", "French", "Mauritian Creole"],
         "currency": {
@@ -1641,6 +1961,16 @@
             "areaKm2": 118484,
             "borders": ["MOZ", "TZA", "ZMB"]
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Republic of Malawi",
+                "common": "Malawi"
+            },
+            "nya": {
+                "official": "Chalo cha Malawi, Dziko la Malaŵi",
+                "common": "Malaŵi"
+            }
+        },
         "languages": ["English", "Chewa"],
         "currency": {
             "code": "MWK",
@@ -1684,6 +2014,12 @@
             "continent": "Africa",
             "landlocked": false,
             "areaKm2": 374
+        },
+        "nativeNames": {
+            "fra": {
+                "official": "Département de Mayotte",
+                "common": "Mayotte"
+            }
         },
         "languages": ["French"],
         "currency": {
@@ -1729,6 +2065,44 @@
             "landlocked": false,
             "areaKm2": 825615,
             "borders": ["AGO", "BWA", "ZAF", "ZMB"]
+        },
+        "nativeNames": {
+            "afr": {
+                "official": "Republiek van Namibië",
+                "common": "Namibië"
+            },
+            "deu": {
+                "official": "Republik Namibia",
+                "common": "Namibia"
+            },
+            "eng": {
+                "official": "Republic of Namibia",
+                "common": "Namibia"
+            },
+            "her": {
+                "official": "Republic of Namibia",
+                "common": "Namibia"
+            },
+            "hgm": {
+                "official": "Republic of Namibia",
+                "common": "Namibia"
+            },
+            "kwn": {
+                "official": "Republic of Namibia",
+                "common": "Namibia"
+            },
+            "loz": {
+                "official": "Republic of Namibia",
+                "common": "Namibia"
+            },
+            "ndo": {
+                "official": "Republic of Namibia",
+                "common": "Namibia"
+            },
+            "tsn": {
+                "official": "Lefatshe la Namibia",
+                "common": "Namibia"
+            }
         },
         "languages": [
             "Afrikaans",
@@ -1785,6 +2159,12 @@
             "areaKm2": 1267000,
             "borders": ["DZA", "BEN", "BFA", "TCD", "LBY", "MLI", "NGA"]
         },
+        "nativeNames": {
+            "fra": {
+                "official": "République du Niger",
+                "common": "Niger"
+            }
+        },
         "languages": ["French"],
         "currency": {
             "code": "XOF",
@@ -1830,6 +2210,12 @@
             "areaKm2": 923768,
             "borders": ["BEN", "CMR", "TCD", "NER"]
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Federal Republic of Nigeria",
+                "common": "Nigeria"
+            }
+        },
         "languages": ["English"],
         "currency": {
             "code": "NGN",
@@ -1873,6 +2259,12 @@
             "continent": "Africa",
             "landlocked": false,
             "areaKm2": 2511
+        },
+        "nativeNames": {
+            "fra": {
+                "official": "Ile de la Réunion",
+                "common": "La Réunion"
+            }
         },
         "languages": ["French"],
         "currency": {
@@ -1919,6 +2311,20 @@
             "areaKm2": 26338,
             "borders": ["BDI", "COD", "TZA", "UGA"]
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Republic of Rwanda",
+                "common": "Rwanda"
+            },
+            "fra": {
+                "official": "République rwandaise",
+                "common": "Rwanda"
+            },
+            "kin": {
+                "official": "Repubulika y'u Rwanda",
+                "common": "Rwanda"
+            }
+        },
         "languages": ["English", "French", "Kinyarwanda"],
         "currency": {
             "code": "RWF",
@@ -1963,6 +2369,16 @@
             "landlocked": false,
             "areaKm2": 1886068,
             "borders": ["CAF", "TCD", "EGY", "ERI", "ETH", "LBY", "SSD"]
+        },
+        "nativeNames": {
+            "ara": {
+                "official": "جمهورية السودان",
+                "common": "السودان"
+            },
+            "eng": {
+                "official": "Republic of the Sudan",
+                "common": "Sudan"
+            }
         },
         "languages": ["Arabic", "English"],
         "currency": {
@@ -2009,6 +2425,12 @@
             "areaKm2": 196722,
             "borders": ["GMB", "GIN", "GNB", "MLI", "MRT"]
         },
+        "nativeNames": {
+            "fra": {
+                "official": "République du Sénégal",
+                "common": "Sénégal"
+            }
+        },
         "languages": ["French"],
         "currency": {
             "code": "XOF",
@@ -2053,6 +2475,12 @@
             "landlocked": false,
             "areaKm2": 71740,
             "borders": ["GIN", "LBR"]
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Republic of Sierra Leone",
+                "common": "Sierra Leone"
+            }
         },
         "languages": ["English"],
         "currency": {
@@ -2099,6 +2527,16 @@
             "areaKm2": 637657,
             "borders": ["DJI", "ETH", "KEN"]
         },
+        "nativeNames": {
+            "ara": {
+                "official": "جمهورية الصومال الفيدرالية",
+                "common": "الصومال"
+            },
+            "som": {
+                "official": "Jamhuuriyadda Federaalka Soomaaliya",
+                "common": "Soomaaliya"
+            }
+        },
         "languages": ["Arabic", "Somali"],
         "currency": {
             "code": "SOS",
@@ -2144,6 +2582,12 @@
             "areaKm2": 619745,
             "borders": ["CAF", "COD", "ETH", "KEN", "SDN", "UGA"]
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Republic of South Sudan",
+                "common": "South Sudan"
+            }
+        },
         "languages": ["English"],
         "currency": {
             "code": "SSP",
@@ -2187,6 +2631,12 @@
             "continent": "Africa",
             "landlocked": false,
             "areaKm2": 964
+        },
+        "nativeNames": {
+            "por": {
+                "official": "República Democrática do São Tomé e Príncipe",
+                "common": "São Tomé e Príncipe"
+            }
         },
         "languages": ["Portuguese"],
         "currency": {
@@ -2233,6 +2683,16 @@
             "areaKm2": 17364,
             "borders": ["MOZ", "ZAF"]
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Kingdom of Eswatini",
+                "common": "Eswatini"
+            },
+            "ssw": {
+                "official": "Umbuso weSwatini",
+                "common": "eSwatini"
+            }
+        },
         "languages": ["English", "Swazi"],
         "currency": {
             "code": "SZL",
@@ -2276,6 +2736,20 @@
             "continent": "Africa",
             "landlocked": false,
             "areaKm2": 452
+        },
+        "nativeNames": {
+            "crs": {
+                "official": "Repiblik Sesel",
+                "common": "Sesel"
+            },
+            "eng": {
+                "official": "Republic of Seychelles",
+                "common": "Seychelles"
+            },
+            "fra": {
+                "official": "République des Seychelles",
+                "common": "Seychelles"
+            }
         },
         "languages": ["Seychellois Creole", "English", "French"],
         "currency": {
@@ -2322,6 +2796,16 @@
             "areaKm2": 1284000,
             "borders": ["CMR", "CAF", "LBY", "NER", "NGA", "SDN"]
         },
+        "nativeNames": {
+            "ara": {
+                "official": "جمهورية تشاد",
+                "common": "تشاد"
+            },
+            "fra": {
+                "official": "République du Tchad",
+                "common": "Tchad"
+            }
+        },
         "languages": ["Arabic", "French"],
         "currency": {
             "code": "XAF",
@@ -2366,6 +2850,12 @@
             "landlocked": false,
             "areaKm2": 56785,
             "borders": ["BEN", "BFA", "GHA"]
+        },
+        "nativeNames": {
+            "fra": {
+                "official": "République togolaise",
+                "common": "Togo"
+            }
         },
         "languages": ["French"],
         "currency": {
@@ -2412,6 +2902,12 @@
             "areaKm2": 163610,
             "borders": ["DZA", "LBY"]
         },
+        "nativeNames": {
+            "ara": {
+                "official": "الجمهورية التونسية",
+                "common": "تونس"
+            }
+        },
         "languages": ["Arabic"],
         "currency": {
             "code": "TND",
@@ -2456,6 +2952,16 @@
             "landlocked": false,
             "areaKm2": 945087,
             "borders": ["BDI", "COD", "KEN", "MWI", "MOZ", "RWA", "UGA", "ZMB"]
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "United Republic of Tanzania",
+                "common": "Tanzania"
+            },
+            "swa": {
+                "official": "Jamhuri ya Muungano wa Tanzania",
+                "common": "Tanzania"
+            }
         },
         "languages": ["English", "Swahili"],
         "currency": {
@@ -2502,6 +3008,16 @@
             "areaKm2": 241550,
             "borders": ["COD", "KEN", "RWA", "SSD", "TZA"]
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Republic of Uganda",
+                "common": "Uganda"
+            },
+            "swa": {
+                "official": "Republic of Uganda",
+                "common": "Uganda"
+            }
+        },
         "languages": ["English", "Swahili"],
         "currency": {
             "code": "UGX",
@@ -2546,6 +3062,52 @@
             "landlocked": false,
             "areaKm2": 1221037,
             "borders": ["BWA", "LSO", "MOZ", "NAM", "SWZ", "ZWE"]
+        },
+        "nativeNames": {
+            "afr": {
+                "official": "Republiek van Suid-Afrika",
+                "common": "South Africa"
+            },
+            "eng": {
+                "official": "Republic of South Africa",
+                "common": "South Africa"
+            },
+            "nbl": {
+                "official": "IRiphabliki yeSewula Afrika",
+                "common": "Sewula Afrika"
+            },
+            "nso": {
+                "official": "Rephaboliki ya Afrika-Borwa ",
+                "common": "Afrika-Borwa"
+            },
+            "sot": {
+                "official": "Rephaboliki ya Afrika Borwa",
+                "common": "Afrika Borwa"
+            },
+            "ssw": {
+                "official": "IRiphabhulikhi yeNingizimu Afrika",
+                "common": "Ningizimu Afrika"
+            },
+            "tsn": {
+                "official": "Rephaboliki ya Aforika Borwa",
+                "common": "Aforika Borwa"
+            },
+            "tso": {
+                "official": "Riphabliki ra Afrika Dzonga",
+                "common": "Afrika Dzonga"
+            },
+            "ven": {
+                "official": "Riphabuḽiki ya Afurika Tshipembe",
+                "common": "Afurika Tshipembe"
+            },
+            "xho": {
+                "official": "IRiphabliki yaseMzantsi Afrika",
+                "common": "Mzantsi Afrika"
+            },
+            "zul": {
+                "official": "IRiphabliki yaseNingizimu Afrika",
+                "common": "Ningizimu Afrika"
+            }
         },
         "languages": [
             "Afrikaans",
@@ -2604,6 +3166,12 @@
             "areaKm2": 752612,
             "borders": ["AGO", "BWA", "COD", "MWI", "MOZ", "NAM", "TZA", "ZWE"]
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Republic of Zambia",
+                "common": "Zambia"
+            }
+        },
         "languages": ["English"],
         "currency": {
             "code": "ZMW",
@@ -2648,6 +3216,68 @@
             "landlocked": true,
             "areaKm2": 390757,
             "borders": ["BWA", "MOZ", "ZAF", "ZMB"]
+        },
+        "nativeNames": {
+            "bwg": {
+                "official": "Republic of Zimbabwe",
+                "common": "Zimbabwe"
+            },
+            "eng": {
+                "official": "Republic of Zimbabwe",
+                "common": "Zimbabwe"
+            },
+            "kck": {
+                "official": "Republic of Zimbabwe",
+                "common": "Zimbabwe"
+            },
+            "khi": {
+                "official": "Republic of Zimbabwe",
+                "common": "Zimbabwe"
+            },
+            "ndc": {
+                "official": "Republic of Zimbabwe",
+                "common": "Zimbabwe"
+            },
+            "nde": {
+                "official": "Republic of Zimbabwe",
+                "common": "Zimbabwe"
+            },
+            "nya": {
+                "official": "Republic of Zimbabwe",
+                "common": "Zimbabwe"
+            },
+            "sna": {
+                "official": "Republic of Zimbabwe",
+                "common": "Zimbabwe"
+            },
+            "sot": {
+                "official": "Republic of Zimbabwe",
+                "common": "Zimbabwe"
+            },
+            "toi": {
+                "official": "Republic of Zimbabwe",
+                "common": "Zimbabwe"
+            },
+            "tsn": {
+                "official": "Republic of Zimbabwe",
+                "common": "Zimbabwe"
+            },
+            "tso": {
+                "official": "Republic of Zimbabwe",
+                "common": "Zimbabwe"
+            },
+            "ven": {
+                "official": "Republic of Zimbabwe",
+                "common": "Zimbabwe"
+            },
+            "xho": {
+                "official": "Republic of Zimbabwe",
+                "common": "Zimbabwe"
+            },
+            "zib": {
+                "official": "Republic of Zimbabwe",
+                "common": "Zimbabwe"
+            }
         },
         "languages": [
             "Chibarwe",

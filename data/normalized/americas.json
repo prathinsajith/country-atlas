@@ -26,6 +26,16 @@
             "landlocked": false,
             "areaKm2": 180
         },
+        "nativeNames": {
+            "nld": {
+                "official": "Aruba",
+                "common": "Aruba"
+            },
+            "pap": {
+                "official": "Aruba",
+                "common": "Aruba"
+            }
+        },
         "languages": ["Dutch", "Papiamento"],
         "currency": {
             "code": "AWG",
@@ -69,6 +79,12 @@
             "continent": "Americas",
             "landlocked": false,
             "areaKm2": 91
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Anguilla",
+                "common": "Anguilla"
+            }
         },
         "languages": ["English"],
         "currency": {
@@ -115,6 +131,16 @@
             "areaKm2": 2780400,
             "borders": ["BOL", "BRA", "CHL", "PRY", "URY"]
         },
+        "nativeNames": {
+            "grn": {
+                "official": "Argentine Republic",
+                "common": "Argentina"
+            },
+            "spa": {
+                "official": "República Argentina",
+                "common": "Argentina"
+            }
+        },
         "languages": ["Guaraní", "Spanish"],
         "currency": {
             "code": "ARS",
@@ -158,6 +184,12 @@
             "continent": "Americas",
             "landlocked": false,
             "areaKm2": 442
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Antigua and Barbuda",
+                "common": "Antigua and Barbuda"
+            }
         },
         "languages": ["English"],
         "currency": {
@@ -203,6 +235,12 @@
             "landlocked": false,
             "areaKm2": 13943
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Commonwealth of the Bahamas",
+                "common": "Bahamas"
+            }
+        },
         "languages": ["English"],
         "currency": {
             "code": "BSD",
@@ -246,6 +284,12 @@
             "continent": "Americas",
             "landlocked": false,
             "areaKm2": 21
+        },
+        "nativeNames": {
+            "fra": {
+                "official": "Collectivité de Saint-Barthélemy",
+                "common": "Saint-Barthélemy"
+            }
         },
         "languages": ["French"],
         "currency": {
@@ -292,6 +336,20 @@
             "areaKm2": 22966,
             "borders": ["GTM", "MEX"]
         },
+        "nativeNames": {
+            "bjz": {
+                "official": "Belize",
+                "common": "Belize"
+            },
+            "eng": {
+                "official": "Belize",
+                "common": "Belize"
+            },
+            "spa": {
+                "official": "Belice",
+                "common": "Belice"
+            }
+        },
         "languages": ["Belizean Creole", "English", "Spanish"],
         "currency": {
             "code": "BZD",
@@ -335,6 +393,12 @@
             "continent": "Americas",
             "landlocked": false,
             "areaKm2": 54
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Bermuda",
+                "common": "Bermuda"
+            }
         },
         "languages": ["English"],
         "currency": {
@@ -381,6 +445,24 @@
             "areaKm2": 1098581,
             "borders": ["ARG", "BRA", "CHL", "PRY", "PER"]
         },
+        "nativeNames": {
+            "aym": {
+                "official": "Wuliwya Suyu",
+                "common": "Wuliwya"
+            },
+            "grn": {
+                "official": "Tetã Volívia",
+                "common": "Volívia"
+            },
+            "que": {
+                "official": "Buliwya Mamallaqta",
+                "common": "Buliwya"
+            },
+            "spa": {
+                "official": "Estado Plurinacional de Bolivia",
+                "common": "Bolivia"
+            }
+        },
         "languages": ["Aymara", "Guaraní", "Quechua", "Spanish"],
         "currency": {
             "code": "BOB",
@@ -424,6 +506,16 @@
             "continent": "Americas",
             "landlocked": false,
             "areaKm2": 328
+        },
+        "nativeNames": {
+            "nld": {
+                "official": "Bonaire, Sint Eustatius en Saba",
+                "common": "Caribisch Nederland"
+            },
+            "pap": {
+                "official": "Boneiru, Sint Eustatius y Saba",
+                "common": "Boneiru, Sint Eustatius y Saba"
+            }
         },
         "languages": ["English", "Dutch", "Papiamento"],
         "currency": {
@@ -469,6 +561,12 @@
             "areaKm2": 8515767,
             "borders": ["ARG", "BOL", "COL", "GUF", "GUY", "PRY", "PER", "SUR", "URY", "VEN"]
         },
+        "nativeNames": {
+            "por": {
+                "official": "República Federativa do Brasil",
+                "common": "Brasil"
+            }
+        },
         "languages": ["Portuguese"],
         "currency": {
             "code": "BRL",
@@ -512,6 +610,12 @@
             "continent": "Americas",
             "landlocked": false,
             "areaKm2": 430
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Barbados",
+                "common": "Barbados"
+            }
         },
         "languages": ["English"],
         "currency": {
@@ -558,6 +662,16 @@
             "areaKm2": 9984670,
             "borders": ["USA"]
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Canada",
+                "common": "Canada"
+            },
+            "fra": {
+                "official": "Canada",
+                "common": "Canada"
+            }
+        },
         "languages": ["English", "French"],
         "currency": {
             "code": "CAD",
@@ -602,6 +716,12 @@
             "landlocked": false,
             "areaKm2": 756102,
             "borders": ["ARG", "BOL", "PER"]
+        },
+        "nativeNames": {
+            "spa": {
+                "official": "República de Chile",
+                "common": "Chile"
+            }
         },
         "languages": ["Spanish"],
         "currency": {
@@ -648,6 +768,12 @@
             "areaKm2": 1141748,
             "borders": ["BRA", "ECU", "PAN", "PER", "VEN"]
         },
+        "nativeNames": {
+            "spa": {
+                "official": "República de Colombia",
+                "common": "Colombia"
+            }
+        },
         "languages": ["Spanish"],
         "currency": {
             "code": "COP",
@@ -693,6 +819,12 @@
             "areaKm2": 51100,
             "borders": ["NIC", "PAN"]
         },
+        "nativeNames": {
+            "spa": {
+                "official": "República de Costa Rica",
+                "common": "Costa Rica"
+            }
+        },
         "languages": ["Spanish"],
         "currency": {
             "code": "CRC",
@@ -736,6 +868,12 @@
             "continent": "Americas",
             "landlocked": false,
             "areaKm2": 109884
+        },
+        "nativeNames": {
+            "spa": {
+                "official": "República de Cuba",
+                "common": "Cuba"
+            }
         },
         "languages": ["Spanish"],
         "currency": {
@@ -781,6 +919,20 @@
             "landlocked": false,
             "areaKm2": 444
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Country of Curaçao",
+                "common": "Curaçao"
+            },
+            "nld": {
+                "official": "Land Curaçao",
+                "common": "Curaçao"
+            },
+            "pap": {
+                "official": "Pais Kòrsou",
+                "common": "Pais Kòrsou"
+            }
+        },
         "languages": ["English", "Dutch", "Papiamento"],
         "currency": {
             "code": "ANG",
@@ -825,6 +977,12 @@
             "landlocked": false,
             "areaKm2": 264
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Cayman Islands",
+                "common": "Cayman Islands"
+            }
+        },
         "languages": ["English"],
         "currency": {
             "code": "KYD",
@@ -868,6 +1026,12 @@
             "continent": "Americas",
             "landlocked": false,
             "areaKm2": 751
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Commonwealth of Dominica",
+                "common": "Dominica"
+            }
         },
         "languages": ["English"],
         "currency": {
@@ -914,6 +1078,12 @@
             "areaKm2": 48671,
             "borders": ["HTI"]
         },
+        "nativeNames": {
+            "spa": {
+                "official": "República Dominicana",
+                "common": "República Dominicana"
+            }
+        },
         "languages": ["Spanish"],
         "currency": {
             "code": "DOP",
@@ -959,6 +1129,12 @@
             "areaKm2": 276841,
             "borders": ["COL", "PER"]
         },
+        "nativeNames": {
+            "spa": {
+                "official": "República del Ecuador",
+                "common": "Ecuador"
+            }
+        },
         "languages": ["Spanish"],
         "currency": {
             "code": "USD",
@@ -1002,6 +1178,12 @@
             "continent": "Americas",
             "landlocked": false,
             "areaKm2": 12173
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Falkland Islands",
+                "common": "Falkland Islands"
+            }
         },
         "languages": ["English"],
         "currency": {
@@ -1047,6 +1229,12 @@
             "landlocked": false,
             "areaKm2": 1628
         },
+        "nativeNames": {
+            "fra": {
+                "official": "Guadeloupe",
+                "common": "Guadeloupe"
+            }
+        },
         "languages": ["French"],
         "currency": {
             "code": "EUR",
@@ -1091,6 +1279,12 @@
             "landlocked": false,
             "areaKm2": 344
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Grenada",
+                "common": "Grenada"
+            }
+        },
         "languages": ["English"],
         "currency": {
             "code": "XCD",
@@ -1134,6 +1328,12 @@
             "continent": "Americas",
             "landlocked": false,
             "areaKm2": 2166086
+        },
+        "nativeNames": {
+            "kal": {
+                "official": "Kalaallit Nunaat",
+                "common": "Kalaallit Nunaat"
+            }
         },
         "languages": ["Greenlandic"],
         "currency": {
@@ -1180,6 +1380,12 @@
             "areaKm2": 108889,
             "borders": ["BLZ", "SLV", "HND", "MEX"]
         },
+        "nativeNames": {
+            "spa": {
+                "official": "República de Guatemala",
+                "common": "Guatemala"
+            }
+        },
         "languages": ["Spanish"],
         "currency": {
             "code": "GTQ",
@@ -1224,6 +1430,12 @@
             "landlocked": false,
             "areaKm2": 83534,
             "borders": ["BRA", "SUR"]
+        },
+        "nativeNames": {
+            "fra": {
+                "official": "Guyane",
+                "common": "Guyane française"
+            }
         },
         "languages": ["French"],
         "currency": {
@@ -1270,6 +1482,12 @@
             "areaKm2": 214969,
             "borders": ["BRA", "SUR", "VEN"]
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Co-operative Republic of Guyana",
+                "common": "Guyana"
+            }
+        },
         "languages": ["English"],
         "currency": {
             "code": "GYD",
@@ -1314,6 +1532,12 @@
             "landlocked": false,
             "areaKm2": 112492,
             "borders": ["GTM", "SLV", "NIC"]
+        },
+        "nativeNames": {
+            "spa": {
+                "official": "República de Honduras",
+                "common": "Honduras"
+            }
         },
         "languages": ["Spanish"],
         "currency": {
@@ -1360,6 +1584,16 @@
             "areaKm2": 27750,
             "borders": ["DOM"]
         },
+        "nativeNames": {
+            "fra": {
+                "official": "République d'Haïti",
+                "common": "Haïti"
+            },
+            "hat": {
+                "official": "Repiblik Ayiti",
+                "common": "Ayiti"
+            }
+        },
         "languages": ["French", "Haitian Creole"],
         "currency": {
             "code": "HTG",
@@ -1403,6 +1637,16 @@
             "continent": "Americas",
             "landlocked": false,
             "areaKm2": 10991
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Jamaica",
+                "common": "Jamaica"
+            },
+            "jam": {
+                "official": "Jamaica",
+                "common": "Jamaica"
+            }
         },
         "languages": ["English", "Jamaican Patois"],
         "currency": {
@@ -1448,6 +1692,12 @@
             "landlocked": false,
             "areaKm2": 261
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Federation of Saint Christopher and Nevis",
+                "common": "Saint Kitts and Nevis"
+            }
+        },
         "languages": ["English"],
         "currency": {
             "code": "XCD",
@@ -1491,6 +1741,12 @@
             "continent": "Americas",
             "landlocked": false,
             "areaKm2": 616
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Saint Lucia",
+                "common": "Saint Lucia"
+            }
         },
         "languages": ["English"],
         "currency": {
@@ -1537,6 +1793,12 @@
             "areaKm2": 53,
             "borders": ["SXM"]
         },
+        "nativeNames": {
+            "fra": {
+                "official": "Saint-Martin",
+                "common": "Saint-Martin"
+            }
+        },
         "languages": ["French"],
         "currency": {
             "code": "EUR",
@@ -1582,6 +1844,12 @@
             "areaKm2": 1964375,
             "borders": ["BLZ", "GTM", "USA"]
         },
+        "nativeNames": {
+            "spa": {
+                "official": "Estados Unidos Mexicanos",
+                "common": "México"
+            }
+        },
         "languages": ["Spanish"],
         "currency": {
             "code": "MXN",
@@ -1626,6 +1894,12 @@
             "landlocked": false,
             "areaKm2": 102
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Montserrat",
+                "common": "Montserrat"
+            }
+        },
         "languages": ["English"],
         "currency": {
             "code": "XCD",
@@ -1669,6 +1943,12 @@
             "continent": "Americas",
             "landlocked": false,
             "areaKm2": 1128
+        },
+        "nativeNames": {
+            "fra": {
+                "official": "Martinique",
+                "common": "Martinique"
+            }
         },
         "languages": ["French"],
         "currency": {
@@ -1715,6 +1995,12 @@
             "areaKm2": 130373,
             "borders": ["CRI", "HND"]
         },
+        "nativeNames": {
+            "spa": {
+                "official": "República de Nicaragua",
+                "common": "Nicaragua"
+            }
+        },
         "languages": ["Spanish"],
         "currency": {
             "code": "NIO",
@@ -1759,6 +2045,12 @@
             "landlocked": false,
             "areaKm2": 75417,
             "borders": ["COL", "CRI"]
+        },
+        "nativeNames": {
+            "spa": {
+                "official": "República de Panamá",
+                "common": "Panamá"
+            }
         },
         "languages": ["Spanish"],
         "currency": {
@@ -1805,6 +2097,20 @@
             "areaKm2": 1285216,
             "borders": ["BOL", "BRA", "CHL", "COL", "ECU"]
         },
+        "nativeNames": {
+            "aym": {
+                "official": "Piruw Suyu",
+                "common": "Piruw"
+            },
+            "que": {
+                "official": "Piruw Ripuwlika",
+                "common": "Piruw"
+            },
+            "spa": {
+                "official": "República del Perú",
+                "common": "Perú"
+            }
+        },
         "languages": ["Aymara", "Quechua", "Spanish"],
         "currency": {
             "code": "PEN",
@@ -1848,6 +2154,16 @@
             "continent": "Americas",
             "landlocked": false,
             "areaKm2": 8870
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Commonwealth of Puerto Rico",
+                "common": "Puerto Rico"
+            },
+            "spa": {
+                "official": "Estado Libre Asociado de Puerto Rico",
+                "common": "Puerto Rico"
+            }
         },
         "languages": ["English", "Spanish"],
         "currency": {
@@ -1894,6 +2210,16 @@
             "areaKm2": 406752,
             "borders": ["ARG", "BOL", "BRA"]
         },
+        "nativeNames": {
+            "grn": {
+                "official": "Tetã Paraguái",
+                "common": "Paraguái"
+            },
+            "spa": {
+                "official": "República de Paraguay",
+                "common": "Paraguay"
+            }
+        },
         "languages": ["Guaraní", "Spanish"],
         "currency": {
             "code": "PYG",
@@ -1939,6 +2265,12 @@
             "areaKm2": 21041,
             "borders": ["GTM", "HND"]
         },
+        "nativeNames": {
+            "spa": {
+                "official": "República de El Salvador",
+                "common": "El Salvador"
+            }
+        },
         "languages": ["Spanish"],
         "currency": {
             "code": "USD",
@@ -1982,6 +2314,12 @@
             "continent": "Americas",
             "landlocked": false,
             "areaKm2": 242
+        },
+        "nativeNames": {
+            "fra": {
+                "official": "Collectivité territoriale de Saint-Pierre-et-Miquelon",
+                "common": "Saint-Pierre-et-Miquelon"
+            }
         },
         "languages": ["French"],
         "currency": {
@@ -2028,6 +2366,12 @@
             "areaKm2": 163820,
             "borders": ["BRA", "GUF", "GUY"]
         },
+        "nativeNames": {
+            "nld": {
+                "official": "Republiek Suriname",
+                "common": "Suriname"
+            }
+        },
         "languages": ["Dutch"],
         "currency": {
             "code": "SRD",
@@ -2073,6 +2417,20 @@
             "areaKm2": 34,
             "borders": ["MAF"]
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Sint Maarten",
+                "common": "Sint Maarten"
+            },
+            "fra": {
+                "official": "Saint-Martin",
+                "common": "Saint-Martin"
+            },
+            "nld": {
+                "official": "Sint Maarten",
+                "common": "Sint Maarten"
+            }
+        },
         "languages": ["English", "French", "Dutch"],
         "currency": {
             "code": "ANG",
@@ -2116,6 +2474,12 @@
             "continent": "Americas",
             "landlocked": false,
             "areaKm2": 948
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Turks and Caicos Islands",
+                "common": "Turks and Caicos Islands"
+            }
         },
         "languages": ["English"],
         "currency": {
@@ -2161,6 +2525,12 @@
             "landlocked": false,
             "areaKm2": 5130
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Republic of Trinidad and Tobago",
+                "common": "Trinidad and Tobago"
+            }
+        },
         "languages": ["English"],
         "currency": {
             "code": "TTD",
@@ -2203,6 +2573,12 @@
             "continent": "Americas",
             "landlocked": false,
             "areaKm2": 34.2
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "United States Minor Outlying Islands",
+                "common": "United States Minor Outlying Islands"
+            }
         },
         "languages": ["English"],
         "currency": {
@@ -2249,6 +2625,12 @@
             "areaKm2": 181034,
             "borders": ["ARG", "BRA"]
         },
+        "nativeNames": {
+            "spa": {
+                "official": "República Oriental del Uruguay",
+                "common": "Uruguay"
+            }
+        },
         "languages": ["Spanish"],
         "currency": {
             "code": "UYU",
@@ -2294,6 +2676,12 @@
             "areaKm2": 9372610,
             "borders": ["CAN", "MEX"]
         },
+        "nativeNames": {
+            "eng": {
+                "official": "United States of America",
+                "common": "United States"
+            }
+        },
         "languages": ["English"],
         "currency": {
             "code": "USD",
@@ -2337,6 +2725,12 @@
             "continent": "Americas",
             "landlocked": false,
             "areaKm2": 389
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Saint Vincent and the Grenadines",
+                "common": "Saint Vincent and the Grenadines"
+            }
         },
         "languages": ["English"],
         "currency": {
@@ -2383,6 +2777,12 @@
             "areaKm2": 916445,
             "borders": ["BRA", "COL", "GUY"]
         },
+        "nativeNames": {
+            "spa": {
+                "official": "República Bolivariana de Venezuela",
+                "common": "Venezuela"
+            }
+        },
         "languages": ["Spanish"],
         "currency": {
             "code": "VES",
@@ -2427,6 +2827,12 @@
             "landlocked": false,
             "areaKm2": 151
         },
+        "nativeNames": {
+            "eng": {
+                "official": "Virgin Islands",
+                "common": "British Virgin Islands"
+            }
+        },
         "languages": ["English"],
         "currency": {
             "code": "USD",
@@ -2470,6 +2876,12 @@
             "continent": "Americas",
             "landlocked": false,
             "areaKm2": 347
+        },
+        "nativeNames": {
+            "eng": {
+                "official": "Virgin Islands of the United States",
+                "common": "United States Virgin Islands"
+            }
         },
         "languages": ["English"],
         "currency": {

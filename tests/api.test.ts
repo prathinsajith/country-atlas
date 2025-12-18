@@ -9,6 +9,7 @@ import {
     getCountryByCallingCode,
     getCountriesByCurrency,
     getCountriesByLanguage,
+    getBorderCountries,
 } from '../src/api';
 
 describe('API Functions', () => {
@@ -162,6 +163,45 @@ describe('API Functions', () => {
             expect(countries.length).toBeGreaterThan(0);
             const india = countries.find((c) => c.iso.alpha2 === 'IN');
             expect(india).toBeDefined();
+        });
+    });
+    describe('getCountryByName (Native)', () => {
+        it('should find India by native name (Hindi)', () => {
+            const country = getCountryByName('भारत');
+            expect(country).toBeDefined();
+            expect(country?.iso.alpha2).toBe('IN');
+        });
+
+        it('should find France by native name', () => {
+            const country = getCountryByName('République française');
+            expect(country).toBeDefined();
+            expect(country?.iso.alpha2).toBe('FR');
+        });
+    });
+
+    describe('getBorderCountries', () => {
+        it('should return bordering countries for India', () => {
+            const borders = getBorderCountries('IN');
+            expect(borders.length).toBeGreaterThan(0);
+            const names = borders.map((c) => c.name);
+            expect(names).toContain('Pakistan');
+            expect(names).toContain('China');
+        });
+
+        it('should return empty for island countries', () => {
+            const borders = getBorderCountries('Japan');
+            expect(borders).toEqual([]);
+        });
+    });
+
+    describe('Constants', () => {
+        it('should export valid constant lists', async () => {
+            const { CONTINENTS, ISO2_CODES, ISO3_CODES, CURRENCY_CODES } =
+                await import('../src/api');
+            expect(CONTINENTS).toContain('Asia');
+            expect(ISO2_CODES).toContain('IN');
+            expect(ISO3_CODES).toContain('IND');
+            expect(CURRENCY_CODES).toContain('USD');
         });
     });
 });

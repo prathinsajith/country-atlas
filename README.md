@@ -190,17 +190,30 @@ interface Country {
 
 ## 🧪 Testing & Quality
 
-The package is tested using **Vitest** to ensure:
+The package includes **157 comprehensive tests** using **Vitest** to ensure:
 
-- Data completeness and consistency
-- ISO and currency code uniqueness
-- SVG validity and optimization
-- Utility correctness
-- Phone validation accuracy
+- ✅ **36 tests** - Image manipulation & flag utilities
+- ✅ **30 tests** - Phone number validation
+- ✅ **46 tests** - Utility functions (validators, formatters, guards, sorting, geo)
+- ✅ **22 tests** - API functions
+- ✅ **16 tests** - CLI functionality
+- ✅ **7 tests** - Data integrity, schema validation, search
 
 ```bash
+# Run all tests (157 tests in ~4s)
 npm test
+
+# Run fast unit tests only (141 tests in ~325ms)
+npm run test:unit
+
+# Run CLI tests only
+npm run test:cli
+
+# Watch mode for development
+npm run test:watch
 ```
+
+**Performance**: Unit tests execute in **325ms** for rapid development feedback!
 
 ---
 
