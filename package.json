@@ -37,6 +37,7 @@
         "optimize:flags": "tsx scripts/optimize-flags.ts",
         "normalize": "tsx scripts/normalize.ts",
         "setup": "npm run fetch:data && npm run fetch:flags && npm run optimize:flags && npm run normalize",
+        "release": "standard-version",
         "prepare": "husky"
     },
     "keywords": [
@@ -108,6 +109,7 @@
         "husky": "^9.1.7",
         "lint-staged": "^16.2.7",
         "prettier": "^3.7.4",
+        "standard-version": "^9.5.0",
         "svgo": "^4.0.0",
         "tsup": "^8.5.1",
         "tsx": "^4.21.0",
