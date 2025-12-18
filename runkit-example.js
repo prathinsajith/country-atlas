@@ -4,31 +4,32 @@ const countryAtlas = require('country-atlas');
 const usa = countryAtlas.getCountryByISO3('USA');
 console.log('🇺🇸 Found Country:', usa.name);
 
-// 2. Intelligent Search (Fuzzy Matching)
+// 2. Native Name Lookup
+const bharat = countryAtlas.getCountryByName('भारत');
+console.log('\n🧡 Native Name (भारत) Found:', bharat.name);
+
+// 3. Intelligent Search (Fuzzy Matching)
 // Finds "United Kingdom" by searching "Kingdom" or "United"
 const searchResults = countryAtlas.searchCountry('Kingdom');
 console.log(`\n🔍 Search 'Kingdom' found ${searchResults.length} results:`);
 searchResults.forEach((c) => console.log(` - ${c.flag.emoji} ${c.name} (${c.iso.alpha3})`));
 
-// 3. Performance: Field Selection
+// 4. Performance: Field Selection
 // Only fetch what you need (Save memory!)
 const partialData = countryAtlas.getCountry('JP', {
     fields: ['name', 'capital', 'currency', 'timezones'],
 });
 console.log('\n⚡ Partial Data (Japan):', partialData);
 
-// 4. Region Filtering
+// 5. Region Filtering
 const oceania = countryAtlas.getCountriesByContinent('Oceania');
 console.log(`\n🌏 Oceania has ${oceania.length} countries.`);
 
-// 5. Data Depth: Borders & Neighbors
-const germany = countryAtlas.getCountryByISO2('DE');
-if (germany && germany.geo.borders) {
-    console.log(`\n🇩🇪 Germany borders ${germany.geo.borders.length} countries:`);
-    const neighbors = germany.geo.borders
-        .map((code) => countryAtlas.getCountryByISO3(code)?.name)
-        .filter(Boolean);
-    console.log(neighbors.join(', '));
+// 6. Data Depth: Borders & Neighbors
+const neighbors = countryAtlas.getBorderCountries('Germany');
+if (neighbors.length > 0) {
+    console.log(`\n🇩🇪 Germany borders ${neighbors.length} countries:`);
+    console.log(neighbors.map((c) => c.name).join(', '));
 }
 
 // 6. Data Depth: Currencies

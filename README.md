@@ -14,15 +14,16 @@
 
 ## ✨ Key Features
 
-- **🧩 Fully type-safe** – Strict TypeScript types for `Country`, `Geo`, `Currency`, `Flag`, and more
+- **🧩 Fully type-safe** – Strict TypeScript types with literal ISO codes for complete autocomplete support
+- **🚩 Native Name Lookup** – Find countries by their native names (e.g., "भारत", "République française")
 - **🌲 Tree-shakable** – Import only what you need (regions, utilities, or single lookups)
 - **🚫 Zero runtime dependencies** – Pure data + utilities
 - **🚩 Infinite-scale flags** – Optimized SVG flags that scale without quality loss
 - **📞 Phone intelligence** – Validation, parsing, formatting, and country auto-detection
 - **🎨 Flag image utilities** – Resize, shape, filter, and convert SVG flags
-- **🌍 Geographic helpers** – Bounds, lat/lng, distance calculation, nearest countries
-- **🔁 Dual module support** – Works with ESM and CommonJS
-- **🧪 Well tested** – 150+ tests validating data integrity and utilities
+- **🌍 Geographic helpers** – Neighbors, bounds, lat/lng, and distance calculation
+- **🧪 Well tested** – 160+ tests validating data integrity, performance, and utilities
+- **🔄 CI/CD ready** – Automated workflows for testing, build verification, and linting
 
 ---
 
@@ -45,13 +46,17 @@ pnpm add country-atlas
 ```ts
 import { getCountryByISO2, getCountryByName } from 'country-atlas';
 
-const india = getCountryByISO2('IN');
+const india = getCountryByISO2('IN'); // Full autocomplete for ISO codes!
 console.log(india?.name); // India
 console.log(india?.currency.code); // INR
 console.log(india?.flag.emoji); // 🇮🇳
 
 const usa = getCountryByName('united states');
 console.log(usa?.iso.alpha3); // USA
+
+// Native Name Lookup
+const bharat = getCountryByName('भारत');
+console.log(bharat?.name); // India
 ```
 
 ---
@@ -70,6 +75,9 @@ const matches = searchCountry('uni');
 const asia = getCountriesByContinent('Asia');
 const us = getCountryByCallingCode('+1');
 const euroZone = getCountriesByCurrency('EUR');
+
+import { getBorderCountries } from 'country-atlas';
+const neighbors = getBorderCountries('India'); // Returns array of Country objects
 ```
 
 ---
@@ -84,6 +92,19 @@ import { getCountry } from 'country-atlas';
 const minimal = getCountry('FR', {
     fields: ['name', 'capital', 'currency'],
 });
+```
+
+---
+
+## 📋 Exported Constants
+
+Access raw metadata lists directly for select components or dropdowns:
+
+```ts
+import { CONTINENTS, ISO2_CODES, ISO3_CODES, CURRENCY_CODES } from 'country-atlas';
+
+console.log(CONTINENTS); // ['Asia', 'Europe', ...]
+console.log(ISO2_CODES); // ['AF', 'AX', 'AL', ...]
 ```
 
 ---
@@ -149,8 +170,19 @@ console.log(asia.length); // 50+ countries
 ## 🖥️ CLI Usage
 
 ```bash
+# Look up by code or name (India, IN, IND)
 npx atlas lookup IN
-npx atlas search "United States"
+
+# List neighboring countries
+npx atlas borders "United Kingdom"
+
+# Search with table output (default)
+npx atlas search "United"
+
+# Get machine-readable JSON
+npx atlas lookup US --json
+
+# List countries by region
 npx atlas region Asia
 ```
 
@@ -190,13 +222,13 @@ interface Country {
 
 ## 🧪 Testing & Quality
 
-The package includes **157 comprehensive tests** using **Vitest** to ensure:
+The package includes **163 comprehensive tests** using **Vitest** to ensure:
 
 - ✅ **36 tests** - Image manipulation & flag utilities
 - ✅ **30 tests** - Phone number validation
 - ✅ **46 tests** - Utility functions (validators, formatters, guards, sorting, geo)
-- ✅ **22 tests** - API functions
-- ✅ **16 tests** - CLI functionality
+- ✅ **27 tests** - API functions (Indexing, Native Lookup, Borders)
+- ✅ **17 tests** - CLI functionality (Tables, JSON, Borders)
 - ✅ **7 tests** - Data integrity, schema validation, search
 
 ```bash

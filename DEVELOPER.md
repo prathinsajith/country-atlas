@@ -14,8 +14,17 @@ graph TD
     B -->|scripts/normalize.ts| F{Normalization Engine}
     E -->|Embed| F
     F -->|Minify & Split| G[Normalized JSONs]
-    G -->|Build (tsup)| H[Distributable Bundle]
+    G -->|Internal Indexing | I{API Layer Maps}
+    I -->|Build (tsup)| H[Distributable Bundle]
 ```
+
+## ⚡ Lookup Strategy (O(1) Performance)
+
+Traditional country packages often use `Array.find` or `Array.filter`, resulting in $O(N)$ lookup times. **Country Atlas** implements a lazy-initialized indexing strategy:
+
+1.  **Lazy Initialization**: Indexes are built only when the first lookup function is called, ensuring zero startup overhead.
+2.  **Internal Maps**: Uses `Map<string, Country>` for instantaneous $O(1)$ lookups by ISO codes (alpha-2, alpha-3, numeric) and names (common, official, and native).
+3.  **Secondary Indexes**: Pre-calculated maps for calling codes, currencies, and languages for $O(K)$ or $O(1)$ retrieval.
 
 ## 🔧 ETL Pipeline (`scripts/`)
 
@@ -49,16 +58,26 @@ The core logic resides in the `scripts/` directory. These scripts are strictly t
 We use `Vitest` to ensure data integrity.
 
 - **Schema Validation:** Every single generated country object is validated against the `Country` TypeScript interface.
-- **API Tests:** Verify that lookup functions (`getCountryByISO2`) behave correctly (case-insensitivity, error handling).
+- **API Tests:** Verify that lookup functions (`getCountryByISO2`) behave correctly (case-insensitivity, native names, border logic).
 - **Flag Integrity:** checks that every embedded string is a valid SVG.
+- **CLI Tests:** Verifies consistent formatting (Table vs. JSON) and error codes.
 
 ## 📦 Build System
 
 - **Tool:** `tsup` (esbuild-based).
 - **Output:**
-    - `dist/index.js` (CJS) - Legacy Node.js support.
-    - `dist/index.mjs` (ESM) - Modern bundlers (Vite, Webpack).
-    - `dist/index.d.ts` (Types) - Full TypeScript support.
+- **dist/index.js** (CJS) - Legacy Node.js support.
+- **dist/index.mjs** (ESM) - Modern bundlers (Vite, Webpack).
+- **dist/index.d.ts** (Types) - Full TypeScript support with **literal string unions** for ISO codes.
+
+### 🏷️ Literal Type System
+
+To provide the best possible developer experience, we generate literal string unions for all ISO2 and ISO3 codes. This enables IDE autocomplete and compile-time validation:
+
+```typescript
+function getCountryByISO2(code: ISO2 | string): Country | undefined;
+// 'AF' | 'AX' | 'AL' ... all 250 codes suggested in your IDE
+```
 
 ## 🛠️ Utility Functions Library
 
@@ -180,6 +199,14 @@ FLAG_SIZES = {
 
 - `CountryNotFoundError` - Includes code and search type
 - `InvalidInputError` - Includes field, value, and reason
+
+## 🚀 CI/CD & Automation
+
+We follow high-quality engineering standards for every release:
+
+- **GitHub Actions**: Automated testing and build verification on every push and PR.
+- **Git Hooks**: Using `Husky` and `lint-staged` to enforce code formatting (`prettier`) and linting (`eslint`) before every commit.
+- **Semantic Versioning**: Strict adherence to SemVer to prevent breaking changes.
 
 ## 🧪 Testing Strategy (Updated)
 
@@ -371,4 +398,4 @@ src/
 
 - Test all edge cases
 - Test both valid and invalid inputs
-- Maintain high test coverage (157 tests and growing)
+- Maintain high test coverage (163 tests and growing)
