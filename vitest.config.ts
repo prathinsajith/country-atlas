@@ -2,14 +2,6 @@ import { defineConfig } from 'vitest/config';
 
 export default defineConfig({
     test: {
-        // Run tests in parallel with optimized pool
-        pool: 'threads',
-        poolOptions: {
-            threads: {
-                singleThread: false,
-            },
-        },
-
         // Optimize test execution
         globals: false, // Don't inject globals, use explicit imports
         passWithNoTests: false,
