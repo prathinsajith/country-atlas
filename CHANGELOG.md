@@ -1,9 +1,20 @@
 # Changelog
 
-All notable changes to this project will be documented in this file.
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
-and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+## 1.1.0 (2025-12-18)
+
+### Features
+
+- add automated release workflow with GitHub Actions and standard-version ([caf2a7c](https://github.com/prathinsajith/country-atlas/commit/caf2a7c20a25a802870234fd8507c9d925ef4332))
+- Add native name lookup, border country API and CLI commands, enhance type safety, and configure Husky Git hooks. ([d0eb39c](https://github.com/prathinsajith/country-atlas/commit/d0eb39cd9a140fbc6cb4b1ddf2a64882e4787823))
+- add publishing instructions and update package.json author field ([310e846](https://github.com/prathinsajith/country-atlas/commit/310e8468ef7ba10d8145baab0936e86e16976323))
+- Configure npm registry authentication and add project repository links to package.json. ([7a63239](https://github.com/prathinsajith/country-atlas/commit/7a632399ce2611ce1e63ba2fa10814c5aae340b0))
+- Introduce a comprehensive `utils` module for sorting, image, geo, validation, formatting, and phone functionalities, alongside new tests, build configurations, and documentation. ([916c619](https://github.com/prathinsajith/country-atlas/commit/916c6191b46d7e028315ccdccfa1cabfb737082c))
+- Introduce API functions for country lookup by calling code, currency, and language, add CLI tests, and provide a Runkit example. ([0742b68](https://github.com/prathinsajith/country-atlas/commit/0742b68abfddb3fb72fdc689f89a521a79e59df8))
+- Introduce CI/CD with Husky and Vitest, update country data, and enhance API/CLI functionalities with new types and documentation. ([8c914a0](https://github.com/prathinsajith/country-atlas/commit/8c914a0bbaa0e6236bdcfcbbca00609ed48db9d6))
+- Introduce Husky pre-commit hook to run lint-staged and ignore .npmrc. ([b556e18](https://github.com/prathinsajith/country-atlas/commit/b556e18ad401374f5172671814814ef1130d96f1))
+- introduce phone number validation and formatting utilities, update developer guide, and add flag build instructions ([72625b4](https://github.com/prathinsajith/country-atlas/commit/72625b4992ccb25da8e07501755987977a77ff48))
 
 ## [1.0.4] - 2025-12-14
 
