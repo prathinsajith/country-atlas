@@ -12,6 +12,7 @@ coverage
 
 # Environment / Local
 .env
+.npmrc
 .DS_Store
 
 # Logs
