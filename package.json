@@ -1,6 +1,6 @@
 {
     "name": "country-atlas",
-    "version": "1.0.6",
+    "version": "1.1.0",
     "description": "A lightweight, production-ready, type-safe country data library providing ISO standards, currencies, flags, timezones, calling codes, and map-ready geographic metadata for 250+ countries.",
     "publishConfig": {
         "access": "public"
