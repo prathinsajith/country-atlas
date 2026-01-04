@@ -94,6 +94,15 @@ async function normalize() {
                 console.warn(`Could not read SVG for ${iso.alpha2}`);
             }
 
+            // Manual patches for missing data
+            if (raw.cca3 === 'XKX') {
+                // Kosovo
+                iso.numeric = '383';
+            }
+            if (raw.name.common === 'Caribbean Netherlands') {
+                raw.flag = '🇧🇶';
+            }
+
             const flag: Flag = {
                 emoji: raw.flag || '',
                 svg: svgContent,
